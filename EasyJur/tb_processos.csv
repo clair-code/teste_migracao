@@ -1,0 +1,1 @@
+id_processo,id_advogado_responsavel,id_cliente,nome_cliente,id_contrario,nome_contrario,numero,titulo_processo,n_pasta,instancia,tipo_processo,data_distribuicao,data_cadastro,status,id_empresa,id_migracao

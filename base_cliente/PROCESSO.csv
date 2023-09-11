@@ -1,0 +1,201 @@
+id,numero,cliente,adverso,instancia,responsáivel,status,cadastrodata,distdata,grupos,acao
+51365641,8530909-59.2020.80.1661,42,611,Terceira,rmarques@uniube.com,arquivo definitivo,,21/8/2015,1;4;3,Ação Proc-000988
+51365642,3433438-27.2000.90.8927,168,854,Terceira,rafaeloli@uniube.com,Em andamento,,11/8/2012,3;4;1,Ação Proc-000999
+51365643,6684921-12.2011.63.1493,33,312,Segunda,fbeatriz@uniube.com,encerrado,,19/6/2020,4;3;1,Ação Proc-0001010
+51365644,"9,37284E+18",54,976,Terceira,jsantos@uniube.com,Conhecimento,,11/1/2017,4;3;2,Ação Proc-0001021
+51365645,4266183-65.2009.93.9021,92,258,Primeira,fbeatriz@uniube.com,encerrado,,5/4/2014,2;1;3;4,Ação Proc-0001032
+51365646,3553604-33.1995.49.4565,104,630,Primeira,rmarques@uniube.com,Engavetado,,10/12/2016,1;2;4,Ação Proc-0001043
+51365647,2503318-95.2011.41.7959,181,497,Terceira,rafaeloli@uniube.com,Conhecimento,,17/4/2016,3;4;2,Ação Proc-0001054
+51365648,9823183-74.2010.55.8073,12,678,Terceira,giulia@uniube.com,Conhecimento,,26/1/2017,1;2,Ação Proc-0001065
+51365649,6941980-45.2011.75.7984,52,288,Segunda,rmarques@uniube.com,Anulado,,5/2/2014,1;2;3,Ação Proc-0001076
+51365650,5114727-24.1999.77.7160,20,437,Segunda,giulia@uniube.com,Em andamento,,10/10/2013,2;1;4,Ação Proc-0001087
+51365651,,14,286,Primeira,fbeatriz@uniube.com,Em julgamento,,8/7/2020,3;1;2;4,Ação Proc-0001098
+51365652,5473442-69.2012.27.9534,84,692,Terceira,rmarques@uniube.com,arquivo definitivo,,6/3/2013,4;2;3,Ação Proc-0001109
+51365653,,154,570,Primeira,rmarques@uniube.com,Anulado,,23/10/2014,4;3,Ação Proc-0001120
+51365654,"5,12963E+18",163,687,Primeira,jsantos@uniube.com,Conhecimento,,13/1/2012,2;3;1,Ação Proc-0001131
+51365655,3601406-21.1995.46.2459,39,967,Segunda,rafaeloli@uniube.com,Em andamento,,14/9/2020,2;1,Ação Proc-0001142
+51365656,2277245-49.2000.46.1990,123,410,Segunda,giulia@uniube.com,encerrado,,16/8/2020,3;4;1,Ação Proc-0001153
+51365657,5472130-19.2001.28.7641,29,478,Terceira,giulia@uniube.com,Em andamento,,21/1/2020,4;1;2,Ação Proc-0001164
+51365658,8237193-70.2009.93.4959,22,340,Primeira,fbeatriz@uniube.com,Anulado,,5/3/2017,4;2,Ação Proc-0001175
+51365659,6290217-82.2010.77.3533,102,579,Terceira,rafaeloli@uniube.com,Conhecimento,,4/2/2016,3;2,Ação Proc-0001186
+51365660,"4,52151E+18",158,996,Primeira,giulia@uniube.com,encerrado,,17/6/2015,2;1,Ação Proc-0001197
+51365661,9705551-21.2009.39.3778,198,663,Segunda,rafaeloli@uniube.com,Anulado,,18/2/2012,2;1,Ação Proc-0001208
+51365662,8170179-82.2000.57.2771,147,927,Primeira,giulia@uniube.com,Engavetado,,19/11/2018,2;4,Ação Proc-0001219
+51365663,"9,56242E+18",100,978,Terceira,jsantos@uniube.com,Conhecimento,,20/1/2019,1;2,Ação Proc-0001230
+51365664,9338760-22.2002.30.6199,188,703,Terceira,giulia@uniube.com,Anulado,,23/5/2014,4;3;2,Ação Proc-0001241
+51365665,1290338-47.1994.90.3518,143,282,Primeira,jsantos@uniube.com,Em andamento,,27/1/2020,1;3;4,Ação Proc-0001252
+51365666,7400118-24.2016.28.6226,21,852,Segunda,giulia@uniube.com,encerrado,,1/3/2015,3;4;2,Ação Proc-0001263
+51365667,4842651-44.1996.39.9051,91,559,Primeira,fbeatriz@uniube.com,Conhecimento,,2/2/2012,1;3;2,Ação Proc-0001274
+51365668,"4,75201E+18",57,576,Terceira,giulia@uniube.com,arquivo definitivo,,3/2/2013,3;4,Ação Proc-0001285
+51365669,7657571-92.2009.71.5889,161,282,Terceira,rafaeloli@uniube.com,arquivo definitivo,,22/9/2019,4;1;2,Ação Proc-0001296
+51365670,9403377-84.2021.28.1124,72,270,Terceira,rmarques@uniube.com,Engavetado,,25/3/2018,4;2;3,Ação Proc-0001307
+51365671,9534952-43.2008.12.2692,121,981,Primeira,rafaeloli@uniube.com,Em julgamento,,25/6/2019,3;2;4,Ação Proc-0001318
+51365672,6499659-20.2007.83.3362,68,308,Primeira,giulia@uniube.com,Aguardando Sentença,,3/9/2014,2;1,Ação Proc-0001329
+51365673,5977641-24.1999.61.5968,153,697,Primeira,rmarques@uniube.com,Anulado,,15/8/2018,2;3,Ação Proc-0001340
+51365674,2782670-55.1995.22.8326,138,572,Segunda,rafaeloli@uniube.com,Em andamento,,4/9/2020,2;1;4;3,Ação Proc-0001351
+51365675,,179,742,Terceira,rmarques@uniube.com,arquivo definitivo,,8/8/2015,1;4,Ação Proc-0001362
+51365676,6548078-29.2014.47.2433,185,527,Terceira,fbeatriz@uniube.com,Conhecimento,,15/2/2020,2;1;4,Ação Proc-0001373
+51365677,7255539-52.2007.77.8363,103,676,Segunda,jsantos@uniube.com,Engavetado,,17/9/2020,4;3;2;1,Ação Proc-0001384
+51365678,"4,25576E+18",94,894,Segunda,rmarques@uniube.com,Engavetado,,9/12/2015,2;4;1,Ação Proc-0001395
+51365679,8078596-66.2006.89.1613,36,291,Terceira,giulia@uniube.com,arquivo definitivo,,23/4/2017,4;1;3,Ação Proc-0001406
+51365680,3797784-83.2012.31.2954,181,212,Segunda,jsantos@uniube.com,encerrado,,2/9/2016,2;1,Ação Proc-0001417
+51365681,1402578-13.2010.45.2779,60,468,Primeira,giulia@uniube.com,Conhecimento,,22/7/2014,4;3;2,Ação Proc-0001428
+51365682,8713477-76.2012.92.8850,120,954,Primeira,giulia@uniube.com,Engavetado,,16/6/2019,3;2,Ação Proc-0001439
+51365683,7965976-70.2001.25.4968,116,409,Segunda,giulia@uniube.com,Aguardando Sentença,,4/6/2014,2;1;4;3,Ação Proc-0001450
+51365684,4323848-97.2002.32.4707,97,792,Segunda,rafaeloli@uniube.com,Aguardando Sentença,,23/4/2016,2;4;1,Ação Proc-0001461
+51365685,"5,65885E+18",38,865,Primeira,rmarques@uniube.com,Em andamento,,24/4/2014,4;1;3,Ação Proc-0001472
+51365686,9565964-34.2011.60.3754,77,432,Primeira,rmarques@uniube.com,encerrado,,19/8/2016,4;3;2,Ação Proc-0001483
+51365687,"4,18771E+18",74,200,Segunda,jsantos@uniube.com,Conhecimento,,10/12/2016,2;4;1,Ação Proc-0001494
+51365688,6187357-12.2002.85.3572,12,415,Terceira,jsantos@uniube.com,arquivo definitivo,,18/7/2015,2;3,Ação Proc-0001505
+51365689,6895488-11.2004.81.7582,104,767,Terceira,jsantos@uniube.com,encerrado,,22/5/2014,3;4,Ação Proc-0001516
+51365690,"1,92224E+18",91,361,Segunda,rafaeloli@uniube.com,arquivo definitivo,,1/5/2015,1;3,Ação Proc-0001527
+51365691,3971802-96.2013.49.4422,161,269,Terceira,rafaeloli@uniube.com,Engavetado,,3/1/2017,1;4;2;3,Ação Proc-0001538
+51365692,9053852-77.2000.90.8821,138,991,Terceira,jsantos@uniube.com,Anulado,,5/2/2019,4;3;1;2,Ação Proc-0001549
+51365693,8385054-13.1997.95.7795,187,936,Primeira,giulia@uniube.com,arquivo definitivo,,10/6/2019,1;4,Ação Proc-0001560
+51365694,"3,47104E+18",159,845,Primeira,giulia@uniube.com,Conhecimento,,26/12/2012,3;1,Ação Proc-0001571
+51365695,5324318-79.2011.97.8788,110,829,Primeira,rafaeloli@uniube.com,Engavetado,,2/1/2015,2;4;3,Ação Proc-0001582
+51365696,"1,32414E+18",146,304,Primeira,rafaeloli@uniube.com,Anulado,,16/5/2017,4;3,Ação Proc-0001593
+51365697,"3,75925E+18",50,410,Primeira,jsantos@uniube.com,Em julgamento,,28/1/2017,2;1;3,Ação Proc-0001604
+51365698,5587284-91.2010.22.4259,192,406,Primeira,jsantos@uniube.com,Aguardando Sentença,,22/9/2015,2;4;1,Ação Proc-0001615
+51365699,3565867-12.2009.36.1654,26,964,Segunda,rmarques@uniube.com,arquivo definitivo,,7/4/2015,2;3;1;4,Ação Proc-0001626
+51365700,"8,94697E+18",69,556,Segunda,giulia@uniube.com,Em julgamento,,25/2/2019,2;3;1;4,Ação Proc-0001637
+51365701,1330749-16.2001.18.4384,106,594,Segunda,fbeatriz@uniube.com,Aguardando Sentença,,13/1/2017,3;1;4,Ação Proc-0001648
+51365702,3271310-13.2000.22.9352,178,892,Terceira,fbeatriz@uniube.com,encerrado,,11/6/2012,2;4;3,Ação Proc-0001659
+51365703,4280524-32.1997.36.6067,181,684,Segunda,giulia@uniube.com,Conhecimento,,21/5/2018,4;1;2,Ação Proc-0001670
+51365704,"6,17688E+18",5,720,Segunda,rmarques@uniube.com,Engavetado,,14/10/2014,3;1;4,Ação Proc-0001681
+51365705,7898561-90.2011.45.1577,91,943,Primeira,giulia@uniube.com,arquivo definitivo,,6/10/2018,4;1;3,Ação Proc-0001692
+51365706,9950778-91.1995.94.6956,183,239,Segunda,jsantos@uniube.com,Em julgamento,,3/7/2020,3;2;4,Ação Proc-0001703
+51365707,,108,277,Segunda,rafaeloli@uniube.com,Engavetado,,25/3/2012,2;3;1,Ação Proc-0001714
+51365708,6486454-67.2008.32.2180,88,764,Terceira,giulia@uniube.com,encerrado,,23/12/2018,4;2,Ação Proc-0001725
+51365709,9433437-38.2010.25.8543,130,367,Primeira,rafaeloli@uniube.com,Aguardando Sentença,,3/4/2018,4;2,Ação Proc-0001736
+51365710,,40,929,Primeira,rafaeloli@uniube.com,Aguardando Sentença,,1/5/2016,4,Ação Proc-0001747
+51365711,9516594-91.2020.66.6273,18,979,Segunda,rmarques@uniube.com,Engavetado,,21/8/2018,4;1;3;2,Ação Proc-0001758
+51365712,9676407-76.2008.35.6768,134,469,Segunda,giulia@uniube.com,Aguardando Sentença,,1/10/2019,1;3;4,Ação Proc-0001769
+51365713,5312222-99.1999.60.9634,75,396,Terceira,jsantos@uniube.com,Em julgamento,,24/10/2015,4;3;2,Ação Proc-0001780
+51365714,"3,7305E+18",78,209,Terceira,rmarques@uniube.com,Engavetado,,24/3/2015,3;1,Ação Proc-0001791
+51365715,9100685-88.1994.45.9035,137,898,Segunda,rmarques@uniube.com,arquivo definitivo,,13/7/2017,2;1;4,Ação Proc-0001802
+51365716,8018853-94.2009.45.9549,107,443,Segunda,rmarques@uniube.com,encerrado,,9/11/2018,2;3;1,Ação Proc-0001813
+51365717,9843887-13.2013.51.5298,173,916,Primeira,rmarques@uniube.com,encerrado,,10/4/2016,1;2,Ação Proc-0001824
+51365718,"7,46934E+18",155,846,Terceira,rmarques@uniube.com,arquivo definitivo,,25/7/2019,3;4;2,Ação Proc-0001835
+51365719,,20,460,Segunda,rmarques@uniube.com,Engavetado,,24/2/2016,4;2;3,Ação Proc-0001846
+51365720,3208714-58.2004.67.3121,138,485,Terceira,giulia@uniube.com,Conhecimento,,5/1/2016,3;1;2,Ação Proc-0001857
+51365721,3201414-63.2008.42.5739,51,306,Primeira,fbeatriz@uniube.com,Em andamento,,25/2/2020,4;3,Ação Proc-0001868
+51365722,3027653-53.1996.14.2929,74,926,Primeira,rafaeloli@uniube.com,encerrado,,1/4/2017,2;4;1;3,Ação Proc-0001879
+51365723,4383455-58.2016.90.1492,138,487,Terceira,fbeatriz@uniube.com,arquivo definitivo,,20/12/2017,4;3,Ação Proc-0001890
+51365724,3378275-97.1997.70.6686,11,241,Terceira,giulia@uniube.com,Engavetado,,4/12/2019,1;4;2,Ação Proc-0001901
+51365725,,199,585,Terceira,rafaeloli@uniube.com,Em andamento,,22/11/2019,1;4;2,Ação Proc-0001912
+51365726,5798991-50.2001.58.4673,200,398,Primeira,jsantos@uniube.com,Conhecimento,,10/6/2014,3;1;4,Ação Proc-0001923
+51365727,5730449-66.2001.68.3611,132,779,Segunda,fbeatriz@uniube.com,Anulado,,10/9/2014,1;2,Ação Proc-0001934
+51365728,7183651-98.1996.79.2778,86,363,Terceira,fbeatriz@uniube.com,Em andamento,,1/6/2012,2;3;1,Ação Proc-0001945
+51365729,7194033-47.2002.99.4300,77,913,Primeira,jsantos@uniube.com,Aguardando Sentença,,15/5/2016,1;2;4;3,Ação Proc-0001956
+51365730,2320814-79.2012.51.5769,102,210,Primeira,fbeatriz@uniube.com,Em andamento,,7/10/2020,1;2,Ação Proc-0001967
+51365731,8012792-69.1996.38.3486,122,402,Terceira,giulia@uniube.com,arquivo definitivo,,24/12/2012,2;3;1,Ação Proc-0001978
+51365732,"7,32138E+18",148,339,Segunda,fbeatriz@uniube.com,arquivo definitivo,,13/8/2017,4;3;1,Ação Proc-0001989
+51365733,7882229-58.1996.18.2661,147,203,Primeira,giulia@uniube.com,arquivo definitivo,,28/12/2019,3;4;2,Ação Proc-0002000
+51365734,8009430-46.2010.31.8628,194,410,Terceira,rmarques@uniube.com,arquivo definitivo,,15/12/2017,3;4;1,Ação Proc-0002011
+51365735,5245067-20.2002.19.3844,184,298,Segunda,giulia@uniube.com,Anulado,,4/6/2015,1;3;4,Ação Proc-0002022
+51365736,7497598-55.2021.91.8185,148,522,Primeira,fbeatriz@uniube.com,Aguardando Sentença,,12/1/2017,4;3;1,Ação Proc-0002033
+51365737,4221008-87.2021.41.1292,142,622,Terceira,giulia@uniube.com,encerrado,,24/1/2019,3;1,Ação Proc-0002044
+51365738,,199,343,Segunda,jsantos@uniube.com,arquivo definitivo,,17/5/2016,1;4,Ação Proc-0002055
+51365739,6365391-22.2013.16.2991,61,543,Primeira,rmarques@uniube.com,Aguardando Sentença,,1/3/2020,1;2;4,Ação Proc-0002066
+51365740,"4,88344E+18",104,505,Terceira,rmarques@uniube.com,Anulado,,2/8/2014,2;3;1;4,Ação Proc-0002077
+51365741,2684812-33.1995.15.2857,126,712,Terceira,rafaeloli@uniube.com,Em julgamento,,9/12/2015,4;1,Ação Proc-0002088
+51365742,5395281-49.2019.14.9926,147,768,Primeira,jsantos@uniube.com,Em andamento,,9/5/2012,1;3,Ação Proc-0002099
+51365743,"8,27476E+18",70,450,Segunda,giulia@uniube.com,arquivo definitivo,,17/2/2012,3;4,Ação Proc-0002110
+51365744,9356210-30.2004.73.7276,176,845,Segunda,rafaeloli@uniube.com,encerrado,,27/8/2012,4;1,Ação Proc-0002121
+51365745,2989269-13.2018.94.6573,70,460,Segunda,rmarques@uniube.com,Em andamento,,3/7/2012,4;1;3,Ação Proc-0002132
+51365746,7197875-48.2017.56.6349,136,720,Primeira,rafaeloli@uniube.com,Conhecimento,,12/3/2018,3;1;2,Ação Proc-0002143
+51365747,"8,0895E+18",106,777,Segunda,fbeatriz@uniube.com,Aguardando Sentença,,2/3/2018,1,Ação Proc-0002154
+51365748,9141020-23.2006.64.2726,30,229,Primeira,rmarques@uniube.com,Engavetado,,4/7/2014,4;3,Ação Proc-0002165
+51365749,5741827-26.2015.90.8035,173,938,Segunda,jsantos@uniube.com,Em julgamento,,11/9/2014,4;3,Ação Proc-0002176
+51365750,"9,40512E+18",13,849,Primeira,giulia@uniube.com,Conhecimento,,24/11/2012,2;3,Ação Proc-0002187
+51365751,8965633-90.1998.99.2722,195,394,Primeira,jsantos@uniube.com,Em andamento,,22/4/2016,4;2;3,Ação Proc-0002198
+51365752,8374708-87.1997.87.4308,106,239,Terceira,giulia@uniube.com,encerrado,,8/8/2012,2;4;3,Ação Proc-0002209
+51365753,3368946-52.2019.96.5781,36,263,Primeira,rmarques@uniube.com,Anulado,,24/12/2018,4,Ação Proc-0002220
+51365754,1162279-74.2007.95.4920,70,707,Terceira,jsantos@uniube.com,Em andamento,,17/11/2020,1;2,Ação Proc-0002231
+51365755,"6,56088E+18",33,813,Segunda,rafaeloli@uniube.com,arquivo definitivo,,4/6/2014,3;2;1,Ação Proc-0002242
+51365756,6963807-38.1996.29.4443,89,517,Primeira,jsantos@uniube.com,Em andamento,,2/8/2012,4;1,Ação Proc-0002253
+51365757,1350815-99.1997.19.8102,151,629,Terceira,rafaeloli@uniube.com,arquivo definitivo,,9/11/2015,2;4;3,Ação Proc-0002264
+51365758,5007518-85.2021.98.4891,179,888,Primeira,jsantos@uniube.com,Em andamento,,14/7/2014,1;4,Ação Proc-0002275
+51365759,"1,81346E+18",21,908,Primeira,rmarques@uniube.com,Engavetado,,5/6/2019,1;2,Ação Proc-0002286
+51365760,4336373-52.1997.26.6759,90,410,Segunda,giulia@uniube.com,Em julgamento,,24/2/2018,1;4,Ação Proc-0002297
+51365761,9073985-40.2003.22.6859,121,293,Segunda,fbeatriz@uniube.com,Anulado,,2/5/2015,2;1,Ação Proc-0002308
+51365762,4915706-13.2008.89.8500,46,363,Primeira,jsantos@uniube.com,Engavetado,,25/6/2019,3;2,Ação Proc-0002319
+51365763,9099210-29.1994.38.6383,191,861,Terceira,rafaeloli@uniube.com,Aguardando Sentença,,8/7/2012,2;1;4,Ação Proc-0002330
+51365764,9214300-21.2017.52.9242,163,797,Segunda,jsantos@uniube.com,Em julgamento,,21/6/2016,2;4;3,Ação Proc-0002341
+51365765,3354657-29.2013.57.7591,114,384,Primeira,jsantos@uniube.com,Em andamento,,13/1/2016,1;4;2,Ação Proc-0002352
+51365766,9983035-98.2009.57.9361,100,658,Segunda,fbeatriz@uniube.com,encerrado,,6/1/2020,4;2,Ação Proc-0002363
+51365767,,62,291,Terceira,rmarques@uniube.com,Em julgamento,,2/8/2014,1;2;4,Ação Proc-0002374
+51365768,7765583-56.2021.39.9669,186,885,Terceira,rafaeloli@uniube.com,Anulado,,17/4/2012,2;4,Ação Proc-0002385
+51365769,3556639-45.1995.78.9886,117,489,Primeira,rafaeloli@uniube.com,Em julgamento,,28/3/2019,1;2;4,Ação Proc-0002396
+51365770,8301943-71.2013.43.6281,149,771,Terceira,jsantos@uniube.com,Engavetado,,21/8/2018,3;2;4,Ação Proc-0002407
+51365771,8063369-18.2008.36.4692,198,361,Primeira,giulia@uniube.com,arquivo definitivo,,2/9/2012,3;1;4,Ação Proc-0002418
+51365772,5293245-93.2004.83.5322,44,406,Primeira,giulia@uniube.com,Conhecimento,,7/3/2013,3;4;1,Ação Proc-0002429
+51365773,5036483-29.2000.72.2238,18,300,Primeira,giulia@uniube.com,Em julgamento,,28/9/2019,3;2,Ação Proc-0002440
+51365774,5571351-14.1994.94.5930,53,559,Segunda,giulia@uniube.com,Em julgamento,,25/2/2014,3;2,Ação Proc-0002451
+51365775,"5,71363E+18",6,642,Primeira,giulia@uniube.com,Conhecimento,,14/11/2020,4;3;2,Ação Proc-0002462
+51365776,,33,237,Terceira,giulia@uniube.com,Em andamento,,12/2/2020,3;1,Ação Proc-0002473
+51365777,3410402-46.2017.47.8328,29,608,Terceira,jsantos@uniube.com,Em julgamento,,26/5/2020,4;3;2,Ação Proc-0002484
+51365778,8890585-93.2010.16.4989,134,756,Segunda,fbeatriz@uniube.com,Em julgamento,,9/3/2020,3;1,Ação Proc-0002495
+51365779,3193363-35.1996.60.1736,129,726,Primeira,rmarques@uniube.com,Anulado,,11/10/2012,2;1,Ação Proc-0002506
+51365780,4419129-98.2019.74.9304,186,883,Segunda,rafaeloli@uniube.com,Em andamento,,5/8/2020,1;2;3,Ação Proc-0002517
+51365781,"2,20241E+18",181,807,Segunda,giulia@uniube.com,encerrado,,1/4/2015,3;1;4,Ação Proc-0002528
+51365782,8242371-31.1996.66.6884,57,215,Segunda,rmarques@uniube.com,Conhecimento,,3/2/2017,4;1;2,Ação Proc-0002539
+51365783,5972959-39.2017.73.4306,55,551,Primeira,fbeatriz@uniube.com,Aguardando Sentença,,4/6/2019,3;1;4,Ação Proc-0002550
+51365784,"5,34572E+18",25,965,Terceira,rmarques@uniube.com,Em julgamento,,24/10/2015,1;2;4,Ação Proc-0002561
+51365785,9673944-53.2009.67.6537,85,739,Primeira,jsantos@uniube.com,Em andamento,,17/5/2012,4;2;1,Ação Proc-0002572
+51365786,"5,09955E+18",58,607,Segunda,rmarques@uniube.com,Em andamento,,22/10/2013,4;1;2,Ação Proc-0002583
+51365787,1384385-69.2010.34.2782,34,529,Primeira,rafaeloli@uniube.com,Conhecimento,,28/4/2014,1;4,Ação Proc-0002594
+51365788,7047507-85.1998.46.5362,127,484,Primeira,fbeatriz@uniube.com,Conhecimento,,20/10/2012,4;3;1,Ação Proc-0002605
+51365789,"8,63428E+18",169,668,Segunda,rmarques@uniube.com,Engavetado,,8/8/2012,4;3,Ação Proc-0002616
+51365790,6077872-12.2006.90.7088,147,516,Segunda,rafaeloli@uniube.com,Em andamento,,6/4/2012,2;4,Ação Proc-0002627
+51365791,"3,01458E+18",49,475,Primeira,fbeatriz@uniube.com,Em andamento,,28/4/2017,1;2;3,Ação Proc-0002638
+51365792,"3,10173E+18",81,271,Primeira,rmarques@uniube.com,Aguardando Sentença,,20/4/2014,1;4;2,Ação Proc-0002649
+51365793,,151,918,Terceira,fbeatriz@uniube.com,Engavetado,,25/12/2014,2;4;1,Ação Proc-0002660
+51365794,7226210-46.2004.23.5508,186,468,Terceira,rmarques@uniube.com,Engavetado,,17/4/2012,2;3,Ação Proc-0002671
+51365795,6147876-43.1997.73.4543,137,620,Terceira,fbeatriz@uniube.com,Aguardando Sentença,,18/12/2020,3;2,Ação Proc-0002682
+51365796,"9,15028E+18",161,214,Primeira,rmarques@uniube.com,Conhecimento,,9/6/2020,4;3;2,Ação Proc-0002693
+51365797,"5,02759E+18",20,301,Segunda,giulia@uniube.com,arquivo definitivo,,24/7/2017,2;1;4,Ação Proc-0002704
+51365798,"2,83461E+18",6,857,Terceira,giulia@uniube.com,arquivo definitivo,,13/12/2018,1;3;4,Ação Proc-0002715
+51365799,8463904-88.2011.63.2567,48,873,Terceira,rafaeloli@uniube.com,Em andamento,,16/7/2020,2;4;1,Ação Proc-0002726
+51365800,,33,382,Terceira,jsantos@uniube.com,Em andamento,,24/2/2012,3;4,Ação Proc-0002737
+51365801,5324369-33.2002.68.2351,45,549,Primeira,jsantos@uniube.com,Em andamento,,26/7/2014,2;3;1,Ação Proc-0002748
+51365802,6507862-30.1999.21.8151,44,918,Segunda,giulia@uniube.com,Em andamento,,17/1/2020,4;1,Ação Proc-0002759
+51365803,"4,32357E+18",149,784,Segunda,jsantos@uniube.com,arquivo definitivo,,8/10/2020,1;2;4;3,Ação Proc-0002770
+51365804,"3,32534E+18",132,336,Primeira,giulia@uniube.com,Conhecimento,,14/4/2020,2;1,Ação Proc-0002781
+51365805,3232513-87.2004.64.4571,102,988,Terceira,jsantos@uniube.com,Em andamento,,24/2/2013,1,Ação Proc-0002792
+51365806,7314762-94.2019.39.8085,35,245,Segunda,jsantos@uniube.com,Em julgamento,,6/2/2016,3;1;4,Ação Proc-0002803
+51365807,7799513-52.2012.84.1690,70,935,Segunda,giulia@uniube.com,arquivo definitivo,,20/3/2015,1;4;2;3,Ação Proc-0002814
+51365808,5201663-44.2001.70.5298,98,631,Primeira,fbeatriz@uniube.com,Conhecimento,,20/9/2014,2;3,Ação Proc-0002825
+51365809,,158,296,Terceira,fbeatriz@uniube.com,Em julgamento,,6/6/2012,4;2,Ação Proc-0002836
+51365810,8270873-72.1997.23.4091,16,343,Primeira,jsantos@uniube.com,Conhecimento,,6/10/2018,2;4;1,Ação Proc-0002847
+51365811,9387950-16.2021.56.3656,156,384,Terceira,fbeatriz@uniube.com,Conhecimento,,4/1/2017,3;1,Ação Proc-0002858
+51365812,8152860-50.1996.68.4211,35,895,Terceira,rafaeloli@uniube.com,Conhecimento,,14/11/2016,4;1,Ação Proc-0002869
+51365813,6279270-31.2014.37.8885,44,963,Terceira,rafaeloli@uniube.com,Conhecimento,,16/6/2014,4;2,Ação Proc-0002880
+51365814,,64,343,Primeira,rmarques@uniube.com,Anulado,,5/7/2018,4;3;1,Ação Proc-0002891
+51365815,1600584-42.2015.60.8349,90,410,Segunda,jsantos@uniube.com,arquivo definitivo,,16/4/2012,1;3;4,Ação Proc-0002902
+51365816,"6,19201E+18",77,543,Terceira,rmarques@uniube.com,Engavetado,,5/11/2013,3;2,Ação Proc-0002913
+51365817,"7,55896E+18",183,791,Primeira,fbeatriz@uniube.com,Aguardando Sentença,,15/2/2020,1;3;4,Ação Proc-0002924
+51365818,8132759-98.1996.54.5480,139,210,Primeira,giulia@uniube.com,Anulado,,6/4/2012,1;4;3,Ação Proc-0002935
+51365819,7601827-15.2007.39.5762,172,711,Primeira,rafaeloli@uniube.com,arquivo definitivo,,28/2/2013,3;4,Ação Proc-0002946
+51365820,6309597-48.2014.73.6612,64,864,Primeira,jsantos@uniube.com,Em julgamento,,20/2/2017,3;2;1,Ação Proc-0002957
+51365821,8746884-55.2007.70.7234,9,821,Segunda,rafaeloli@uniube.com,Em andamento,,28/1/2014,4;3;1,Ação Proc-0002968
+51365822,6841805-53.2005.48.2900,47,417,Segunda,jsantos@uniube.com,Em julgamento,,13/1/2013,3;2;1;4,Ação Proc-0002979
+51365823,8504064-70.2003.71.8465,105,834,Segunda,fbeatriz@uniube.com,Aguardando Sentença,,11/10/2020,3;2,Ação Proc-0002990
+51365824,8274878-71.2014.39.4436,75,551,Segunda,rafaeloli@uniube.com,Anulado,,1/3/2016,3;1;2,Ação Proc-0003001
+51365825,5860970-63.2013.26.3539,178,442,Segunda,jsantos@uniube.com,Engavetado,,28/7/2020,4;2;3,Ação Proc-0003012
+51365826,,134,830,Primeira,fbeatriz@uniube.com,arquivo definitivo,,14/12/2019,4;3;2,Ação Proc-0003023
+51365827,8574051-62.1995.74.9567,39,978,Terceira,rafaeloli@uniube.com,arquivo definitivo,,12/4/2012,1;4;3,Ação Proc-0003034
+51365828,8844011-39.2003.58.7336,182,659,Terceira,jsantos@uniube.com,arquivo definitivo,,22/11/2018,2;4,Ação Proc-0003045
+51365829,9544200-68.2009.69.4028,130,320,Terceira,fbeatriz@uniube.com,Em andamento,,25/7/2013,4,Ação Proc-0003056
+51365830,"6,72454E+18",156,229,Primeira,giulia@uniube.com,Em andamento,,15/1/2013,4;1;2;3,Ação Proc-0003067
+51365831,7740325-52.1996.30.2779,163,703,Terceira,rafaeloli@uniube.com,encerrado,,15/4/2020,3;2,Ação Proc-0003078
+51365832,1481090-17.2020.43.5533,176,402,Segunda,jsantos@uniube.com,Engavetado,,17/12/2015,3;4;1,Ação Proc-0003089
+51365833,4048470-57.2002.33.9243,129,675,Segunda,jsantos@uniube.com,Engavetado,,7/7/2014,4;3;2,Ação Proc-0003100
+51365834,4593035-31.2009.50.6539,99,941,Terceira,fbeatriz@uniube.com,Aguardando Sentença,,25/11/2016,4;2;1,Ação Proc-0003111
+51365835,"1,38386E+18",131,870,Terceira,rmarques@uniube.com,arquivo definitivo,,5/11/2014,4;1,Ação Proc-0003122
+51365836,"4,29178E+18",125,489,Terceira,giulia@uniube.com,Em andamento,,4/4/2014,1;3;4;2,Ação Proc-0003133
+51365837,6428102-36.2000.17.1073,191,214,Terceira,fbeatriz@uniube.com,Aguardando Sentença,,22/1/2019,4;3;2,Ação Proc-0003144
+51365838,9648949-42.1997.84.4957,137,778,Segunda,rafaeloli@uniube.com,arquivo definitivo,,28/12/2018,2;4,Ação Proc-0003155
+51365839,8088270-78.2011.88.2352,190,842,Terceira,fbeatriz@uniube.com,Conhecimento,,10/8/2019,1;2;3,Ação Proc-0003166
+51365840,4511947-95.1996.42.5931,22,258,Terceira,giulia@uniube.com,arquivo definitivo,,20/3/2020,2;1,Ação Proc-0003177

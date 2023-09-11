@@ -1,0 +1,1001 @@
+id,nome,cpf,email,cidade,telefones,endereco,Grupos
+1,Mylen Walter De Melo,949.863.285-39,mylen-walter@septem.co.uk,2512507,(35) 4265 - 6243; (52) 16735 - 4324; (81) 6746 - 7308,"Alameda Ernesto Augusto, 1753",1;3;4
+2,Tony Crozara Edgar,576.712.645-71,tony-crozara@carlmail.com,2307650,(55) 9987 - 2163; (44) 12726 - 9007,"Travessa Cristo, 849",2;3
+3,Dina Walter Racazella,661.889.789-36,dina_walter@carlmail.com,2414001,(97) 1899 - 6672; (66) 28578 - 7217; (11) 9596 - 1680,"Rua do Whisky, 1292 - sala 14",1;2;4
+4,Orlando Lucas Melo,628.454.116-41,orlando.lucas@septem.co.uk,2209807,(93) 4986 - 9222; (21) 27595 - 4595; (87) 4334 - 7866,"Rua do Carneiro, 1754",3;4
+5,Pamela Oliveira Andrade,179.473.667-46,pamelaoliveira@septem.co.uk,2201507,(21) 9132 - 6147; (58) 17922 - 4743; (47) 6165 - 1595,"Travessa Costa Teles, 672 - Apto 591",3;2
+6,Caio Santista Lucas,319.597.883-12,caio-santista@septem.co.uk,2211209,(12) 4128 - 5635; (94) 11441 - 3985; (16) 4214 - 8333,"Rua Easy, 600 - Apto 91",1;2
+7,Teresa Walter Trindade,657.697.528-97,teresawalter@hjmail.com.br,2107209,(61) 7521 - 6199; (42) 17284 - 6351; (73) 7565 - 8292,"Alameda Carolina, 523",3;1;4;2
+8,Tony Santista De Melo,144.466.269-12,tony-santista@septem.co.uk,2300150,(44) 9697 - 8469; (24) 1413 - 1718,"Alameda Setembro, 813",2;4;1
+9,Tony Santos Andrade,618.964.734-33,tonysantos@carlmail.com,1600501,(17) 9984 - 6596; (46) 16398 - 1009; (17) 2714 - 9999,"Rua Yayá, 1887",3;1;2
+10,Orlando Sousa Crozara,392.576.969-47,orlando.sousa@septem.co.uk,2500734,(47) 1118 - 3523; (28) 19525 - 4076; (95) 6257 - 8044,"Rua Setembrina, 313 - Apto 454",4;2;3
+11,Guilherme Edgar Melo,361.347.463-27,guilherme.edgar@hjmail.com.br,2702355,(98) 7213 - 8262; (29) 13888 - 7473; (31) 3796 - 3152,"Travessa Peas, 1861 - Apto 910",3;1;4
+12,Laura Abreu Melo,184.337.749-23,laura.abreu@hjmail.com.br,2206605,(21) 8954 - 3952; (11) 25371 - 2944; (21) 5629 - 7783,"Avenida Estados Desunidos, 1523",2;4;3
+13,Natasha Silveira Pires,888.965.724-52,natasha.silveira@carlmail.com,2912509,(61) 9666 - 2112; (22) 14685 - 7098; (77) 1383 - 1781,"Alameda Saracura, 963 - Apartamento 383",2;1
+14,Rosa Santista Racazella,898.573.531-31,rosa.santista@septem.co.uk,1101807,(85) 4667 - 2513; (86) 19923 - 7153; (74) 2115 - 9602,"Alameda Peas, 1759",4;3;2
+15,Carlos Santista Santista,139.249.542-48,carlos-santista@hjmail.com.br,2100477,(13) 7191 - 2966; (75) 19186 - 6435,"Travessa do Whisky, 1425",2;3
+16,Tony Melo Edgar,869.466.855-31,tonymelo@septem.co.uk,2914208,(47) 6334 - 5166; (96) 18552 - 8630; (25) 4592 - 7811,"Travessa Peas, 489 - sala 25",4;1;3
+17,Sousa Abreu Crozara,271.835.723-54,sousaabreu@septem.co.uk,1505403,(43) 4616 - 7282; (52) 30316 - 8971; (24) 4651 - 5694,"Travessa Peas, 658",3;4;2
+18,Camila Duarte Queiroz,483.215.977-42,camila.duarte@hjmail.com.br,2105963,(21) 5145 - 2713; (24) 9645 - 3655; (15) 3399 - 9024,"Alameda Zimbro, 1779 - Apartamento 197",4;2;3
+19,Laura Lucas Oliveira,361.616.497-19,lauralucas@carlmail.com,1200013,(47) 2286 - 2526; (26) 28762 - 5467; (57) 3833 - 5075,"Rua Peas, 1909 - Apartamento 723",4;1;2;3
+20,Rafael Silva Lucas,627.911.184-54,rafael.silva@septem.co.uk,2614402,(53) 1923 - 4168; (33) 28586 - 2225; (95) 6443 - 2840,"Avenida Setembrino, 911 - Apto 564",1;2;4;3
+21,Otávio Abreu De Melo,916.733.543-14,otávio-abreu@carlmail.com,1600105,(87) 3631 - 6255; (12) 14925 - 1643; (11) 4991 - 5177,"Travessa Lenora, 555",1;4;2
+22,Carla Walter Crozara,355.399.911-87,carla.walter@hjmail.com.br,2302008,(94) 9662 - 4778; (35) 26316 - 6559; (18) 5434 - 6363,"Avenida Santos Dumont, 590",4;2
+23,Luzia Santos Queiroz,572.571.761-51,luzia-santos@hjmail.com.br,2507408,(42) 5512 - 3797; (31) 13983 - 6350; (63) 9516 - 6243,"Alameda Setembro, 1413",4;2;1;3
+24,Igor Sousa Melo,927.849.314-86,igor_sousa@septem.co.uk,2207207,(15) 7533 - 9154; (54) 2855 - 3193; (27) 6772 - 2485,"Travessa Saracura, 1300 - sala 14",2;3
+25,Otávio Ramos Pires,355.278.353-68,otávio_ramos@septem.co.uk,2100477,(53) 9581 - 2889; (42) 10668 - 9194; (26) 8485 - 1389,"Avenida Setembrina, 451",1;2;3
+26,João Abreu de Sá,867.241.931-42,joão.abreu@carlmail.com,2105609,(54) 4829 - 8867; (83) 10886 - 8497; (34) 1471 - 1162,"Travessa confins, 1582",3;1;2
+27,Rafaela Silveira Oliveira,265.867.114-26,rafaelasilveira@septem.co.uk,2201705,(66) 7427 - 5275; (78) 5161 - 9122; (18) 6883 - 8518,"Alameda Ernesto Augusto, 10",4;1;2
+28,Rafael de Sá Abreu,627.495.518-21,rafael_de@carlmail.com,1302702,(21) 4168 - 6375; (37) 16186 - 4342; (15) 6455 - 3695,"Alameda serenata, 53",3;4
+29,Rosi Sousa Pires,494.749.233-84,rosisousa@carlmail.com,1707405,(73) 5514 - 1895; (64) 11499 - 7279; (88) 8558 - 1962,"Avenida do Whisky, 785 - sala 14",3;4;2
+30,Mylen Sousa Crozara,555.668.187-47,mylen-sousa@hjmail.com.br,2709004,(21) 5146 - 1426; (39) 19611 - 5322; (48) 6253 - 5686,"Travessa Saracura, 724",3;4
+31,Guilherme Duarte Trindade,556.993.317-56,guilherme-duarte@hjmail.com.br,2909307,(45) 1961 - 2353; (38) 17199 - 3398; (72) 8631 - 8972,"Travessa serenata, 464",1;2
+32,Gladison Trindade De Melo,439.833.454-47,gladisontrindade@hjmail.com.br,1501782,(74) 6635 - 4436; (39) 7644 - 6789; (19) 8834 - 5618,"Rua Costa Teles, 994",3;4;2
+33,Priscila Edgar Walter,262.443.893-64,priscila-edgar@carlmail.com,2504108,(46) 1662 - 9671; (41) 9966 - 7056; (65) 3667 - 5215,"Alameda do Coelho da Páscoa, 989",2;1;3;4
+34,Mylen Andrade Silva,136.219.728-35,mylen_andrade@carlmail.com,2705705,(32) 1527 - 2942; (72) 30225 - 1027; (56) 3232 - 1317,"Rua do Gin Tônica, 165",1;3;4
+35,Lauro De Melo De Melo,945.164.135-24,lauro-de@carlmail.com,2201739,(99) 5432 - 7578; (54) 29512 - 4736; (43) 9552 - 2411,"Rua Zimbro, 1579",3;4
+36,Carlos Trindade Trindade,354.114.389-32,carlostrindade@hjmail.com.br,2409704,(46) 7989 - 6873; (37) 19842 - 6746; (98) 6799 - 5712,"Rua Easy, 707 - Apto 377",4;2;3
+37,Mylen Andrade Santos,419.264.228-86,mylen_andrade@hjmail.com.br,2100477,(91) 2388 - 5355; (75) 29956 - 8389; (54) 7754 - 6277,"Rua Vinícius CEO, 5 - Apto 322",2;4;1
+38,Eduardo Melo Trindade,263.448.544-34,eduardo_melo@carlmail.com,2103208,(13) 9455 - 9989; (94) 15273 - 8113; (34) 1153 - 2437,"Rua Marcos, 1276",4;2
+39,Camila Ramos Oliveira,261.537.293-95,camila_ramos@septem.co.uk,1400100,(77) 8851 - 7499; (95) 6538 - 9214; (58) 5184 - 2531,"Travessa Brasil, 1777 - sala 6",4;2;3
+40,Teresa de Sá Abreu,751.946.315-67,teresa-de@carlmail.com,2703809,(12) 7947 - 8847; (13) 2822 - 8687; (37) 6395 - 1484,"Avenida Yayá, 1692",3;4;1
+41,Rafaela Sousa Santos,777.312.768-46,rafaela.sousa@septem.co.uk,2703205,(15) 5137 - 4426; (86) 14355 - 1579; (25) 3997 - 8791,"Rua Carolina, 472",4;1
+42,Pamela Crozara Andrade,738.655.946-26,pamela_crozara@septem.co.uk,1502905,(79) 2571 - 4676; (72) 18636 - 2796; (29) 9424 - 2659,"Alameda Uberaba, 1365",1;4;3
+43,Rafael de Sá Pires,517.753.339-71,rafael-de@carlmail.com,2104552,(45) 6365 - 9493; (21) 24135 - 8414; (27) 8521 - 5970,"Travessa do Bode, 1050 - sala 17",3;1;2
+44,Leandro Melo Andrade,618.832.196-52,leandromelo@carlmail.com,1101609,(27) 1967 - 2999; (75) 27226 - 5595; (42) 8673 - 6712,"Travessa do Bode, 1404 - sala 17",4;1;3
+45,Eduardo Sousa De Melo,656.258.298-73,eduardosousa@septem.co.uk,1200203,(54) 7936 - 5372; (44) 12265 - 3838; (91) 7341 - 9132,"Travessa Uberaba, 671 - sala 16",4;2;1
+46,João Silva Trindade,736.362.286-87,joão-silva@septem.co.uk,2400901,(29) 4685 - 9621; (52) 3138 - 6806; (67) 4956 - 5212,"Avenida do Whisky, 1874 - Apartamento 241",3;1
+47,Otávio Lima Santos,973.445.925-85,otávio-lima@hjmail.com.br,2207207,(39) 3269 - 5986; (37) 6677 - 8255; (71) 1316 - 3880,"Alameda Lenora, 959 - sala 15",1;2
+48,Rafaela Crozara Santos,837.153.742-57,rafaelacrozara@septem.co.uk,1400175,(27) 2139 - 6786; (16) 28435 - 3905; (42) 9521 - 8611,"Rua Cristina Aveiro, 293 - Apto 918",3;1;4
+49,Adriana Pires Walter,178.327.391-77,adriana.pires@hjmail.com.br,2607703,(97) 8912 - 5765; (48) 3613 - 9821; (93) 7634 - 8990,"Travessa do Gin Tônica, 1899 - Apto 590",4
+50,Marcos Pires Oliveira,462.615.842-76,marcos.pires@hjmail.com.br,2411007,(99) 9478 - 1859; (55) 13831 - 4761; (22) 6294 - 7364,"Avenida Saracura, 1716",3;4;2;1
+51,Rosi Duarte Abreu,329.416.294-17,rosi.duarte@carlmail.com,2505105,(19) 9369 - 4647; (23) 20687 - 9309; (59) 9725 - 5083,"Rua Uberaba, 1085 - Apartamento 536",3;1;2
+52,Teresa Ramos Lucas,869.259.661-19,teresa.ramos@septem.co.uk,2105401,(48) 3627 - 9968; (65) 7619 - 6456; (36) 2951 - 5875,"Travessa milipode, 802 - sala 12",3;1;4
+53,Tony Oliveira Andrade,615.893.931-85,tony.oliveira@carlmail.com,2209955,(27) 3976 - 9273; (62) 3519 - 5828; (91) 5685 - 7559,"Alameda Catapora, 90 - Apartamento 124",4;1
+54,Sandra Racazella Crozara,451.372.113-97,sandra.racazella@carlmail.com,2612471,(79) 5121 - 7212; (87) 11978 - 5179; (25) 9341 - 8055,"Travessa Saracura, 1427",3;2;4;1
+55,Giulia Abreu Andrade,975.565.394-93,giuliaabreu@carlmail.com,1303908,(77) 5615 - 2115; (96) 19631 - 7663; (76) 2941 - 9132,"Alameda Carolina, 911 - sala 19",1;3;4
+56,Rosa Queiroz Crozara,382.989.532-53,rosa.queiroz@septem.co.uk,2400901,(97) 1369 - 1117; (51) 16739 - 8713; (57) 4397 - 5520,"Rua Evangelista, 1421 - sala 6",1;3;2
+57,Sandra Crozara Sousa,292.248.625-12,sandra_crozara@septem.co.uk,2313757,(44) 2132 - 4271; (59) 29529 - 7854; (82) 8582 - 5155,"Alameda Carolina, 290",3;4;1
+58,Igor Queiroz Edgar,693.359.914-87,igorqueiroz@hjmail.com.br,2602605,(98) 9214 - 1188; (85) 17787 - 6928; (45) 3456 - 4573,"Travessa garça, 521 - Apartamento 302",2;4;3
+59,Carlos Sousa Lima,735.338.378-77,carlos-sousa@hjmail.com.br,2905008,(34) 2415 - 8455; (18) 7832 - 5197; (81) 8649 - 2197,"Avenida Cristo, 967 - Apartamento 29",3;4
+60,Antonio Queiroz Trindade,421.261.121-55,antonio_queiroz@septem.co.uk,2700706,(54) 8683 - 7281; (68) 7122 - 9154; (65) 9812 - 1757,"Avenida Costa Teles, 201 - Apartamento 244",3;4
+61,Priscila Trindade Crozara,886.113.974-85,priscila_trindade@septem.co.uk,1710904,(65) 5955 - 9769; (18) 9715 - 9639; (19) 8233 - 5513,"Rua serenata, 2031",3;4;1
+62,Caio Silveira Racazella,677.258.687-13,caio-silveira@carlmail.com,2406908,(73) 2484 - 4921; (73) 18287 - 2444; (34) 1784 - 7715,"Alameda confins, 327",2;4;3;1
+63,Carlos Pires Oliveira,349.415.722-82,carlos.pires@hjmail.com.br,2102077,(13) 5778 - 7671; (93) 5577 - 2198; (44) 7582 - 2540,"Avenida Brasil, 1780",3;2;4
+64,Carlos Edgar Andrade,622.813.381-14,carlos-edgar@carlmail.com,2406502,(55) 6281 - 5481; (29) 2498 - 9526; (97) 4584 - 3941,"Rua Brasil, 503 - sala 18",2;4;3;1
+65,Beatriz Silva Lucas,275.994.721-44,beatriz-silva@hjmail.com.br,2615300,(81) 7255 - 7432; (16) 7587 - 8682; (86) 2969 - 1297,"Avenida Setembro, 1831",1;3;4
+66,Pamela Edgar Walter,494.455.497-24,pamela_edgar@carlmail.com,2102705,(36) 5389 - 8466; (32) 18299 - 7768; (94) 9366 - 1075,"Avenida Peas, 850",1;3
+67,Otávio Duarte Melo,225.479.771-27,otávio.duarte@septem.co.uk,2600054,(99) 4399 - 3192; (42) 23196 - 7745; (85) 6826 - 5603,"Avenida Uberaba, 236 - Apartamento 418",1;4;3
+68,Lauro De Melo Abreu,551.885.384-69,lauro_de@carlmail.com,2510600,(19) 2493 - 6172; (26) 15837 - 8792; (31) 3131 - 6178,"Alameda Uberaba, 703",4;3
+69,Carlos Santos De Melo,258.125.755-62,carlos_santos@carlmail.com,2508000,(94) 3413 - 6483; (57) 6117 - 5140; (74) 7741 - 1458,"Avenida Catapora, 2041 - Apartamento 379",2;3;1
+70,João Queiroz Duarte,264.444.188-32,joão-queiroz@septem.co.uk,2112704,(14) 2791 - 5315; (92) 19386 - 9157; (87) 3596 - 3758,"Travessa Evangelista, 1200",2;4;1
+71,Camila Queiroz Lucas,896.811.483-33,camila-queiroz@septem.co.uk,2801603,(52) 9287 - 2242; (63) 27866 - 4092; (56) 3138 - 5045,"Avenida Zimbro, 854",4;2;3
+72,Priscila Santos Crozara,782.298.691-54,priscilasantos@septem.co.uk,2912400,(95) 5474 - 7295; (16) 14329 - 2870; (87) 2119 - 8145,"Travessa Evangelista, 1669",4;1
+73,Orlando Santista Silveira,311.317.751-22,orlandosantista@hjmail.com.br,2301307,(91) 6216 - 6463; (42) 1145 - 1134; (82) 2635 - 5448,"Travessa Carolina, 764",2;1;3
+74,Luzia Ramos Abreu,297.989.763-81,luzia.ramos@hjmail.com.br,1101468,(77) 4353 - 1947; (99) 24332 - 1120; (62) 2899 - 7810,"Rua Zimbro, 1332",2;3
+75,Maria Lucas Duarte,549.286.637-46,maria.lucas@carlmail.com,2800506,(17) 6817 - 1769; (25) 6675 - 3315; (75) 7114 - 3781,"Travessa do Carneiro, 1162",3;4;2
+76,Caio Trindade Silveira,125.391.523-67,caio_trindade@carlmail.com,2517209,(12) 6932 - 4462; (36) 15628 - 1738; (22) 5828 - 6912,"Rua Setembro, 892",1;4
+77,Lauro Andrade Lucas,824.641.371-87,lauroandrade@carlmail.com,2510006,(34) 2737 - 2881; (39) 18188 - 1137; (46) 3768 - 8404,"Rua milipode, 279 - Apto 20",2;4;1
+78,Antonio Abreu Duarte,889.125.177-92,antonio_abreu@septem.co.uk,2514305,(86) 7496 - 4833; (25) 17576 - 1101; (33) 7593 - 4644,"Rua do Whisky, 1192",4;2
+79,Rosi Pires Racazella,177.396.769-93,rosi.pires@septem.co.uk,2410009,(91) 9292 - 7947; (99) 6798 - 9457; (19) 1465 - 7743,"Travessa Maria Angélica, 978",3;1;2
+80,Marcos Queiroz Queiroz,599.585.178-25,marcos_queiroz@carlmail.com,1200393,(18) 2174 - 7316; (81) 20627 - 4512; (48) 5139 - 8663,"Alameda do Whisky, 1516 - sala 19",3;1
+81,Sousa Abreu Santos,347.638.561-28,sousa.abreu@hjmail.com.br,2106102,(92) 9234 - 2613; (98) 29842 - 7203; (97) 5459 - 9868,"Alameda Maria Angélica, 264 - Apartamento 296",1;4;2
+82,Gladison Silveira Melo,384.976.481-59,gladison.silveira@carlmail.com,2311504,(71) 3129 - 8661; (62) 19683 - 8670; (54) 4432 - 3433,"Avenida Setembrina, 1878 - sala 18",1;3;4
+83,Rafael de Sá Racazella,142.833.113-82,rafael-de@septem.co.uk,2901957,(21) 1465 - 8472; (89) 23192 - 2657; (16) 8488 - 1647,"Rua Easy, 270",3;4;1;2
+84,Carla Edgar Silveira,948.987.556-11,carla_edgar@carlmail.com,2709004,(22) 5241 - 2226; (98) 25212 - 8535; (25) 8412 - 6122,"Rua Colonial, 837",2;4
+85,Igor Lucas Queiroz,858.822.667-58,igor-lucas@hjmail.com.br,2607752,(61) 5327 - 1886; (44) 30248 - 2155; (32) 8826 - 3003,"Alameda Catapora, 435 - sala 3",1;2;3
+86,Lauro Silveira Trindade,911.594.842-64,lauro-silveira@hjmail.com.br,2603926,(47) 1343 - 9326; (59) 23444 - 6764; (31) 9955 - 2255,"Rua Catapora, 328",3;2;4;1
+87,Antonio Lima De Melo,543.283.158-51,antonio-lima@septem.co.uk,2807105,(58) 5861 - 7914; (82) 10186 - 8363; (22) 9553 - 3884,"Alameda Maria Angélica, 1339",1;2;4;3
+88,Otávio de Sá Crozara,472.658.597-49,otávio_de@hjmail.com.br,2611533,(97) 5264 - 4592; (34) 16352 - 2299; (69) 9791 - 4757,"Avenida do Coelho da Páscoa, 741",1;4
+89,Pamela Lima Sousa,954.819.714-23,pamela-lima@carlmail.com,2906899,(41) 4957 - 2127; (34) 30764 - 5180; (41) 7666 - 3498,"Rua do Carneiro, 1847",3;4
+90,Leandro de Sá De Melo,929.468.198-43,leandro_de@carlmail.com,2512754,(18) 6944 - 2987; (66) 27354 - 5459; (35) 4794 - 9449,"Rua Yayá, 608",1;4;2
+91,Otávio Queiroz Oliveira,365.199.122-88,otávio.queiroz@hjmail.com.br,2907509,(93) 8437 - 6464; (74) 14989 - 9556; (67) 1599 - 3379,"Rua do Gin Tônica, 1351",4;2
+92,Sousa Lucas Ramos,624.522.225-96,sousa.lucas@septem.co.uk,2105658,(54) 8132 - 9633; (49) 4928 - 1104; (54) 9629 - 1872,"Avenida serenata, 1876",2;1
+93,Carlos Sousa Santista,283.284.515-39,carlos_sousa@carlmail.com,2211100,(57) 3527 - 4973; (34) 27152 - 3744; (76) 2847 - 3245,"Travessa do Gin Tônica, 1849",4;3;2
+94,Tony Melo Ramos,747.954.436-52,tony_melo@carlmail.com,2502151,(79) 5723 - 1626; (22) 15793 - 3041; (62) 6157 - 6109,"Alameda Zimbro, 446",4;1;3
+95,Camila Silveira Duarte,812.194.221-98,camila_silveira@hjmail.com.br,2516151,(67) 1731 - 4447; (76) 17616 - 8451; (26) 9586 - 5817,"Alameda Marcos, 1153 - Apto 283",4;3
+96,Lauro Racazella Abreu,722.751.366-63,lauro_racazella@septem.co.uk,1709500,(39) 9718 - 6468; (85) 5136 - 7953; (99) 6643 - 5668,"Travessa Santos Dumont, 208 - Apto 135",2;1;3
+97,Carla Andrade Queiroz,395.631.466-87,carlaandrade@carlmail.com,1507466,(72) 1738 - 6413; (75) 25765 - 4424; (92) 5969 - 2949,"Avenida da Cenoura, 282",1;3;2
+98,Natasha Edgar Abreu,891.918.821-45,natasha-edgar@septem.co.uk,2903235,(43) 2562 - 1787; (97) 6397 - 7020; (28) 4457 - 2973,"Alameda Lenora, 836 - sala 5",4;1;2
+99,Caio Queiroz Queiroz,645.261.334-67,caio_queiroz@hjmail.com.br,1705607,(94) 1456 - 4434; (88) 14915 - 4445; (64) 5812 - 6464,"Alameda do Gin Tônica, 1818 - sala 7",1;3;2
+100,Rafael Santista Lima,924.955.219-67,rafael.santista@septem.co.uk,2604502,(99) 1842 - 9384; (54) 14259 - 6375; (42) 6842 - 3159,"Travessa Yayá, 737",1;3;4
+101,Gladison Abreu Walter,526.974.484-35,gladisonabreu@hjmail.com.br,2910859,(84) 1917 - 5588; (33) 17862 - 2772; (56) 1942 - 4540,"Avenida Brasil, 1894 - Apto 465",3;2;4;1
+102,Carlos Oliveira Santista,521.382.867-67,carlosoliveira@carlmail.com,2611533,(15) 7118 - 2612; (71) 18581 - 2437; (15) 5135 - 8429,"Rua Lenora, 798",4;3
+103,Gladison Queiroz Santista,243.376.765-24,gladisonqueiroz@carlmail.com,2800704,(66) 7155 - 7188; (82) 4694 - 3172; (55) 2419 - 9547,"Rua do Carneiro, 643",2;4;1
+104,Otávio Lucas Oliveira,758.692.991-38,otáviolucas@hjmail.com.br,2306603,(56) 8382 - 6324; (54) 10275 - 6458; (28) 2819 - 5666,"Rua garça, 13",3;4
+105,Gladison Lucas Racazella,339.271.679-67,gladison-lucas@carlmail.com,2311231,(61) 4457 - 6133; (29) 11578 - 4650; (37) 1142 - 3480,"Avenida do Whisky, 1440 - Apto 151",1;2;3
+106,Marcos Lima Santos,915.588.867-13,marcoslima@hjmail.com.br,1600238,(46) 8788 - 4632; (48) 1348 - 8521; (98) 6329 - 6849,"Alameda Cristina Aveiro, 1630",2;3;4
+107,João Santista Racazella,454.151.266-73,joão_santista@septem.co.uk,1718303,(98) 8793 - 3874; (68) 27377 - 4894; (72) 8156 - 5371,"Rua do Whisky, 1795",2;4
+108,Rosa Pires Racazella,349.569.724-89,rosa_pires@carlmail.com,2615607,(77) 5793 - 5471; (35) 17133 - 4072; (55) 5654 - 4067,"Travessa Saracura, 1356 - sala 9",2;4;3
+109,Rafael Andrade Racazella,969.545.387-68,rafael-andrade@hjmail.com.br,2900207,(82) 3369 - 1138; (51) 12192 - 7650; (76) 7525 - 9628,"Avenida do Whisky, 389 - sala 10",1;4;2
+110,Teresa Lima Lima,837.823.922-14,teresa_lima@hjmail.com.br,1300508,(91) 4995 - 7985; (65) 27794 - 1054; (68) 9118 - 6669,"Rua Yayá, 835 - Apartamento 440",1;2;4
+111,Carlos Pires Pires,884.512.161-62,carlos.pires@carlmail.com,1507102,(72) 4412 - 2575; (87) 13714 - 8079; (61) 4649 - 1467,"Avenida Peas, 1755 - Apto 1000",1;4
+112,Lisa Andrade Trindade,828.731.965-85,lisa.andrade@carlmail.com,2614709,(11) 7445 - 8491; (37) 21552 - 3495; (47) 6864 - 7518,"Alameda da Lenora, 917",4;2;1
+113,Leandro Pires Silva,735.142.373-46,leandro-pires@septem.co.uk,2107258,(77) 4646 - 4523; (93) 7356 - 5815; (95) 2156 - 1552,"Alameda Uberaba, 1886 - Apartamento 299",4;2
+114,Orlando Santos Santos,875.517.458-58,orlandosantos@septem.co.uk,2207603,(55) 9627 - 3558; (44) 20547 - 5122; (99) 1711 - 7657,"Travessa Costa Teles, 1360",1;3;2
+115,Antonio Walter Trindade,346.249.429-12,antonio_walter@septem.co.uk,2510808,(82) 9774 - 1987; (46) 6578 - 4679; (23) 7821 - 6197,"Avenida Saracura, 282",2;3
+116,Carlos Trindade Oliveira,378.319.274-18,carlos-trindade@septem.co.uk,2406155,(53) 1257 - 2977; (52) 29428 - 5290; (57) 9943 - 2367,"Avenida do Carneiro, 485",2;4;1
+117,Rosi Pires De Melo,537.286.388-31,rosi.pires@carlmail.com,2102077,(18) 4714 - 7165; (32) 22969 - 2914; (52) 6852 - 8736,"Alameda Saracura, 714 - Apartamento 146",4;3
+118,William De Melo Crozara,789.259.127-38,william-de@hjmail.com.br,2703700,(28) 4498 - 9755; (18) 4297 - 8388; (85) 7832 - 6011,"Rua Evangelista, 1887 - Apto 303",2;1;4
+119,Rafaela Andrade Silveira,372.538.664-82,rafaela.andrade@septem.co.uk,2406502,(62) 3469 - 9227; (94) 21154 - 8702; (54) 1878 - 6605,"Travessa Cristo, 1958 - Apto 912",3;2;4
+120,Lauro de Sá Santista,243.666.938-69,lauro_de@carlmail.com,2111631,(16) 7974 - 1266; (47) 23611 - 9560; (57) 5674 - 7247,"Alameda Marques, 1166 - sala 12",2;4;3
+121,Tony Racazella Santos,462.751.273-52,tony-racazella@carlmail.com,1721109,(64) 8434 - 6294; (93) 23561 - 7435; (98) 4662 - 8298,"Rua do Carneiro, 345",1;2;3
+122,Giulia Lucas Oliveira,241.669.993-73,giulia_lucas@carlmail.com,1720655,(83) 9252 - 5271; (84) 4497 - 9781; (57) 8156 - 9121,"Avenida Marques, 878 - Apartamento 303",2
+123,Carla Walter Silveira,342.283.137-15,carla-walter@carlmail.com,2414308,(83) 4927 - 2466; (22) 18297 - 8166; (25) 5389 - 7855,"Travessa do Whisky, 1107 - Apto 184",3;4;1
+124,Tony Andrade Oliveira,848.449.362-99,tony-andrade@carlmail.com,2902252,(36) 8721 - 8369; (86) 30437 - 7568; (21) 2172 - 7767,"Travessa Setembrino, 104",4;2;3
+125,Rafaela Queiroz Sousa,335.767.553-85,rafaela_queiroz@carlmail.com,2415008,(43) 2934 - 7297; (75) 17757 - 5972; (32) 2635 - 6623,"Alameda Costa Teles, 8",3;4;2
+126,Antonio Andrade Pires,557.142.861-47,antonio_andrade@carlmail.com,2112274,(19) 8631 - 9881; (67) 23643 - 8956; (99) 2255 - 2324,"Rua Cristina Aveiro, 501 - sala 6",4;2;3
+127,Carla Melo Abreu,785.276.313-98,carla-melo@hjmail.com.br,2507705,(64) 5434 - 5199; (93) 24778 - 3356; (21) 1759 - 8535,"Avenida da Lenora, 1969",4;3
+128,Lauro de Sá Lima,458.751.754-29,laurode@hjmail.com.br,2305902,(49) 9437 - 1662; (14) 20474 - 2872; (48) 5474 - 6633,"Avenida Saracura, 1248",1;3;2
+129,Priscila De Melo Walter,682.543.346-87,priscila.de@carlmail.com,2301109,(52) 5994 - 1698; (23) 13135 - 5620; (78) 2282 - 5073,"Avenida Estados Desunidos, 1753 - Apto 917",2;4
+130,Mylen Silveira Trindade,215.129.647-98,mylen-silveira@hjmail.com.br,2805109,(25) 9282 - 6436; (41) 24519 - 1273; (88) 3981 - 7754,"Rua Colonial, 1494",2;3
+131,Laura Silva Ramos,236.897.143-15,laurasilva@carlmail.com,1716604,(61) 8547 - 4489; (28) 12146 - 1757; (26) 1614 - 6635,"Avenida Peas, 808",3;1
+132,Orlando De Melo Abreu,586.589.156-25,orlando.de@septem.co.uk,2202251,(67) 9133 - 5282; (25) 2678 - 6784; (74) 3851 - 2770,"Rua confins, 245 - Apto 667",1;4;3
+133,Laura Walter Silveira,269.811.178-47,laura_walter@hjmail.com.br,2305332,(41) 4929 - 6331; (74) 5787 - 9137; (56) 6333 - 1426,"Travessa Setembro, 296",4;3;2;1
+134,Leandro Santos de Sá,844.272.939-85,leandro.santos@carlmail.com,1718451,(25) 1217 - 6299; (47) 28557 - 7697; (27) 7459 - 2175,"Travessa do Carneiro, 2040",3;1
+135,Mylen Santos Edgar,817.488.314-17,mylen_santos@hjmail.com.br,1505403,(56) 9925 - 4452; (85) 9297 - 4573; (18) 4339 - 8746,"Avenida milipode, 1548",1;3;4
+136,Otávio Queiroz Ramos,656.781.775-21,otávio-queiroz@septem.co.uk,2201960,(53) 5943 - 5524; (67) 8222 - 3439; (34) 4383 - 9638,"Avenida Brasil, 89 - Apartamento 773",3;2
+137,Guilherme de Sá Crozara,595.664.325-75,guilherme_de@carlmail.com,2107456,(37) 4541 - 8496; (21) 22729 - 5549; (95) 6938 - 3790,"Travessa Catapora, 818",1;3;4
+138,Beatriz Sousa Trindade,196.493.154-76,beatriz.sousa@carlmail.com,2200954,(25) 4211 - 9357; (36) 9482 - 6903; (57) 6733 - 3891,"Rua do Gin Tônica, 1960",4;2
+139,Lauro Oliveira Walter,833.365.158-37,laurooliveira@septem.co.uk,2500502,(62) 6487 - 6952; (44) 29538 - 9050; (32) 1165 - 5254,"Avenida Colonial, 180",1;3;4
+140,Rosa Abreu Racazella,439.654.259-68,rosa_abreu@hjmail.com.br,2111805,(22) 4899 - 9323; (88) 18215 - 1093; (89) 1314 - 4042,"Avenida Costa Teles, 1670 - Apartamento 284",4;3
+141,Adriana de Sá Oliveira,118.573.856-95,adriana.de@hjmail.com.br,2511806,(62) 1913 - 8593; (63) 13135 - 8206; (49) 4881 - 1646,"Rua Evangelista, 553",1;4
+142,Eduardo Lima Racazella,468.724.357-79,eduardo.lima@septem.co.uk,2413805,(78) 5373 - 3555; (41) 10249 - 9644; (29) 7233 - 8032,"Avenida do Coelho da Páscoa, 251",2;1;3;4
+143,Carlos De Melo Santos,818.687.189-37,carlos.de@septem.co.uk,2205359,(26) 1961 - 8279; (61) 12847 - 5782; (24) 1193 - 9569,"Avenida do Coelho da Páscoa, 1903",3;2;1
+144,Lauro Lucas Lucas,193.914.193-36,lauro.lucas@carlmail.com,2509800,(99) 2269 - 6553; (28) 27284 - 1201; (96) 4161 - 9241,"Avenida Setembro, 1716",2;1;4
+145,Eduardo Andrade Edgar,277.261.778-85,eduardo_andrade@hjmail.com.br,2909901,(91) 4237 - 9393; (74) 16695 - 9119; (11) 1461 - 7553,"Alameda Ernesto Augusto, 265",1;3;4
+146,Beatriz Santista Edgar,522.752.692-26,beatriz-santista@hjmail.com.br,2513943,(95) 6546 - 3972; (96) 14774 - 4016; (63) 8321 - 5691,"Rua Zimbro, 1730 - Apartamento 974",1;4;3
+147,Carlos Lucas Andrade,857.856.786-83,carlos_lucas@septem.co.uk,2104057,(77) 5333 - 1819; (34) 22929 - 2678; (61) 5594 - 3183,"Travessa confins, 1031",2;3;1
+148,Gladison De Melo Lima,259.378.857-93,gladison.de@carlmail.com,2504702,(28) 6987 - 4378; (77) 24755 - 4303; (75) 2523 - 1577,"Avenida confins, 437 - sala 24",1;3
+149,Otávio Lima Silveira,526.237.789-49,otáviolima@septem.co.uk,1100072,(65) 4927 - 4583; (48) 7258 - 6827; (58) 6174 - 6594,"Alameda da Cenoura, 949 - Apto 994",1;2
+150,Pamela Andrade Lucas,472.521.425-33,pamela.andrade@hjmail.com.br,2203453,(86) 2593 - 1285; (52) 3715 - 9650; (74) 2519 - 9489,"Avenida Evangelista, 101",2;3;4
+151,Natasha Ramos de Sá,217.419.358-52,natasha.ramos@septem.co.uk,2111078,(25) 8884 - 4956; (48) 17534 - 3913; (18) 1716 - 6412,"Alameda Marcos, 1873 - Apartamento 296",1;2;4
+152,Carlos Duarte de Sá,183.987.185-13,carlosduarte@hjmail.com.br,2604700,(49) 8632 - 1129; (72) 16213 - 5259; (39) 1541 - 6244,"Travessa Maria Angélica, 1954",3;2
+153,Lauro Trindade Edgar,312.642.711-73,lauro.trindade@carlmail.com,1717503,(73) 1417 - 8254; (98) 11836 - 4321; (42) 6149 - 1551,"Rua Yayá, 1580 - Apartamento 871",4;2;1
+154,Adriana Melo Ramos,431.969.427-89,adrianamelo@carlmail.com,2802106,(65) 9653 - 1735; (82) 27624 - 2508; (61) 1594 - 5836,"Avenida Maria Angélica, 2021",2;4;3
+155,Beatriz Queiroz Racazella,747.421.168-89,beatrizqueiroz@carlmail.com,2407302,(13) 9313 - 7221; (66) 5658 - 9951; (29) 6555 - 9725,"Avenida Brasil, 115",4;3;1
+156,Leandro Oliveira Abreu,551.639.729-31,leandro.oliveira@septem.co.uk,2105450,(53) 9313 - 6421; (45) 5317 - 9437; (83) 7793 - 4711,"Alameda Colonial, 1926 - Apto 579",2;1;3
+157,Beatriz Edgar Santos,259.846.764-39,beatriz.edgar@septem.co.uk,1508001,(98) 7476 - 6267; (14) 16491 - 3767; (25) 9459 - 9661,"Alameda Easy, 194",4;2;3;1
+158,Caio Walter Santista,585.399.683-94,caio-walter@hjmail.com.br,2112100,(19) 5914 - 8794; (67) 16442 - 3021; (72) 4623 - 9806,"Avenida da Lenora, 1519",2;3;4
+159,Caio Silveira Santos,159.461.681-73,caiosilveira@carlmail.com,1506195,(98) 2799 - 6122; (74) 12139 - 4185; (35) 4578 - 4510,"Travessa Peas, 606",3;4;1;2
+160,Giulia Racazella Andrade,761.423.885-99,giulia_racazella@septem.co.uk,2205557,(76) 1471 - 2522; (13) 24414 - 2642; (79) 7211 - 5719,"Rua da Cenoura, 1061",4;3
+161,Rafaela Silveira Edgar,821.194.123-91,rafaelasilveira@carlmail.com,1501253,(73) 6975 - 7792; (39) 25639 - 4274; (87) 6785 - 4148,"Rua do Bode, 11",1;4
+162,Antonio Queiroz Silva,365.711.717-19,antonioqueiroz@hjmail.com.br,2609204,(68) 1876 - 6939; (78) 29452 - 7437; (74) 4625 - 5857,"Rua Catapora, 1226",1;2
+163,Leandro Andrade Santista,673.341.389-76,leandro.andrade@hjmail.com.br,2516151,(17) 9667 - 8327; (39) 8523 - 4769; (72) 4532 - 8995,"Rua Peas, 803 - sala 25",3;4
+164,Pamela Oliveira Ramos,357.713.597-65,pamelaoliveira@hjmail.com.br,2207793,(37) 1834 - 2778; (64) 27469 - 1013; (98) 9589 - 7979,"Rua do Carneiro, 1044",1;4;3
+165,Maria Melo Silveira,483.973.583-49,mariamelo@septem.co.uk,2612208,(53) 1674 - 5921; (12) 22456 - 5820; (81) 1352 - 5174,"Avenida Setembrino, 1490",3;4;1;2
+166,Laura Ramos Lucas,959.128.634-98,laura-ramos@carlmail.com,2500908,(63) 1881 - 3258; (94) 3264 - 9295; (79) 6666 - 1632,"Travessa Marques, 553",4;1;3
+167,Caio Crozara Trindade,118.218.256-69,caio-crozara@hjmail.com.br,2411007,(87) 1528 - 1445; (21) 23428 - 4287; (62) 8691 - 5992,"Alameda milipode, 304 - Apartamento 157",1;2
+168,Eduardo De Melo Silveira,768.873.193-35,eduardode@septem.co.uk,2705903,(89) 9886 - 2572; (75) 3756 - 4288; (19) 4892 - 8086,"Rua da Lenora, 237",1;3;4
+169,Mylen Andrade Melo,946.533.214-21,mylen.andrade@hjmail.com.br,2311264,(16) 1592 - 6839; (59) 11668 - 8516; (15) 1871 - 9881,"Travessa do Carneiro, 454",2;3;4
+170,Camila Santos Abreu,772.883.821-23,camila.santos@carlmail.com,2306256,(49) 4356 - 1218; (87) 28386 - 4180; (83) 9559 - 5367,"Alameda do Gin Tônica, 508",3;4;1;2
+171,Antonio Santos Duarte,555.725.873-62,antonio.santos@hjmail.com.br,2100956,(89) 5177 - 6322; (21) 30772 - 9437; (72) 7988 - 7102,"Alameda Brasil, 1818",4;2;3;1
+172,Beatriz Edgar Andrade,232.813.366-24,beatriz.edgar@septem.co.uk,2306603,(98) 7978 - 7165; (53) 3984 - 1554; (46) 6329 - 9487,"Rua Maria Angélica, 1206 - Apto 839",3;4;1
+173,Orlando Andrade de Sá,267.797.199-29,orlando-andrade@carlmail.com,2406908,(93) 3567 - 4375; (62) 5998 - 2427; (33) 2284 - 5312,"Rua Saracura, 1626",1;3;2
+174,Caio Trindade Silveira,473.641.493-84,caio-trindade@carlmail.com,2411502,(77) 5169 - 7752; (62) 27728 - 7526; (66) 8423 - 4585,"Alameda Santos Dumont, 1471",4;2;1
+175,Pamela Silveira Racazella,933.375.486-86,pamela_silveira@carlmail.com,1504802,(68) 8448 - 2946; (81) 10482 - 8824; (87) 4281 - 9418,"Alameda Costa Teles, 578 - Apartamento 606",1;3;2
+176,Eduardo Lucas de Sá,561.225.495-71,eduardolucas@septem.co.uk,1300839,(15) 5655 - 7243; (23) 14325 - 6717; (84) 5323 - 8710,"Rua Costa Teles, 360 - Apartamento 681",4;3;2
+177,Rafael Edgar Racazella,758.546.783-95,rafael.edgar@carlmail.com,2702108,(98) 9362 - 7694; (19) 25876 - 1323; (21) 8861 - 9181,"Travessa Maria Angélica, 1972 - Apto 919",1;3;2
+178,Laura Racazella Lucas,936.474.639-37,laura-racazella@hjmail.com.br,2601102,(41) 3326 - 4933; (44) 9538 - 6701; (92) 2776 - 1176,"Rua do Coelho da Páscoa, 242 - Apartamento 512",4;3;1
+179,Eduardo Silveira Lima,124.616.744-19,eduardosilveira@carlmail.com,1710706,(65) 3188 - 5846; (37) 14671 - 1442; (33) 4297 - 3340,"Alameda Evangelista, 1107",2;3;4
+180,Beatriz Duarte Santista,838.911.529-28,beatriz_duarte@hjmail.com.br,1300607,(23) 6589 - 4358; (17) 9374 - 7571; (83) 6335 - 4882,"Avenida Lenora, 878",3;4;1
+181,Leandro Pires Sousa,412.273.316-23,leandro-pires@carlmail.com,2108058,(31) 2832 - 6194; (92) 15926 - 2176; (79) 3544 - 8509,"Travessa Setembrina, 1143",3;1;4
+182,Maria Duarte Melo,259.571.126-87,maria-duarte@septem.co.uk,2414803,(92) 5773 - 6137; (73) 29885 - 4274; (31) 8417 - 7255,"Alameda do Bode, 448",3;4
+183,Rosi Santista Trindade,567.121.916-25,rosi_santista@carlmail.com,2311355,(82) 6257 - 7295; (45) 4158 - 4156; (72) 6662 - 4467,"Travessa Cristina Aveiro, 49",3;2
+184,Laura Walter Silveira,893.249.516-23,laura.walter@hjmail.com.br,2111748,(84) 8951 - 6566; (45) 28466 - 1727; (76) 3361 - 9135,"Avenida Estados Desunidos, 112 - sala 6",2;4;3
+185,Sandra Ramos Edgar,894.692.213-49,sandra.ramos@septem.co.uk,2615904,(91) 5881 - 4352; (65) 26827 - 2539; (75) 2653 - 6007,"Rua Brasil, 523",4;2
+186,Adriana Santos Sousa,674.271.214-93,adriana.santos@carlmail.com,2312502,(28) 3535 - 4639; (98) 21664 - 6653; (72) 1572 - 6119,"Alameda milipode, 2041",4;2
+187,Igor Silveira Queiroz,951.778.736-49,igor_silveira@carlmail.com,2104081,(65) 7248 - 4478; (88) 19218 - 9702; (28) 1342 - 7603,"Travessa da Cenoura, 1080",3;2
+188,Dina Andrade Silva,939.162.127-69,dina_andrade@septem.co.uk,2603108,(72) 2462 - 7121; (42) 7437 - 7075; (74) 9836 - 6905,"Avenida Saracura, 1725",1;4
+189,Dina Silveira Sousa,231.992.777-27,dina.silveira@carlmail.com,2703502,(87) 5411 - 4674; (93) 30958 - 1376; (32) 2744 - 2521,"Avenida Peas, 1216",1;2;3;4
+190,Teresa Edgar Crozara,529.261.368-12,teresa-edgar@carlmail.com,2403202,(16) 4379 - 2789; (34) 25764 - 3008; (85) 2492 - 6260,"Travessa Cristina Aveiro, 678",4;2;3
+191,Maria Santista Melo,222.369.227-75,maria-santista@septem.co.uk,2612455,(96) 3845 - 5988; (61) 22172 - 8932; (81) 5252 - 5993,"Travessa do Gin Tônica, 97",2;1;3;4
+192,Gladison Trindade Lima,939.986.117-91,gladison-trindade@septem.co.uk,2403202,(26) 2658 - 6834; (23) 23396 - 7190; (99) 1532 - 3399,"Travessa Uberaba, 558",3;2
+193,Sousa Santos Oliveira,222.919.824-17,sousa-santos@carlmail.com,2504504,(11) 6495 - 8246; (44) 23747 - 2945; (62) 3858 - 8480,"Rua Ernesto Augusto, 796 - Apartamento 301",3;1;2
+194,Pamela Andrade Pires,716.976.682-24,pamela_andrade@septem.co.uk,2102101,(38) 8939 - 4113; (19) 12557 - 2627; (24) 6569 - 6095,"Alameda Marques, 1062 - sala 24",4;2
+195,Tony Edgar Pires,512.624.984-97,tony-edgar@septem.co.uk,1500701,(27) 8137 - 1198; (42) 20429 - 3839; (32) 1433 - 1000,"Alameda do Bode, 628",2;1
+196,Carlos Andrade Lima,542.194.448-88,carlos.andrade@hjmail.com.br,1703602,(12) 3816 - 1315; (79) 7666 - 5953; (43) 4568 - 9069,"Alameda Yayá, 1350",4;1
+197,Carla Lucas Ramos,965.749.499-36,carla_lucas@carlmail.com,2709103,(66) 3296 - 1394; (88) 15912 - 4976; (45) 4275 - 3471,"Rua do Coelho da Páscoa, 1395",2;4;3
+198,Antonio Racazella Racazella,527.564.374-33,antonio-racazella@hjmail.com.br,2503209,(57) 3131 - 8522; (23) 5394 - 7582; (78) 3783 - 6242,"Alameda Maria Angélica, 1973",2;4
+199,Eduardo Edgar Crozara,671.924.488-28,eduardo_edgar@hjmail.com.br,2211001,(71) 1794 - 4728; (69) 6381 - 3127; (78) 9978 - 9160,"Rua Brasil, 594",1;2;3
+200,Antonio Abreu Lima,616.242.169-28,antonio.abreu@hjmail.com.br,1506161,(31) 9427 - 5816; (16) 27961 - 4381; (47) 1367 - 8308,"Avenida Marques, 143",2;1;4
+201,Marcos Silveira Abreu,587.283.727-77,marcos-silveira@carlmail.com,1200302,(94) 7776 - 4419; (38) 27172 - 9201; (12) 8149 - 4634,"Rua Zimbro, 1193",1;3;2
+202,Eduardo Queiroz Oliveira,458.534.989-71,eduardo-queiroz@hjmail.com.br,2705408,(37) 5646 - 9735; (32) 20148 - 6574; (95) 4153 - 2907,"Travessa Santos Dumont, 1549 - Apartamento 769",3;1;2
+203,Natasha Abreu Santos,867.636.378-56,natasha-abreu@septem.co.uk,1702307,(57) 5998 - 6712; (46) 1872 - 7419; (82) 3868 - 4473,"Alameda Easy, 1590 - Apto 874",2;4
+204,Marcos Edgar Silveira,174.945.767-17,marcos-edgar@carlmail.com,2101970,(21) 6574 - 1757; (83) 10795 - 6096; (24) 9853 - 7300,"Alameda Evangelista, 1340 - Apto 224",2;3;4
+205,João De Melo Abreu,574.832.898-21,joãode@hjmail.com.br,1504059,(21) 9384 - 6275; (87) 29475 - 7838; (89) 5822 - 6538,"Alameda garça, 1379 - Apartamento 774",1;4
+206,Dina Racazella de Sá,874.554.155-83,dina_racazella@hjmail.com.br,2902708,(26) 6767 - 7548; (62) 22132 - 2220; (81) 7163 - 6917,"Alameda Cristo, 1627",1;2;4
+207,Rafael Queiroz Oliveira,759.941.659-45,rafael_queiroz@carlmail.com,2108900,(85) 5375 - 3591; (38) 22722 - 5071; (78) 5599 - 2529,"Travessa Marques, 491 - sala 15",3;4;1;2
+208,Teresa Abreu Santista,584.827.726-56,teresa.abreu@carlmail.com,2509701,(88) 9157 - 2543; (51) 18776 - 3690; (39) 2387 - 4494,"Rua Colonial, 64 - Apto 89",2;4;3
+209,Luzia Racazella Lima,372.572.317-81,luzia.racazella@carlmail.com,2301703,(19) 8614 - 9763; (64) 26193 - 3243; (94) 3368 - 8270,"Travessa Santos Dumont, 1122 - sala 23",4
+210,Maria Ramos Crozara,884.613.922-88,maria-ramos@septem.co.uk,2704906,(32) 1471 - 4355; (82) 29315 - 9831; (19) 6335 - 6821,"Avenida do Coelho da Páscoa, 1876",4;3
+211,Mylen De Melo Ramos,431.946.919-69,mylen_de@hjmail.com.br,2608008,(72) 7915 - 2314; (22) 30738 - 8264; (71) 5417 - 9362,"Rua Maria Angélica, 1749 - Apartamento 688",2;3;4
+212,Maria Pires Sousa,521.869.477-51,mariapires@carlmail.com,2205557,(29) 5566 - 9347; (12) 17744 - 3274; (61) 4356 - 4849,"Rua Uberaba, 1789 - Apto 823",3;4
+213,Priscila Silveira Oliveira,514.162.965-73,priscila.silveira@carlmail.com,2106300,(59) 5632 - 1274; (61) 11148 - 7172; (58) 9118 - 6526,"Rua Yayá, 1653",4;3
+214,Sousa Oliveira Ramos,197.917.482-91,sousaoliveira@carlmail.com,2112407,(53) 1825 - 7525; (15) 20765 - 5678; (58) 4681 - 7616,"Travessa Uberaba, 275",1;3;2
+215,Antonio Walter Oliveira,569.691.126-52,antonio_walter@hjmail.com.br,2512036,(82) 8995 - 1559; (15) 9999 - 7280; (32) 5228 - 9588,"Avenida da Cenoura, 1619",1;2;3
+216,Tony Melo Abreu,497.778.918-78,tony-melo@septem.co.uk,1502939,(38) 4758 - 6621; (51) 8171 - 2261; (73) 9853 - 4266,"Alameda do Bode, 480 - Apartamento 541",2;3
+217,Sandra Crozara Sousa,599.983.698-14,sandra_crozara@hjmail.com.br,2313104,(63) 2686 - 3547; (33) 22247 - 1125; (65) 5875 - 2506,"Rua do Carneiro, 1573 - Apto 831",4;1
+218,Guilherme Melo Ramos,334.545.256-34,guilhermemelo@hjmail.com.br,2206001,(38) 8944 - 5312; (34) 12646 - 8040; (24) 3621 - 8898,"Travessa Uberaba, 311",1;2;3
+219,Camila Queiroz De Melo,667.554.219-48,camila.queiroz@septem.co.uk,2210300,(75) 4897 - 3951; ,"Avenida confins, 1201 - Apartamento 43",1;4;3
+220,Gladison Crozara Queiroz,915.542.434-91,gladison_crozara@hjmail.com.br,2906808,(38) 2554 - 3852; ,"Rua do Whisky, 1297",1;2;4
+221,Rafael Pires Racazella,589.683.537-51,rafael.pires@septem.co.uk,2909109,(19) 8563 - 9387; ,"Alameda Lenora, 1882 - Apto 110",4;1
+222,Carlos Oliveira Silva,889.776.221-61,carlosoliveira@septem.co.uk,2208106,(84) 3668 - 9838; ,"Travessa Santos Dumont, 1732",1;4;3
+223,Maria Sousa De Melo,385.826.288-39,maria-sousa@septem.co.uk,2603801,(64) 9176 - 1258; ,"Avenida Santos Dumont, 1893 - Apto 334",1;4;3
+224,João Lucas Trindade,889.411.225-16,joãolucas@hjmail.com.br,2903201,(48) 3323 - 2776; ,"Travessa da Lenora, 850",4;1
+225,Teresa Pires Edgar,567.452.444-39,teresapires@hjmail.com.br,2504108,(93) 1295 - 4325; ,"Avenida Lenora, 879",2;4;3
+226,Antonio Lima Lucas,182.189.663-71,antonio-lima@septem.co.uk,1702000,(75) 2151 - 9899; ,"Travessa Brasil, 1340 - Apartamento 300",1;4;2
+227,Eduardo de Sá Crozara,346.143.781-33,eduardo.de@hjmail.com.br,1200401,(11) 8267 - 5546; ,"Travessa Vinícius CEO, 285",3;1;2
+228,Maria Silva Lucas,424.275.762-82,maria_silva@hjmail.com.br,2506608,(37) 8451 - 6239; ,"Travessa Brasil, 1430 - Apartamento 270",2;1
+229,Rafael Racazella Crozara,755.943.789-33,rafael.racazella@septem.co.uk,2105906,(45) 3538 - 3277; ,"Travessa Saracura, 1036",2;1;4
+230,Laura de Sá Edgar,864.286.678-17,laura.de@septem.co.uk,2404200,(43) 5334 - 8797; ,"Rua do Coelho da Páscoa, 1883 - Apto 77",1;3;2;4
+231,Priscila De Melo Santos,593.484.343-93,priscila_de@hjmail.com.br,2707008,(41) 5853 - 6175; ,"Avenida Santos Dumont, 1151",4;3
+232,Rosa Abreu Abreu,174.149.249-31,rosa_abreu@hjmail.com.br,1200302,(25) 9722 - 6467; ,"Rua Cristo, 783",3;4;1
+233,Caio Walter De Melo,115.177.115-47,caio.walter@carlmail.com,1507409,(61) 5299 - 6979; ,"Travessa garça, 680",3;1
+234,Orlando Silva Racazella,729.741.352-88,orlandosilva@carlmail.com,2608909,(98) 6785 - 6315; ,"Travessa Costa Teles, 291 - sala 21",2;3;4
+235,Camila Lima Lima,923.773.848-85,camila-lima@hjmail.com.br,2114007,(58) 3281 - 5429; ,"Rua Costa Teles, 606 - sala 11",1;3;4
+236,João Crozara Melo,186.367.451-33,joãocrozara@hjmail.com.br,2100873,(17) 3977 - 3225; ,"Avenida milipode, 1270",4;2;1
+237,Gladison De Melo Walter,529.822.783-99,gladison_de@septem.co.uk,1101559,(56) 3789 - 4172; ,"Alameda Santos Dumont, 5 - Apto 834",4;2
+238,Lauro Santos Oliveira,823.479.423-67,lauro_santos@septem.co.uk,1400704,(47) 2657 - 1716; ,"Rua serenata, 1963",4;1
+239,Otávio Edgar Walter,284.952.439-84,otávio.edgar@carlmail.com,2206308,(91) 4669 - 2149; (28) 11475 - 5086; (33) 5477 - 5661,"Rua Vinícius CEO, 331",1;2;3
+240,Rosa Pires Trindade,798.116.945-24,rosa_pires@hjmail.com.br,1710904,(11) 9928 - 9891; (74) 12728 - 6404; (29) 8539 - 9124,"Alameda Zimbro, 1818 - Apto 509",1;4;2
+241,Gladison Racazella Abreu,473.351.299-61,gladison-racazella@carlmail.com,2902401,(11) 2838 - 3839; (84) 5226 - 4018; (14) 6512 - 4371,"Alameda Easy, 1562",2;4
+242,Rosi Oliveira Lucas,239.928.524-25,rosioliveira@septem.co.uk,2405603,(94) 5351 - 8281; (62) 30625 - 3644; (39) 2831 - 9557,"Rua Vinícius CEO, 1025",2;1;4
+243,Rafael Pires Santista,235.388.745-55,rafael.pires@hjmail.com.br,2503308,(32) 1134 - 1466; (72) 30597 - 6198; (43) 7236 - 9614,"Rua Evangelista, 1370 - Apartamento 429",4;2
+244,Laura Oliveira Andrade,799.541.679-21,lauraoliveira@carlmail.com,2805703,(37) 7998 - 8895; (18) 23775 - 2981; (53) 1249 - 8496,"Travessa serenata, 196 - Apartamento 290",1;2;4
+245,Carlos Melo Ramos,326.388.183-74,carlosmelo@septem.co.uk,2401800,(94) 5914 - 8534; (56) 17785 - 7142; (43) 4157 - 6052,"Alameda Lenora, 57 - sala 8",4;3;2
+246,Mylen Ramos Abreu,147.761.327-52,mylenramos@hjmail.com.br,2615201,(55) 1748 - 3845; (69) 22556 - 4948; (23) 9262 - 2492,"Alameda do Bode, 1130",3;2;4
+247,Teresa Lucas de Sá,448.324.329-79,teresa.lucas@carlmail.com,2207751,(27) 2588 - 3493; (46) 15118 - 5442; (28) 9223 - 2316,"Alameda Maria Angélica, 1696 - Apto 429",1;2;3
+248,Carlos Trindade Santista,828.745.374-34,carlos-trindade@hjmail.com.br,1713304,(74) 3813 - 6452; (77) 12895 - 4012; (71) 7288 - 9156,"Avenida Santos Dumont, 1886",3;1
+249,Maria Racazella Andrade,423.928.241-65,mariaracazella@carlmail.com,2203354,(56) 4274 - 9544; (33) 14294 - 3961; (58) 4764 - 3534,"Rua Carolina, 578",3;2
+250,Adriana Duarte Melo,649.941.396-87,adriana-duarte@septem.co.uk,2105351,(34) 6268 - 3917; (71) 30687 - 2792; (51) 2419 - 3786,"Alameda do Bode, 1791",1;4
+251,Guilherme Lima Duarte,173.427.923-24,guilherme-lima@hjmail.com.br,2804458,(64) 5353 - 2555; (66) 15375 - 2131; (42) 1114 - 4040,"Travessa Ernesto Augusto, 961",3;1;4
+252,William Lima Silva,129.913.998-23,william_lima@carlmail.com,1303908,(76) 1576 - 9531; (22) 1914 - 6646; (34) 4581 - 4708,"Alameda do Gin Tônica, 457",2;1;4
+253,Antonio Melo de Sá,398.294.125-44,antonio.melo@hjmail.com.br,1500602,(15) 6868 - 8877; (29) 12447 - 1083; (19) 8534 - 4438,"Rua do Whisky, 664",1;4;3
+254,Sousa Andrade Walter,779.599.617-31,sousa-andrade@hjmail.com.br,2304236,(53) 9143 - 1964; (19) 4126 - 9939; (73) 3724 - 6508,"Rua do Carneiro, 1326",4;1;2
+255,Laura Walter Melo,347.221.611-32,laurawalter@hjmail.com.br,2514602,(19) 2969 - 7163; (32) 29462 - 6227; (29) 6857 - 6214,"Travessa Colonial, 1583 - Apartamento 590",3;4;2
+256,Guilherme Lucas Andrade,167.455.794-66,guilherme_lucas@hjmail.com.br,2803708,(59) 1468 - 2518; (44) 5858 - 7788; (94) 7227 - 6703,"Travessa Lenora, 998",1;3;4
+257,Lauro Melo Silva,963.449.925-89,lauro_melo@hjmail.com.br,2914406,(59) 1891 - 5284; (97) 6674 - 7375; (66) 5143 - 9990,"Rua garça, 426",3;2;4
+258,Tony Silva Sousa,424.544.347-11,tonysilva@hjmail.com.br,1506559,(72) 9568 - 6252; (57) 28855 - 7244; (95) 7378 - 9020,"Avenida Yayá, 255 - sala 16",1;2;4
+259,William Edgar Lucas,267.156.647-96,william-edgar@septem.co.uk,2401107,(13) 1918 - 7669; (33) 9868 - 6697; (72) 9481 - 3918,"Alameda Vinícius CEO, 1767",3;2
+260,Priscila Racazella Crozara,551.863.433-87,priscila_racazella@septem.co.uk,2508901,(49) 4613 - 5717; (16) 1795 - 5226; (46) 3926 - 7628,"Alameda Costa Teles, 241",2;4;1
+261,Tony Lucas Queiroz,311.113.839-26,tony_lucas@septem.co.uk,2201408,(51) 2263 - 2853; (87) 9832 - 5431; (34) 3858 - 7999,"Travessa Marcos, 700",1;4
+262,Carlos Lima Racazella,741.614.461-39,carloslima@hjmail.com.br,2509503,(59) 4414 - 7948; (42) 16694 - 6433; (64) 3242 - 8832,"Avenida Marcos, 652 - Apartamento 288",3;2
+263,João Lima Ramos,147.489.662-46,joão.lima@carlmail.com,2104073,(14) 8414 - 8668; (27) 23351 - 6514; (23) 8233 - 7919,"Avenida Uberaba, 1153",3;4;2
+264,Igor Andrade Abreu,885.127.223-77,igor-andrade@hjmail.com.br,2310803,(16) 9273 - 9336; (28) 15427 - 2957; (93) 6913 - 2910,"Alameda Maria Angélica, 632 - Apto 949",1;4
+265,Teresa de Sá Walter,461.617.377-89,teresa-de@hjmail.com.br,2403707,(33) 9915 - 3145; (77) 6431 - 6276; (61) 2189 - 5591,"Alameda Brasil, 1024",3;1;2
+266,Carlos Andrade Walter,317.529.298-11,carlos_andrade@hjmail.com.br,2610608,(59) 5476 - 7561; (25) 28512 - 4392; (99) 5536 - 5322,"Alameda da Lenora, 1484 - Apto 843",4;3;2
+267,Caio Melo Oliveira,253.122.848-79,caio_melo@hjmail.com.br,1504059,(65) 4341 - 6338; (89) 16385 - 4400; (87) 4234 - 8858,"Alameda confins, 665",1;2;4
+268,Carlos Melo Lima,235.424.178-59,carlos-melo@carlmail.com,1721257,(58) 8491 - 6784; (53) 26957 - 1006; (51) 6311 - 2796,"Travessa Maria Angélica, 2025 - Apto 902",1;3
+269,Sousa Silva Silveira,115.827.624-15,sousasilva@septem.co.uk,2210391,(34) 3982 - 7691; (21) 22622 - 3595; (85) 6727 - 4506,"Alameda Colonial, 1054 - Apartamento 278",4;2
+270,Luzia Santista Andrade,822.884.864-54,luzia-santista@hjmail.com.br,2414506,(96) 9881 - 7138; (44) 14325 - 6260; (46) 2684 - 7601,"Avenida Costa Teles, 707 - sala 20",2;3;4
+271,Adriana Trindade Trindade,289.776.468-32,adrianatrindade@hjmail.com.br,2908002,(76) 7964 - 6168; (74) 23159 - 9094; (65) 6792 - 4970,"Rua Colonial, 583",2;3;1
+272,Natasha Walter Racazella,891.632.941-44,natashawalter@septem.co.uk,1100189,(86) 5588 - 6421; (63) 4952 - 2650; (73) 5639 - 9636,"Travessa da Cenoura, 869 - sala 12",4;1
+273,Sandra Ramos Duarte,916.663.143-43,sandra.ramos@carlmail.com,1301001,(53) 7512 - 4292; (32) 5217 - 8003; (28) 1938 - 2002,"Rua Vinícius CEO, 560 - sala 8",3;1;4;2
+274,Leandro Santos Racazella,466.814.512-11,leandro-santos@hjmail.com.br,1505700,(13) 1575 - 2833; (46) 1711 - 6987; (47) 6718 - 5339,"Alameda Santos Dumont, 771 - Apto 870",4;2;3
+275,Rafael Walter Silveira,678.749.135-36,rafael-walter@hjmail.com.br,1200302,(56) 5119 - 5378; (95) 3428 - 9608; (98) 3344 - 9478,"Travessa Maria Angélica, 235 - sala 16",4;3;2
+276,Gladison Andrade Walter,374.542.986-44,gladison_andrade@carlmail.com,1300300,(19) 6674 - 5593; (38) 10687 - 5686; (47) 8735 - 6594,"Alameda Peas, 1717",3;4;2
+277,Teresa Lima Lima,477.736.885-66,teresalima@hjmail.com.br,2405009,(87) 2528 - 2814; (95) 29445 - 2134; (11) 5912 - 3852,"Rua Cristo, 1748",4;3;2
+278,Dina Oliveira Andrade,196.594.928-36,dina.oliveira@septem.co.uk,2111003,(93) 4477 - 5474; (56) 10813 - 6788; (88) 4447 - 8139,"Avenida Estados Desunidos, 1814 - sala 3",2;4;1
+279,Rosa Lucas Pires,546.762.581-42,rosa_lucas@carlmail.com,2205409,(88) 7187 - 8693; (87) 18692 - 8089; (94) 9955 - 2456,"Travessa Evangelista, 506",3;2;4
+280,Gladison Duarte Silva,717.382.846-58,gladison-duarte@hjmail.com.br,2208700,(74) 5954 - 2464; (45) 20876 - 8654; (89) 8197 - 7123,"Alameda Santos Dumont, 1268 - Apartamento 835",4;3;1
+281,Laura Silveira Lucas,725.881.656-59,laura-silveira@carlmail.com,2405207,(24) 2299 - 1453; (55) 15421 - 6976; (58) 3335 - 7102,"Alameda Colonial, 1521",4;2;3
+282,Carla De Melo De Melo,853.829.113-77,carla-de@carlmail.com,1600600,(76) 1211 - 9561; (84) 23261 - 8812; (16) 6994 - 3918,"Alameda Colonial, 1415 - Apartamento 917",3;4;2
+283,William Lucas Oliveira,784.792.834-33,william.lucas@septem.co.uk,2206654,(89) 9868 - 5968; (83) 2913 - 8853; (89) 2918 - 9325,"Avenida Colonial, 1714 - Apartamento 409",3;1;2
+284,Tony Walter Andrade,336.635.982-76,tony_walter@carlmail.com,2203255,(26) 3865 - 3191; (91) 18495 - 8207; (48) 3898 - 7423,"Travessa Cristina Aveiro, 834",4;3;1
+285,Teresa Santos Walter,576.917.168-75,teresa-santos@hjmail.com.br,2206753,(89) 3381 - 5841; (89) 29784 - 5300; (91) 9831 - 3363,"Avenida Ernesto Augusto, 2006",4;3;2;1
+286,Lauro Duarte Oliveira,351.989.839-68,lauro.duarte@septem.co.uk,2516508,(64) 1991 - 5752; (36) 26341 - 5632; (45) 6373 - 4644,"Rua da Cenoura, 1278 - sala 13",3;2;4
+287,Rosa Trindade Santista,789.536.133-92,rosa.trindade@carlmail.com,2201903,(51) 1756 - 2278; ,"Alameda Marcos, 737 - sala 9",2;4;1;3
+288,Priscila Trindade Duarte,451.822.337-41,priscila-trindade@carlmail.com,2908507,(95) 3848 - 6756; ,"Rua Easy, 2012",3;4;1
+289,Laura Edgar Andrade,798.218.532-25,laura.edgar@hjmail.com.br,2607208,(85) 6295 - 4376; ,"Travessa Marcos, 1269",4;3;1
+290,Rafael De Melo Walter,217.422.821-87,rafael-de@septem.co.uk,2305308,(53) 4916 - 4155; ,"Avenida Uberaba, 1858 - Apto 120",1;2;3
+291,William Trindade Pires,295.355.551-38,williamtrindade@carlmail.com,2512705,(89) 1483 - 8692; ,"Travessa Brasil, 421 - sala 20",1;3
+292,Dina Oliveira Silveira,271.443.568-66,dina-oliveira@carlmail.com,2204352,(78) 4374 - 5647; ,"Avenida do Coelho da Páscoa, 1703 - sala 18",3;2;1
+293,Marcos Abreu Abreu,658.921.542-89,marcos_abreu@hjmail.com.br,2309201,(18) 9425 - 8922; ,"Alameda Ernesto Augusto, 1713 - Apto 341",3;4;2;1
+294,Lauro Duarte Melo,594.393.368-78,lauroduarte@carlmail.com,2202505,(56) 2595 - 7651; ,"Rua Carolina, 269",1;2;4
+295,Marcos de Sá Silva,169.771.158-73,marcos.de@carlmail.com,2403251,(18) 5844 - 2567; ,"Avenida Yayá, 366",1;2
+296,Maria Silva Santista,426.862.358-57,maria.silva@hjmail.com.br,1504976,(72) 1249 - 4914; ,"Alameda Cristina Aveiro, 1125 - sala 13",3;4;1
+297,Lisa Andrade De Melo,649.711.291-74,lisa.andrade@carlmail.com,1507961,(83) 3318 - 3897; (65) 8221 - 3474; (85) 1787 - 8318,"Rua Peas, 1991",4;3;2
+298,Sandra Lima Racazella,185.468.231-35,sandralima@carlmail.com,2512804,(33) 4492 - 3392; (22) 22943 - 9024; (34) 3434 - 7308,"Alameda Estados Desunidos, 1454",4;3;1
+299,Sandra Pires Ramos,717.562.127-39,sandrapires@carlmail.com,1503457,(79) 4245 - 3826; (91) 16938 - 5761; (59) 6727 - 7834,"Rua Setembro, 977",2;3;4
+300,Priscila Walter Edgar,221.313.556-11,priscila-walter@septem.co.uk,2512903,(79) 2813 - 4919; (51) 16535 - 9608; (77) 3721 - 6730,"Alameda Uberaba, 1620 - sala 4",3;2;1;4
+301,Leandro Santos Andrade,136.456.821-87,leandrosantos@septem.co.uk,2112209,(86) 8739 - 1198; (41) 8631 - 2309; (67) 9513 - 1547,"Rua Easy, 1001",2;1;4
+302,Leandro Andrade Lima,132.443.474-96,leandro_andrade@septem.co.uk,1703073,(42) 6769 - 1295; (71) 21356 - 8770; (22) 5955 - 9728,"Alameda Evangelista, 1264",1;2;3
+303,Carlos de Sá Ramos,631.288.215-84,carlos-de@carlmail.com,2700201,(95) 2255 - 9913; (92) 28574 - 6542; (73) 5674 - 6064,"Travessa Yayá, 699",3;4
+304,Tony Melo Trindade,694.212.385-66,tonymelo@hjmail.com.br,2500304,(52) 6133 - 1442; (16) 30645 - 9220,"Alameda do Whisky, 1165 - sala 14",4;2;3
+305,Guilherme Lucas Pires,841.816.962-89,guilherme-lucas@septem.co.uk,2400208,(26) 9451 - 9949; (79) 15662 - 9320,"Travessa Marcos, 1457 - sala 21",3;2;1
+306,Guilherme Santos Lucas,529.992.312-78,guilherme_santos@hjmail.com.br,2610707,(76) 7515 - 2289; (77) 27855 - 8176,"Avenida da Lenora, 1331",3;2
+307,João Silva Duarte,919.619.235-18,joão-silva@carlmail.com,2414209,(33) 8464 - 6293; (46) 18476 - 3635,"Avenida Peas, 1369",2;3;4;1
+308,Pamela Queiroz Santos,156.542.491-26,pamela.queiroz@hjmail.com.br,2512903,(64) 7428 - 6192; (84) 4455 - 6233,"Travessa garça, 421",4;1;3
+309,Eduardo Lucas Silveira,936.724.693-18,eduardo-lucas@hjmail.com.br,2504009,(57) 5385 - 4193; (21) 18365 - 7730,"Alameda Costa Teles, 255",3;4
+310,Rosa de Sá Oliveira,694.894.117-23,rosade@septem.co.uk,2105401,(85) 1624 - 9875; (49) 17843 - 1607,"Alameda Yayá, 1013",4;2;3
+311,Sousa Abreu Santista,775.175.897-25,sousa.abreu@septem.co.uk,2111078,(92) 3827 - 4527; (15) 3356 - 9163,"Avenida Ernesto Augusto, 1566 - Apto 380",2;1;3
+312,Otávio Edgar Lucas,376.145.363-36,otávio.edgar@hjmail.com.br,2902005,(74) 2315 - 9437; (26) 16616 - 4282,"Rua Cristo, 1117 - Apartamento 651",1;4;3
+313,Rosa Lucas Walter,931.526.545-42,rosa_lucas@hjmail.com.br,1721307,(81) 3346 - 1781; (37) 24858 - 9655,"Travessa Setembro, 1007 - sala 11",3;4;1
+314,Lauro Racazella Lucas,537.464.369-65,lauroracazella@carlmail.com,2503704,(21) 2562 - 7531; (82) 28624 - 5130,"Travessa Cristo, 816 - sala 21",1;4;3
+315,Natasha Edgar Melo,115.732.878-13,natasha_edgar@hjmail.com.br,2805307,(96) 4825 - 7332; (39) 25773 - 8100,"Travessa Maria Angélica, 1149",3;1
+316,Rosa de Sá Queiroz,869.532.226-54,rosade@septem.co.uk,1718758,(19) 3251 - 5643; (89) 20327 - 2944,"Rua Lenora, 741",1;3;2;4
+317,Maria Edgar Silva,655.689.125-82,maria_edgar@hjmail.com.br,2912806,(23) 6159 - 4759; (18) 24553 - 7105,"Travessa Saracura, 683 - sala 9",3;4
+318,Eduardo Oliveira Crozara,596.722.993-49,eduardo-oliveira@carlmail.com,2905503,(34) 9844 - 1185; (42) 12694 - 4220,"Travessa Brasil, 91",3;4;2
+319,Adriana Racazella Racazella,116.771.211-23,adriana-racazella@carlmail.com,2502151,(27) 9328 - 3692; (86) 2899 - 6561,"Rua Cristina Aveiro, 2003 - Apartamento 555",2;1;3;4
+320,William Lucas Ramos,284.365.844-95,william.lucas@hjmail.com.br,2911204,(66) 2592 - 6244; (49) 22717 - 2682,"Rua Maria Angélica, 420",4;2;1
+321,Natasha de Sá Sousa,372.882.497-85,natasha_de@hjmail.com.br,2311108,(58) 8852 - 7697; (47) 21493 - 3436,"Rua Setembrino, 1237 - sala 7",4;3;2
+322,Orlando Edgar De Melo,755.143.778-13,orlando_edgar@hjmail.com.br,2201408,(11) 6455 - 3987; (38) 5447 - 1072,"Avenida Easy, 1917",2;4;1;3
+323,Otávio Lima Lucas,362.479.737-11,otávio_lima@hjmail.com.br,2413557,(77) 5969 - 3254; (83) 1226 - 6028; (59) 5349 - 5623,"Rua Vinícius CEO, 930",2;3
+324,Beatriz Sousa de Sá,948.822.414-68,beatriz-sousa@carlmail.com,2207801,(92) 2683 - 5128; (52) 5992 - 3026; (99) 3986 - 3971,"Alameda Colonial, 1287",4;2;3
+325,Dina Silveira Duarte,496.645.281-18,dina-silveira@hjmail.com.br,2311603,(33) 1783 - 5436; (28) 5763 - 8804; (98) 3134 - 6805,"Travessa do Coelho da Páscoa, 597",2;3;1
+326,Gladison Santos Edgar,918.156.721-42,gladisonsantos@septem.co.uk,2507408,(49) 1946 - 2129; (21) 26477 - 4407; (84) 8148 - 7613,"Rua Costa Teles, 1411 - Apto 767",2;1;4
+327,Lisa Sousa Crozara,721.197.962-69,lisasousa@septem.co.uk,2305209,(49) 1729 - 8337; (64) 11873 - 1458; (89) 1537 - 1260,"Travessa Yayá, 464",1;3
+328,Rosi Silveira Santos,319.954.682-89,rosi_silveira@carlmail.com,2209708,(27) 4963 - 9831; (73) 15785 - 8463; (41) 5577 - 5510,"Alameda Santos Dumont, 1591",2;1;4
+329,Marcos Sousa Santos,182.863.739-94,marcossousa@carlmail.com,2806206,(55) 8156 - 1123; (22) 4158 - 5532; (61) 2141 - 4471,"Travessa Cristina Aveiro, 255",2;1
+330,William Sousa Santos,685.421.376-51,william.sousa@septem.co.uk,2500809,(58) 6184 - 8716; (62) 17952 - 6354; (58) 4151 - 9557,"Rua Vinícius CEO, 1766 - sala 22",2;3
+331,Orlando Racazella Duarte,526.126.221-72,orlando.racazella@carlmail.com,2313203,(99) 5843 - 1147; (45) 17527 - 2728; (34) 6365 - 8348,"Alameda Carolina, 1858",2;1;3
+332,Rosa Lucas Lucas,684.932.753-27,rosa.lucas@carlmail.com,1508209,(31) 3368 - 5115; (42) 6955 - 3440; (19) 2276 - 2764,"Rua Vinícius CEO, 1434 - sala 11",2;3;1
+333,Carlos Edgar Pires,844.938.273-68,carlosedgar@hjmail.com.br,1301407,(37) 6677 - 5265; (88) 18982 - 8746; (17) 8762 - 5907,"Alameda Marques, 1361",1;3;2
+334,Orlando Edgar de Sá,199.346.911-35,orlandoedgar@hjmail.com.br,2612505,(66) 9569 - 5426; (13) 30735 - 1652; (38) 1998 - 9106,"Avenida Cristina Aveiro, 97",3;1;2
+335,Rosa Walter Edgar,532.586.151-84,rosa-walter@hjmail.com.br,2312403,(36) 9776 - 5488; (38) 27288 - 3316; (37) 7351 - 3493,"Travessa do Carneiro, 2007",4;1
+336,Igor Trindade Trindade,368.473.125-77,igor-trindade@septem.co.uk,2408201,(92) 4361 - 3975; (78) 26852 - 3585; (87) 5999 - 1324,"Travessa Cristo, 667 - Apto 112",4;1
+337,João Oliveira Andrade,498.869.321-35,joãooliveira@carlmail.com,1718204,(94) 1838 - 7215; (23) 28917 - 3426; (29) 9354 - 9666,"Rua Carolina, 1465",1;3;4
+338,Carlos Sousa de Sá,369.738.356-91,carlos-sousa@hjmail.com.br,1300631,(63) 9254 - 1939; (85) 17824 - 5935; (25) 3116 - 2646,"Travessa do Whisky, 330 - sala 16",3;1;2;4
+339,Giulia Melo Silveira,192.891.663-64,giuliamelo@hjmail.com.br,1300680,(86) 8676 - 7566; (14) 3352 - 2419; (24) 6141 - 2400,"Rua Santos Dumont, 449",1;2;4;3
+340,Lauro Andrade Walter,953.869.877-31,lauroandrade@carlmail.com,2502805,(87) 7864 - 4569; (38) 6418 - 3660; (42) 1117 - 3483,"Travessa do Carneiro, 669 - sala 7",1;3
+341,Lauro Pires Walter,697.916.897-25,lauro-pires@hjmail.com.br,1711506,(68) 2246 - 7238; (86) 14933 - 6861; (57) 6238 - 8122,"Avenida Setembro, 566 - sala 4",4;2;1
+342,Marcos Silveira Santista,747.985.287-34,marcos-silveira@carlmail.com,2309300,(63) 6525 - 9755; (38) 29192 - 6642; (97) 4223 - 4701,"Avenida Zimbro, 1089",3;4;1;2
+343,Marcos Ramos Trindade,152.189.174-51,marcos.ramos@septem.co.uk,2106300,(46) 7764 - 4675; (61) 25499 - 2673; (42) 8758 - 9178,"Travessa milipode, 1719 - sala 15",2;1;3
+344,William Santista Ramos,643.369.481-65,william-santista@hjmail.com.br,1720903,(77) 5352 - 2996; (23) 19291 - 5686; (48) 3666 - 9038,"Alameda Estados Desunidos, 2036",2;1;3
+345,Natasha Abreu Santos,695.156.188-29,natasha_abreu@carlmail.com,1502707,(25) 9782 - 1585; (52) 12958 - 3364; (25) 9466 - 5973,"Alameda Setembro, 86",4;2
+346,Caio de Sá De Melo,452.279.989-56,caiode@carlmail.com,2406155,(57) 7866 - 7711; (53) 18126 - 5777,"Alameda Estados Desunidos, 166 - sala 25",4;1;2
+347,Mylen Sousa Sousa,959.969.692-35,mylensousa@hjmail.com.br,1505601,(97) 5491 - 4996; (97) 2753 - 5497,"Avenida da Cenoura, 56",2;3
+348,Marcos Duarte De Melo,751.179.741-57,marcos_duarte@hjmail.com.br,1708254,(46) 1214 - 7387; (39) 15152 - 2781,"Alameda Santos Dumont, 1088 - Apto 803",2;4;1
+349,Otávio Sousa Queiroz,553.737.882-81,otávio_sousa@hjmail.com.br,2508000,(17) 1497 - 3217; (84) 21431 - 1002,"Avenida do Bode, 401 - Apartamento 440",2;4;3
+350,Teresa Edgar Lucas,972.517.913-34,teresa.edgar@carlmail.com,2511509,(36) 7851 - 6176; (58) 29956 - 1553,"Rua garça, 856",3;4;1
+351,Luzia Silva Silveira,894.644.577-35,luzia.silva@carlmail.com,2608800,(88) 1451 - 4617; (54) 15519 - 6516,"Alameda Maria Angélica, 1270 - Apartamento 549",2;3;4
+352,Beatriz Andrade Edgar,214.481.928-22,beatriz-andrade@carlmail.com,2304004,(74) 7878 - 5884; (93) 29582 - 3516,"Avenida Colonial, 1882 - sala 3",3;2
+353,William Andrade Sousa,268.499.349-96,william-andrade@septem.co.uk,2108058,(98) 9432 - 3317; (97) 18913 - 1800,"Avenida Setembro, 484 - Apartamento 153",2;1
+354,Guilherme Racazella Melo,235.926.487-34,guilherme.racazella@septem.co.uk,2405009,(64) 8426 - 2828; (63) 11216 - 8681,"Avenida Setembrina, 1177 - sala 6",2;3;1
+355,Laura Santos Edgar,782.585.692-88,laura-santos@septem.co.uk,2101509,(74) 1187 - 2221; (84) 16858 - 5516,"Avenida Setembrino, 1714 - Apartamento 209",1;3;4
+356,João Oliveira De Melo,784.461.259-41,joãooliveira@carlmail.com,2604155,(12) 1491 - 1177; (95) 5295 - 8903,"Avenida Marques, 1022",4;2
+357,Luzia Crozara Racazella,969.186.264-35,luzia-crozara@hjmail.com.br,2406106,(77) 9761 - 1314; (73) 14261 - 5016,"Avenida Easy, 1714",1;3;2
+358,Pamela Oliveira Duarte,985.295.652-87,pamelaoliveira@hjmail.com.br,1200104,(48) 1816 - 9447; (98) 11134 - 2706,"Avenida do Carneiro, 897 - sala 2",1;2
+359,Otávio Lima Queiroz,366.826.214-11,otávio-lima@carlmail.com,2304806,(23) 5439 - 3578; (36) 9293 - 9325,"Alameda Zimbro, 786",2;1;3
+360,Carlos Santos De Melo,362.684.687-79,carlos_santos@hjmail.com.br,2202604,(22) 3428 - 2741; (77) 21275 - 7573,"Travessa serenata, 1645 - sala 4",3;4;2;1
+361,Guilherme Silva de Sá,731.115.629-73,guilherme-silva@hjmail.com.br,2401503,(68) 6924 - 7858; (94) 6933 - 2668,"Alameda confins, 1714",3;2;1
+362,Lauro Santista Lucas,527.224.826-97,laurosantista@septem.co.uk,2707800,(48) 1271 - 3556; (24) 8538 - 5763,"Rua Saracura, 1460",1;4;3;2
+363,Caio Santista Abreu,841.113.311-93,caio_santista@hjmail.com.br,2301802,(14) 1841 - 2124; (48) 25119 - 6874,"Rua garça, 99 - sala 4",4;3
+364,Maria Santista Duarte,998.184.386-11,maria_santista@septem.co.uk,2515401,(91) 2847 - 4671; (84) 16254 - 3771,"Rua Costa Teles, 476",2;1;3;4
+365,Leandro de Sá Ramos,642.536.956-18,leandro.de@carlmail.com,2410702,(83) 1372 - 7343; (89) 23131 - 7750,"Travessa da Lenora, 1519",4;2;3
+366,Sousa Melo Ramos,668.237.144-31,sousa-melo@carlmail.com,2202109,(41) 7239 - 9416; (51) 23296 - 2656,"Rua do Bode, 1549 - Apartamento 342",4;2;3
+367,Caio Abreu Ramos,453.957.115-83,caioabreu@septem.co.uk,2202208,(84) 3568 - 4351; (54) 9569 - 2857,"Avenida serenata, 1237",1;4;3
+368,Sousa Andrade Pires,483.325.956-96,sousa_andrade@septem.co.uk,2506509,(81) 5157 - 3649; (71) 19478 - 5313,"Rua da Cenoura, 271",1;2;4
+369,Natasha Santos Silva,243.354.161-19,natasha.santos@carlmail.com,2311231,(83) 1889 - 4112; (88) 6428 - 7815,"Rua da Lenora, 1204 - Apartamento 14",4;1;3
+370,Caio Abreu Silveira,943.518.792-13,caio_abreu@carlmail.com,1507458,(94) 8387 - 9375; (19) 21733 - 2300,"Travessa do Whisky, 1762",1;3;2
+371,Guilherme Santista Silveira,738.463.644-17,guilherme.santista@septem.co.uk,2513208,(86) 5724 - 2449; (17) 29872 - 3054,"Travessa Setembro, 1958 - sala 8",4;3;2
+372,Leandro Silva Edgar,725.265.776-82,leandrosilva@carlmail.com,2708204,(18) 7651 - 9383; (97) 23114 - 3265,"Rua Easy, 1330 - sala 16",4
+373,Pamela Santista Oliveira,698.617.918-42,pamelasantista@hjmail.com.br,1504752,(29) 8127 - 7586; (14) 7991 - 3421,"Rua Easy, 852",1;4;3;2
+374,Orlando Pires Racazella,235.523.238-84,orlando.pires@carlmail.com,2804706,(45) 7568 - 7885; (74) 13843 - 5641,"Travessa Easy, 791 - Apto 970",4;3;2
+375,Rafaela Lima Queiroz,468.682.872-46,rafaelalima@septem.co.uk,1506203,(32) 5143 - 2579; (12) 30753 - 7432,"Rua Marcos, 176",1;4;2
+376,Giulia Abreu Oliveira,337.287.922-52,giulia_abreu@septem.co.uk,2708907,(79) 9481 - 7699; (85) 28454 - 7027,"Alameda do Coelho da Páscoa, 1921",2;1;3
+377,Sousa Abreu Andrade,348.954.878-63,sousa-abreu@septem.co.uk,2513406,(52) 1963 - 2553; (24) 22255 - 3185,"Rua garça, 1163",4;3
+378,Igor Queiroz Edgar,973.541.257-59,igor_queiroz@carlmail.com,1100700,(95) 8936 - 7484; (69) 5878 - 5324,"Alameda confins, 1151",1;4;3
+379,Laura Andrade Crozara,144.398.649-77,laura-andrade@septem.co.uk,2203909,(45) 8841 - 8571; (54) 23612 - 9445,"Travessa Brasil, 1638",3;1;4
+380,João Santos Racazella,928.321.119-39,joãosantos@septem.co.uk,2510105,(36) 6665 - 8382; (66) 17784 - 9482,"Rua Brasil, 1319 - sala 5",4;3;1
+381,Otávio Andrade De Melo,544.663.274-67,otávio-andrade@septem.co.uk,2111102,(75) 3834 - 8382; (72) 22668 - 2464,"Alameda Maria Angélica, 1109 - Apartamento 602",2;1;4
+382,Giulia Edgar Silva,437.576.298-42,giulia.edgar@hjmail.com.br,1720903,(14) 4267 - 2235; (56) 5243 - 8578,"Rua Maria Angélica, 630 - Apto 303",4;1;3
+383,Marcos Lima Crozara,931.147.843-18,marcos.lima@carlmail.com,1502608,(18) 3229 - 5516; (52) 9385 - 4956,"Alameda da Lenora, 461",2;3
+384,Gladison Trindade Santos,696.271.893-15,gladison.trindade@carlmail.com,2909604,(39) 8512 - 8589; (77) 2176 - 2358,"Travessa Evangelista, 1564 - Apto 297",2;3
+385,Otávio Melo Pires,468.445.459-67,otávio_melo@carlmail.com,2403608,(79) 3691 - 9911; (61) 11216 - 4525,"Avenida Estados Desunidos, 109",4;3;2;1
+386,Pamela Melo Melo,613.988.792-18,pamela_melo@hjmail.com.br,2906006,(78) 5869 - 1318; (57) 30844 - 6396,"Alameda confins, 677 - sala 6",1;3;4
+387,Sousa Ramos Ramos,191.452.824-73,sousa-ramos@carlmail.com,2202406,(49) 7485 - 9526; (17) 27836 - 3166,"Travessa Maria Angélica, 1769",4;2;3
+388,Rosi Andrade Santista,719.548.755-22,rosi.andrade@septem.co.uk,2702207,(24) 8265 - 4625; (14) 27481 - 7177,"Rua Santos Dumont, 1129",2;1;4
+389,Guilherme de Sá Ramos,328.983.848-91,guilherme_de@septem.co.uk,2312502,(67) 2832 - 3373; (58) 20276 - 8078,"Travessa Evangelista, 1766",1;2;3
+390,Adriana Abreu Sousa,374.846.424-53,adrianaabreu@septem.co.uk,1505064,(75) 9466 - 9445; (38) 16826 - 4402,"Avenida Yayá, 1122",2;4;3
+391,Camila Racazella Trindade,825.731.547-45,camila.racazella@hjmail.com.br,2600906,(24) 3542 - 9338; (65) 19721 - 8659,"Alameda Costa Teles, 1155",4;1;2;3
+392,Laura Sousa Santos,519.564.876-26,laura_sousa@carlmail.com,2805109,(49) 4271 - 4582; (32) 19919 - 5118,"Alameda garça, 1646",1;2
+393,Rafaela De Melo Silva,945.721.859-71,rafaela.de@hjmail.com.br,2312106,(82) 9314 - 8131; (15) 1234 - 8575,"Avenida serenata, 1674",1;4;2
+394,Teresa Melo Racazella,198.614.479-78,teresa.melo@hjmail.com.br,1501576,(71) 7611 - 6935; (81) 27682 - 5568; (61) 6137 - 6230,"Avenida da Cenoura, 31 - Apartamento 185",2;4;1;3
+395,Eduardo Santista Walter,396.157.765-77,eduardo_santista@hjmail.com.br,2616100,(58) 5813 - 9163; (41) 2949 - 8991; (21) 5995 - 2303,"Alameda do Bode, 433 - Apto 676",1;4;2
+396,Sousa Racazella Lima,584.557.537-92,sousa-racazella@hjmail.com.br,1711803,(38) 4817 - 5248; (75) 23278 - 8467; (19) 5498 - 3772,"Avenida Carolina, 1507",2;1;4
+397,Caio Silveira Santista,181.366.234-33,caio-silveira@hjmail.com.br,2508554,(13) 1642 - 7522; (74) 8632 - 9263; (17) 1954 - 9208,"Alameda Costa Teles, 1790",4;3
+398,Rosi Lima Crozara,483.611.638-99,rosilima@carlmail.com,2709301,(51) 2953 - 2336; (31) 17944 - 2510; (24) 7336 - 8986,"Avenida Saracura, 1548",2;3;1
+399,Laura Pires Lucas,682.293.538-38,laura.pires@hjmail.com.br,2700409,(77) 8372 - 8349; (61) 4988 - 4043; (42) 5763 - 7995,"Alameda do Gin Tônica, 1517",4;1;2
+400,Giulia Silveira Queiroz,183.785.517-81,giuliasilveira@septem.co.uk,2902252,(79) 4947 - 8294; (32) 4318 - 1357; (17) 2594 - 3734,"Alameda serenata, 1052 - Apartamento 992",4;1;2
+401,Sousa Sousa Silva,721.915.456-78,sousa_sousa@carlmail.com,1302207,(77) 9365 - 3128; (36) 29481 - 5475; (73) 1329 - 2057,"Alameda Cristina Aveiro, 1877",4;2;1
+402,William Sousa Pires,995.988.765-32,williamsousa@hjmail.com.br,2301703,(66) 4657 - 4645; (14) 25527 - 5634; (74) 7765 - 1619,"Avenida serenata, 1295",2;1;4
+403,Carla Abreu Abreu,321.214.886-51,carla_abreu@hjmail.com.br,1100189,(14) 4699 - 7483; (89) 12935 - 8370; (21) 8999 - 4828,"Travessa Easy, 637",2;3;4
+404,Carlos Queiroz Ramos,113.311.639-91,carlos-queiroz@hjmail.com.br,2209104,(78) 3239 - 4526; (54) 19784 - 8538; (33) 9571 - 6297,"Avenida do Carneiro, 60 - sala 10",3;1
+405,Caio Lucas Duarte,788.967.777-57,caio.lucas@hjmail.com.br,1720937,(35) 3351 - 6257; (64) 16226 - 5383; (67) 2686 - 6765,"Rua Vinícius CEO, 427 - Apto 403",1;2;3
+406,Orlando Melo Abreu,874.761.843-78,orlando-melo@carlmail.com,2111672,(46) 9411 - 2563; ,"Alameda Uberaba, 179",3;2
+407,Luzia Lucas Silveira,331.781.648-87,luzia.lucas@hjmail.com.br,1100205,(39) 9188 - 5227; ,"Rua Carolina, 1000",3;4;1
+408,Antonio Santos Racazella,789.915.655-32,antonio_santos@carlmail.com,1101435,(65) 1268 - 9362; ,"Travessa Zimbro, 933",4;2
+409,João Ramos de Sá,976.899.187-91,joão-ramos@carlmail.com,2400604,(28) 2913 - 4234; ,"Avenida do Coelho da Páscoa, 368",2;3
+410,Pamela Pires Crozara,775.149.933-51,pamela-pires@septem.co.uk,2605905,(99) 8859 - 6543; ,"Travessa Brasil, 814 - Apartamento 561",1;2
+411,Giulia Ramos Melo,231.863.413-34,giulia_ramos@hjmail.com.br,2901502,(61) 2589 - 3656; ,"Travessa Vinícius CEO, 786",2;4;1;3
+412,Gladison Santos Silveira,694.514.885-84,gladison_santos@septem.co.uk,1200179,(54) 2396 - 4389; ,"Avenida da Cenoura, 1735",1;4
+413,Rosi Duarte Lucas,346.434.841-46,rosi.duarte@hjmail.com.br,2510808,(83) 4272 - 9971; ,"Rua do Gin Tônica, 651 - sala 23",4;3
+414,João Melo Lima,794.522.767-99,joão_melo@hjmail.com.br,2304608,(43) 6347 - 5844; ,"Alameda Ernesto Augusto, 1425 - Apto 741",1;3
+415,Carlos Melo Oliveira,541.336.792-14,carlos-melo@hjmail.com.br,2613701,(15) 5152 - 6552; ,"Alameda da Cenoura, 1369",1;4
+416,Maria Santista Oliveira,523.287.118-71,mariasantista@septem.co.uk,2514107,(26) 3819 - 6329; ,"Avenida Colonial, 522 - Apto 800",1;3;2
+417,Maria Andrade Silva,874.521.677-93,maria_andrade@carlmail.com,2500700,(67) 2485 - 9347; (72) 18796 - 5485; (67) 6721 - 6332,"Rua Santos Dumont, 1844 - Apto 994",1;3;4
+418,Carlos Oliveira Oliveira,639.875.787-22,carlos.oliveira@septem.co.uk,1400506,(84) 9959 - 4677; (26) 15456 - 6201; (62) 1835 - 5320,"Travessa do Gin Tônica, 1003 - Apartamento 125",2;1
+419,Orlando Santista Sousa,798.573.443-16,orlando.santista@hjmail.com.br,2704005,(78) 2782 - 5936; (77) 10845 - 1178; (99) 9939 - 6887,"Alameda Marcos, 137",1;4;2;3
+420,Carla Abreu Santista,734.348.773-97,carla-abreu@carlmail.com,1506138,(55) 1871 - 4824; (58) 3619 - 1395; (68) 4212 - 9459,"Travessa Marcos, 1158 - Apartamento 355",3;1;2
+421,Maria Edgar Trindade,592.318.338-66,maria_edgar@hjmail.com.br,2309102,(25) 1443 - 6581; (77) 11539 - 5113; (81) 9779 - 2140,"Avenida Setembrina, 1877",3;4
+422,Camila Lima Trindade,437.543.333-65,camila_lima@hjmail.com.br,1702703,(81) 7313 - 8762; (82) 10332 - 6187; (32) 6922 - 6169,"Travessa Peas, 645",2;3
+423,Priscila Pires Santista,746.754.335-89,priscila-pires@carlmail.com,2112274,(33) 5417 - 6321; (98) 20992 - 3147; (69) 8738 - 2047,"Rua Uberaba, 1650 - sala 4",4;1
+424,Caio Santista Andrade,234.688.993-58,caio_santista@septem.co.uk,2107407,(35) 4745 - 8585; (18) 8661 - 2100; (67) 8932 - 4710,"Rua da Lenora, 1656 - Apartamento 124",2;3
+425,Dina Andrade Andrade,514.463.497-35,dina.andrade@septem.co.uk,2504306,(77) 7859 - 8267; (55) 19913 - 4372; (74) 5915 - 4438,"Rua Yayá, 1079 - Apartamento 22",4;2;1
+426,Rosa Ramos De Melo,853.151.794-76,rosa-ramos@carlmail.com,2413706,(97) 2722 - 5614; (54) 17378 - 8957; (36) 1959 - 1793,"Travessa Uberaba, 1727",4;1;3
+427,Adriana Silva Silveira,254.131.565-77,adriana-silva@carlmail.com,1717800,(43) 6979 - 5726; (27) 17341 - 1393; (41) 5279 - 2799,"Travessa Zimbro, 68 - Apartamento 187",3;4;2
+428,Lauro Andrade de Sá,357.652.996-65,lauro-andrade@septem.co.uk,2104800,(41) 7365 - 2896; (16) 26342 - 5596; (85) 6756 - 5064,"Travessa do Coelho da Páscoa, 897 - sala 24",1;2
+429,Carla Oliveira Duarte,655.673.526-59,carla.oliveira@carlmail.com,2304202,(56) 9891 - 9898; (49) 7465 - 8429; (37) 3865 - 2251,"Travessa Marques, 839",2;1;4
+430,Carlos de Sá Lima,488.236.497-15,carlos.de@hjmail.com.br,1302108,(36) 4378 - 3934; (92) 27484 - 8378; (76) 4741 - 9989,"Avenida milipode, 1939",3;1;4
+431,Carlos de Sá Silveira,962.569.622-56,carlos_de@hjmail.com.br,1703107,(29) 1113 - 4952; (68) 26874 - 8328; (94) 9214 - 3787,"Travessa Lenora, 1509",2;4;3
+432,Eduardo Walter Lucas,514.573.698-22,eduardo_walter@carlmail.com,2102077,(97) 5455 - 8482; (65) 3489 - 2157; (68) 4899 - 7436,"Avenida da Cenoura, 287 - Apto 726",2;4
+433,Otávio Queiroz Edgar,451.839.789-21,otávio_queiroz@hjmail.com.br,2512762,(84) 4588 - 6394; (98) 21115 - 5736; (37) 6759 - 2711,"Avenida Marques, 651",4;3;2
+434,Tony de Sá Crozara,492.486.325-26,tony-de@carlmail.com,2400604,(68) 8587 - 1827; (66) 3992 - 1949; (11) 2322 - 6830,"Avenida Marcos, 1105",2;3;1;4
+435,Rafael Queiroz Santista,626.814.937-22,rafael.queiroz@septem.co.uk,2308302,(48) 3493 - 3952; (44) 17395 - 1973; (65) 8931 - 4634,"Alameda Peas, 240 - sala 12",2;4;1
+436,Carlos Sousa Queiroz,286.282.262-14,carlos.sousa@hjmail.com.br,2706406,(61) 1185 - 3713; (88) 19757 - 4257; (42) 4446 - 6760,"Alameda Zimbro, 895",2;3;1
+437,Guilherme de Sá De Melo,975.979.397-88,guilherme_de@septem.co.uk,1715150,(24) 9422 - 9229; (45) 9556 - 1827; (62) 3761 - 7909,"Avenida da Lenora, 1529 - Apartamento 4",2;4;1
+438,Camila Santos Silva,872.243.551-89,camila-santos@hjmail.com.br,2202455,(39) 2195 - 4621; (33) 15476 - 2609; (38) 8977 - 9143,"Travessa garça, 1252",3;1;4
+439,Luzia De Melo Silveira,213.938.428-17,luzia_de@septem.co.uk,2208874,(75) 7662 - 2644; (78) 17884 - 6224; (92) 5617 - 4935,"Alameda Easy, 1309 - Apartamento 310",3;4
+440,Eduardo Abreu Melo,687.177.981-96,eduardo_abreu@hjmail.com.br,2202752,(31) 4711 - 6829; (79) 13666 - 1430; (92) 3896 - 4267,"Rua do Whisky, 1796 - Apartamento 649",2;3;4
+441,Eduardo Santista Crozara,751.518.236-25,eduardo.santista@carlmail.com,2608008,(85) 3563 - 3353; (41) 28553 - 9382; (87) 2469 - 4176,"Rua Setembrino, 263",1;3;2
+442,Adriana Ramos Ramos,678.323.276-96,adrianaramos@septem.co.uk,2706307,(47) 5488 - 1788; (65) 16165 - 6110; (19) 2625 - 9596,"Avenida do Coelho da Páscoa, 1831 - Apartamento 253",3;4;2
+443,Carla Trindade Walter,746.124.641-59,carla_trindade@hjmail.com.br,2801603,(49) 4744 - 8528; (92) 9477 - 4300; (81) 6877 - 7966,"Alameda Estados Desunidos, 22",1;3;4
+444,Adriana Silveira Queiroz,556.444.432-74,adriana-silveira@septem.co.uk,2206704,(85) 7638 - 5756; (92) 22813 - 6151; (33) 1543 - 4599,"Rua serenata, 1346 - Apartamento 505",4;1;2
+445,Antonio Silva Andrade,548.547.116-58,antonio_silva@carlmail.com,2202059,(34) 9361 - 7821; (81) 20421 - 2698; (36) 4153 - 2741,"Avenida do Bode, 139 - Apto 42",3;2;1
+446,João Santista Duarte,243.418.731-51,joão_santista@septem.co.uk,2913309,(93) 3314 - 5676; (12) 15928 - 6882; (83) 3255 - 7121,"Rua da Lenora, 3 - Apto 520",2;4
+447,Gladison Santos Trindade,274.282.137-46,gladisonsantos@hjmail.com.br,2708105,(18) 6719 - 1672; (87) 20674 - 6592; (72) 8425 - 4233,"Avenida serenata, 1390",3;1;2;4
+448,Giulia Duarte De Melo,894.799.837-13,giulia.duarte@septem.co.uk,1502806,(71) 4359 - 5331; (25) 24422 - 9457; (45) 1559 - 3915,"Alameda Setembro, 1326 - Apto 342",3;2;4
+449,Antonio Edgar Duarte,955.264.674-92,antonio_edgar@hjmail.com.br,2503506,(31) 5686 - 2458; (96) 22515 - 4474; (21) 3126 - 4653,"Travessa Marques, 84",4;2;1;3
+450,Gladison Pires Andrade,388.525.662-59,gladison_pires@hjmail.com.br,1718501,(92) 8238 - 2529; (94) 29172 - 1069; (63) 4628 - 9067,"Rua Cristo, 1582 - Apto 320",2;3;1
+451,Marcos Silveira Duarte,717.258.138-63,marcos.silveira@septem.co.uk,2913705,(32) 3278 - 4694; (59) 22151 - 6213; (52) 1436 - 6061,"Alameda milipode, 810 - sala 19",1;2;3
+452,Natasha Queiroz Walter,153.147.123-13,natashaqueiroz@carlmail.com,2601508,(89) 7748 - 1315; (41) 4455 - 3907; (99) 1973 - 8318,"Travessa do Coelho da Páscoa, 687 - Apto 943",3;1;4
+453,Rafael De Melo Andrade,949.956.441-89,rafael-de@septem.co.uk,2911857,(79) 5179 - 6152; (74) 26836 - 6139; (76) 7466 - 3940,"Alameda Lenora, 1577 - Apartamento 302",3;4;2
+454,Laura Ramos Santos,189.157.789-92,laura-ramos@septem.co.uk,1702158,(83) 5694 - 3825; (27) 27798 - 8991; (51) 1377 - 5166,"Alameda Catapora, 1666 - sala 8",1;4;2
+455,Pamela Trindade Edgar,666.237.271-98,pamela-trindade@hjmail.com.br,1504604,(48) 6852 - 8869; (23) 15396 - 6632; (45) 7966 - 3525,"Rua Carolina, 197",4;2
+456,Guilherme Andrade Lima,914.893.189-64,guilherme-andrade@hjmail.com.br,2203503,(93) 5313 - 5819; (69) 22724 - 1982; (73) 7775 - 4182,"Travessa Vinícius CEO, 1417 - sala 20",4;1;2
+457,Giulia Lucas Lucas,523.693.842-43,giulialucas@septem.co.uk,2306256,(69) 4794 - 3666; (16) 23529 - 4244; (34) 9282 - 5622,"Rua da Cenoura, 741",3;2;4
+458,Camila Lima Ramos,465.274.593-99,camila.lima@carlmail.com,2803906,(59) 9519 - 3322; (89) 9639 - 5311; (16) 7995 - 9893,"Travessa do Bode, 1345 - Apto 524",2;1;3
+459,João Andrade Lima,617.354.443-45,joão-andrade@septem.co.uk,1100379,(24) 1334 - 7676; (78) 3621 - 9494; (44) 1286 - 9861,"Avenida Easy, 1353",4;2
+460,Orlando Abreu Racazella,243.748.356-23,orlando_abreu@septem.co.uk,2107803,(23) 2952 - 5227; (27) 25425 - 8641; (75) 6588 - 2094,"Rua Cristo, 1242 - Apartamento 803",2;1;3
+461,Mylen Oliveira Oliveira,365.661.617-72,mylen-oliveira@carlmail.com,2701100,(47) 1853 - 6659; (65) 16293 - 9309; (15) 1629 - 6829,"Rua do Bode, 1050",3;1;4
+462,Rosa Crozara Racazella,383.387.637-52,rosacrozara@hjmail.com.br,2604908,(32) 4984 - 8252; (92) 1451 - 5535; (31) 3419 - 3786,"Alameda Marques, 673",1;4;2
+463,Carla Silveira Lucas,528.158.345-18,carla.silveira@septem.co.uk,2312205,(65) 2821 - 5916; (61) 18769 - 6831; (97) 3784 - 7839,"Alameda Yayá, 655",2;1
+464,Orlando Oliveira Silveira,596.537.472-95,orlando.oliveira@hjmail.com.br,1503754,(87) 2749 - 3355; (46) 24382 - 9917; (35) 5673 - 9365,"Avenida Cristina Aveiro, 1218 - Apartamento 443",1;4;2
+465,Carlos Lucas Santos,779.987.377-47,carlos.lucas@carlmail.com,2912509,(51) 2243 - 3752; (65) 4532 - 7839; (53) 2774 - 7873,"Alameda Easy, 857",3;2;1
+466,Natasha Abreu Silveira,865.682.566-26,natasha.abreu@septem.co.uk,2512200,(49) 2726 - 7833; (68) 19359 - 2868; (76) 2649 - 1568,"Rua do Bode, 195",4;3
+467,Gladison Andrade Pires,557.255.865-84,gladison-andrade@septem.co.uk,1707009,(42) 1347 - 1664; (89) 20391 - 9259; (41) 8837 - 8845,"Rua Catapora, 1438",1;3;2;4
+468,William Silva De Melo,643.919.659-45,william-silva@hjmail.com.br,2701902,(48) 2533 - 6874; (34) 17763 - 2896; (76) 9148 - 1123,"Travessa Yayá, 1210",4;2;1
+469,Rafael Walter Melo,798.314.691-93,rafael_walter@septem.co.uk,2102556,(14) 6333 - 1288; (83) 1451 - 6414; (29) 8325 - 4607,"Avenida Santos Dumont, 1298",1;4
+470,João Walter Silva,373.214.744-11,joão_walter@septem.co.uk,1200401,(12) 2374 - 1786; (44) 20362 - 4622; (87) 6185 - 2864,"Avenida Easy, 268 - sala 6",3;1;2;4
+471,Rafaela Melo Duarte,552.181.127-65,rafaela.melo@carlmail.com,1707553,(89) 2968 - 1519; (77) 26979 - 2211; (43) 9339 - 2946,"Avenida da Cenoura, 1400 - Apto 894",2;4;1
+472,Caio Santos Santos,536.374.898-49,caio.santos@hjmail.com.br,2910859,(89) 7319 - 1876; (62) 4741 - 4886; (15) 9469 - 9028,"Avenida Brasil, 1254 - Apto 110",4;3
+473,Igor Sousa De Melo,699.919.491-97,igor.sousa@septem.co.uk,1716653,(59) 2725 - 8118; (11) 6264 - 2919; (97) 9179 - 4347,"Avenida Lenora, 282",4;3;2
+474,Gladison Ramos Trindade,188.563.874-33,gladison_ramos@hjmail.com.br,2903805,(66) 2313 - 4156; (31) 23367 - 8662; (46) 9619 - 9717,"Alameda Zimbro, 830",4;3;1
+475,Camila de Sá Silveira,696.815.274-37,camila.de@septem.co.uk,1200435,(23) 6833 - 9548; (57) 25187 - 2018; (25) 3363 - 7225,"Avenida Carolina, 1096 - Apto 627",3;4;2
+476,Rosa Abreu Silva,434.148.858-11,rosa.abreu@septem.co.uk,2601052,(29) 2534 - 8274; (57) 1179 - 3514; (35) 8888 - 4794,"Rua do Carneiro, 1806",2;3;1
+477,Antonio Trindade Sousa,793.936.877-34,antoniotrindade@septem.co.uk,2311108,(32) 5974 - 8159; (29) 20686 - 3465; (19) 3988 - 5089,"Rua Cristo, 619 - sala 12",2;4;1;3
+478,Gladison Racazella De Melo,679.382.882-25,gladison_racazella@hjmail.com.br,2210706,(12) 3233 - 5527; (67) 6873 - 4652; (18) 2335 - 8846,"Avenida Yayá, 494 - sala 22",2;3;4
+479,Carlos Lucas Lucas,318.581.439-42,carloslucas@hjmail.com.br,2306603,(48) 5213 - 4179; (27) 17688 - 8143; (98) 8881 - 7334,"Alameda Santos Dumont, 1084 - Apartamento 101",3;4
+480,Maria Oliveira Silva,182.572.973-94,maria_oliveira@hjmail.com.br,1702307,(97) 3541 - 8917; (95) 2827 - 7517; (98) 8162 - 1022,"Travessa Cristo, 967",1;3;2
+481,Camila Walter Racazella,125.341.354-69,camilawalter@carlmail.com,1501808,(59) 9342 - 9388; (42) 5822 - 3993; (97) 4538 - 1368,"Alameda Vinícius CEO, 192",2;1;3
+482,Carlos Duarte Sousa,158.883.851-47,carlos-duarte@hjmail.com.br,2109239,(42) 4616 - 4623; (42) 26323 - 9745; (86) 3899 - 6919,"Alameda garça, 1574",4;2
+483,Natasha De Melo Sousa,154.271.334-11,natasha.de@carlmail.com,2605509,(79) 7493 - 4619; (41) 5993 - 3224; (98) 3676 - 2725,"Travessa do Whisky, 508",2;3;4
+484,Antonio de Sá Pires,487.343.557-15,antonio-de@hjmail.com.br,2111748,(54) 5674 - 5569; (32) 26727 - 7047; (32) 1531 - 2929,"Alameda da Lenora, 639 - Apartamento 712",2;1;3
+485,Leandro de Sá Trindade,311.448.445-57,leandro.de@hjmail.com.br,2500601,(93) 3377 - 2816; (11) 24671 - 7190; (31) 3156 - 5438,"Rua da Cenoura, 1371 - sala 8",3;1;4
+486,Guilherme De Melo Lima,844.491.969-81,guilherme.de@carlmail.com,1708205,(46) 7735 - 1424; (36) 30494 - 2562; (84) 1557 - 2144,"Avenida garça, 1377",2;3;4
+487,Sousa Lucas Queiroz,764.341.122-71,sousa.lucas@carlmail.com,1507508,(96) 3718 - 8727; (99) 19323 - 7592; (76) 1255 - 4584,"Travessa Carolina, 619",1;3
+488,Guilherme Racazella Abreu,531.296.721-86,guilherme-racazella@septem.co.uk,2613701,(28) 3891 - 6588; (39) 1954 - 9735; (82) 1996 - 4152,"Rua Saracura, 1632",4;3
+489,Antonio Sousa Santos,384.388.978-85,antonio_sousa@septem.co.uk,2804102,(11) 1437 - 3641; (93) 10479 - 8484; (46) 8721 - 7063,"Avenida Colonial, 1656",4;3
+490,Dina de Sá Lima,284.878.515-51,dinade@carlmail.com,2100550,(33) 9369 - 5122; (18) 8693 - 9007; (31) 8742 - 2979,"Avenida do Carneiro, 300",4;2
+491,Tony Andrade Lima,187.361.143-57,tonyandrade@septem.co.uk,2802908,(82) 1789 - 1225; (97) 3567 - 3624; (18) 6365 - 4935,"Alameda Evangelista, 756",2;3;1
+492,Antonio Pires De Melo,482.586.542-25,antonio.pires@septem.co.uk,2508505,(54) 6894 - 2986; ,"Rua Peas, 1519 - sala 3",3;1;4
+493,Mylen Andrade Santista,296.246.242-18,mylenandrade@septem.co.uk,2511202,(87) 2166 - 5212; ,"Alameda da Lenora, 1285",3;4
+494,Priscila Melo Ramos,513.815.783-64,priscila-melo@hjmail.com.br,1200427,(31) 5766 - 1945; ,"Rua Marques, 1760 - Apto 751",3;4;2
+495,Maria Silveira Walter,536.118.774-75,maria.silveira@carlmail.com,2109403,(49) 9134 - 8125; ,"Alameda Setembrina, 1721 - Apto 428",2;4;1;3
+496,Natasha Sousa Santos,643.515.882-32,natasha.sousa@carlmail.com,2313609,(58) 6261 - 9613; ,"Alameda Lenora, 1185 - Apartamento 82",2;1
+497,Laura Pires Ramos,371.851.929-31,laura_pires@carlmail.com,1301308,(19) 6936 - 6512; ,"Rua Setembrino, 475 - sala 1",2;1;3
+498,João Edgar Lucas,164.334.547-63,joão.edgar@septem.co.uk,2801504,(77) 3594 - 4613; ,"Travessa Costa Teles, 1780",4;3;2
+499,Priscila Edgar Lima,182.994.733-53,priscila.edgar@hjmail.com.br,2412559,(87) 7333 - 8552; ,"Travessa Evangelista, 1735 - sala 3",3;2
+500,Giulia Silveira Racazella,288.865.136-25,giulia.silveira@carlmail.com,2414308,(36) 8376 - 6251; ,"Avenida da Cenoura, 982 - sala 18",2;3;1
+501,Gladison Pires Crozara,522.969.478-26,gladison_pires@hjmail.com.br,2303204,(44) 7934 - 6238; ,"Rua do Bode, 450 - Apartamento 8",4;1
+502,Rafael Racazella Silveira,836.778.888-23,rafaelracazella@hjmail.com.br,2204154,(19) 5282 - 3645; ,"Alameda Yayá, 1664",1;4;2
+503,Mylen Melo De Melo,688.946.315-96,mylenmelo@septem.co.uk,2407203,(64) 8735 - 7839; ,"Rua Lenora, 1946",1;3;4
+504,Leandro Queiroz Crozara,115.575.216-59,leandro.queiroz@septem.co.uk,2412302,(45) 1886 - 3115; ,"Alameda do Whisky, 1713",2;1;3
+505,Eduardo Silveira Pires,163.754.991-96,eduardo_silveira@septem.co.uk,2405900,(55) 5773 - 5446; ,"Avenida Uberaba, 892",1;2;4;3
+506,Carla Oliveira Lima,935.968.874-31,carla.oliveira@hjmail.com.br,1502764,(64) 1859 - 9531; ,"Alameda do Whisky, 886",1;4
+507,Gladison Edgar Duarte,956.421.616-19,gladison_edgar@septem.co.uk,1720853,(29) 9127 - 3467; ,"Avenida do Whisky, 1137 - Apto 804",2;1;4
+508,Giulia Lima Queiroz,494.198.494-26,giulia.lima@hjmail.com.br,2413508,(72) 6792 - 4853; ,"Travessa confins, 1924",1;4
+509,Carla Trindade Queiroz,493.135.487-97,carla_trindade@hjmail.com.br,1600154,(34) 1394 - 4539; ,"Travessa Catapora, 1153 - Apartamento 594",3;2;4
+510,Lauro De Melo Crozara,718.794.769-83,lauro.de@septem.co.uk,1706258,(36) 4399 - 7168; ,"Alameda confins, 1789 - Apartamento 643",4;2
+511,Lisa Silva Queiroz,745.833.862-78,lisa_silva@carlmail.com,2514008,(28) 5994 - 1814; ,"Avenida Cristina Aveiro, 521",4;2;3
+512,Rosa Andrade Trindade,579.596.613-71,rosaandrade@hjmail.com.br,2304103,(63) 8824 - 6179; ,"Travessa do Bode, 610",1;4;2
+513,Giulia Walter Oliveira,511.846.779-72,giulia.walter@carlmail.com,1503309,(82) 2721 - 4388; ,"Avenida Zimbro, 1260 - Apto 628",1;4;3
+514,Mylen Lima De Melo,638.525.884-48,mylenlima@hjmail.com.br,2600401,(23) 6749 - 5198; ,"Alameda Yayá, 745",1;4
+515,Gladison Trindade Racazella,316.722.437-16,gladisontrindade@carlmail.com,2107407,(46) 7579 - 2285; ,"Rua Estados Desunidos, 1486",3;2
+516,Lauro De Melo Lucas,321.749.494-67,lauro.de@carlmail.com,1100189,(19) 3579 - 7622; ,"Rua do Whisky, 144",2;1;4
+517,Rafaela Duarte de Sá,885.775.492-19,rafaeladuarte@hjmail.com.br,2414605,(56) 8125 - 4635; ,"Travessa Vinícius CEO, 1593 - sala 2",4;1
+518,Otávio De Melo Ramos,458.176.591-65,otávio.de@carlmail.com,1501204,(75) 3277 - 8557; ,"Rua da Cenoura, 698 - Apto 161",1;2;3
+519,Rafael Lima Melo,439.151.286-37,rafael-lima@septem.co.uk,2409902,(23) 7548 - 7925; ,"Avenida Lenora, 1229",4;2
+520,Lisa de Sá Sousa,778.439.736-31,lisade@septem.co.uk,2515005,(94) 6918 - 5861; ,"Alameda Marques, 503",2;1
+521,Carlos Santista Silva,384.582.832-77,carlos_santista@carlmail.com,2209609,(24) 5518 - 8781; ,"Rua serenata, 855",2;4
+522,Giulia Trindade Duarte,158.114.784-19,giulia_trindade@carlmail.com,2701209,(51) 6897 - 9837; ,"Alameda da Lenora, 276 - Apartamento 811",4;1;3
+523,Leandro Ramos Andrade,666.152.563-89,leandroramos@hjmail.com.br,2505105,(33) 3611 - 8847; ,"Alameda Easy, 1045",3;1
+524,Carlos Silva Sousa,122.515.729-32,carlos-silva@hjmail.com.br,2414704,(97) 6764 - 8937; ,"Travessa Setembrino, 267 - Apto 910",3;4
+525,Rosi de Sá Andrade,162.488.819-18,rosi.de@septem.co.uk,2604908,(95) 4181 - 2136; ,"Alameda confins, 507",4
+526,Antonio Edgar Racazella,875.217.361-12,antonioedgar@carlmail.com,2100956,(81) 2344 - 3285; ,"Alameda garça, 1484",1;4;3
+527,Adriana Edgar Andrade,914.464.383-82,adriana_edgar@septem.co.uk,2510709,(68) 4756 - 5582; ,"Alameda Brasil, 1565",4;2
+528,Luzia Lucas Duarte,787.366.986-35,luzia.lucas@septem.co.uk,2202133,(25) 5477 - 7763; ,"Avenida Uberaba, 1608",1;3;2
+529,Pamela Sousa Lima,214.378.511-13,pamela.sousa@septem.co.uk,2602100,(34) 7312 - 8657; ,"Alameda Brasil, 1691",2
+530,Priscila Sousa Duarte,255.563.747-54,priscila.sousa@hjmail.com.br,2205953,(97) 9189 - 9696; ,"Travessa Maria Angélica, 1786 - Apartamento 209",4;3;1
+531,Natasha Edgar Queiroz,527.884.796-36,natashaedgar@hjmail.com.br,2601201,(49) 2674 - 9352; ,"Alameda Evangelista, 1301 - sala 12",2;1;3
+532,Adriana Melo Melo,625.644.871-72,adriana-melo@septem.co.uk,2509396,(63) 1581 - 4524; ,"Alameda Costa Teles, 280",3;4
+533,Giulia Melo Lima,335.458.868-92,giuliamelo@septem.co.uk,1400100,(71) 3822 - 6969; ,"Alameda do Coelho da Páscoa, 1142 - sala 18",2
+534,Laura Abreu Lucas,357.278.384-62,lauraabreu@hjmail.com.br,2106201,(42) 6639 - 2893; ,"Rua confins, 393 - Apto 38",3;1
+535,Sousa Edgar de Sá,288.259.923-85,sousa.edgar@hjmail.com.br,2900504,(89) 6132 - 8427; ,"Travessa Zimbro, 182",4;2
+536,Marcos Queiroz de Sá,896.316.225-15,marcos-queiroz@hjmail.com.br,2204303,(27) 9718 - 9897; ,"Alameda garça, 1372",3;4;1
+537,Eduardo De Melo Ramos,652.695.472-79,eduardo-de@hjmail.com.br,2206209,(35) 2775 - 5152; ,"Alameda Marques, 1600 - Apartamento 959",2;1;3
+538,Rafaela Silveira Queiroz,342.522.218-51,rafaela.silveira@septem.co.uk,2501351,(39) 6326 - 5552; ,"Alameda da Cenoura, 1923",2
+539,Igor Ramos Lima,242.636.933-21,igor_ramos@hjmail.com.br,2913804,(97) 4558 - 2259; ,"Travessa Costa Teles, 738 - sala 25",2;1;3
+540,Sousa Santista Queiroz,281.485.727-67,sousa_santista@septem.co.uk,2517407,(94) 3358 - 2362; ,"Avenida do Whisky, 1190",4;2;1
+541,Teresa Racazella Ramos,484.985.886-87,teresa-racazella@hjmail.com.br,2100808,(98) 5928 - 9183; ,"Rua do Gin Tônica, 1132",4;2
+542,Lisa Pires Walter,312.463.632-84,lisa.pires@septem.co.uk,2507507,(88) 2368 - 4296; ,"Travessa do Coelho da Páscoa, 2032 - sala 21",4;1
+543,Dina Walter Andrade,187.515.986-68,dinawalter@carlmail.com,2702306,(31) 9483 - 6479; ,"Alameda do Coelho da Páscoa, 1363",3;1
+544,Igor Sousa Lucas,132.155.251-24,igor_sousa@hjmail.com.br,2101301,(35) 4251 - 4357; ,"Avenida Setembro, 120",2;1
+545,Luzia Ramos Oliveira,725.554.659-46,luziaramos@septem.co.uk,1300409,(59) 8458 - 5954; ,"Rua serenata, 580",3;1;2
+546,Antonio Duarte Oliveira,232.884.341-11,antonioduarte@carlmail.com,1501956,(83) 7675 - 4598; ,"Rua Setembrino, 1415",3;4;2
+547,Natasha Duarte Queiroz,339.338.979-82,natashaduarte@hjmail.com.br,1713205,(17) 8597 - 2252; ,"Travessa Colonial, 1394 - Apto 151",2;3;1
+548,Dina Melo Pires,592.146.948-98,dina-melo@hjmail.com.br,2709400,(77) 8711 - 3867; ,"Travessa Setembrino, 52",1;2;3
+549,Rafaela Edgar Silveira,637.754.972-99,rafaela-edgar@septem.co.uk,2307650,(37) 1253 - 9239; ,"Alameda Ernesto Augusto, 1911 - Apartamento 278",3;4;1
+550,Rosi Ramos Oliveira,782.646.112-76,rosiramos@hjmail.com.br,1506708,(72) 1358 - 1186; ,"Travessa Marques, 796",4;1;2
+551,Adriana Queiroz Trindade,515.283.967-35,adriana_queiroz@septem.co.uk,2510600,(22) 2665 - 5955; ,"Avenida Brasil, 624",2;1;3
+552,Tony De Melo Queiroz,776.863.613-94,tonyde@carlmail.com,2700805,(92) 4159 - 5657; ,"Avenida Cristo, 101",3;1
+553,Eduardo Walter Sousa,476.288.932-53,eduardo.walter@septem.co.uk,2205805,(46) 9141 - 5148; ,"Avenida serenata, 1897 - Apartamento 285",4;1;2
+554,Carlos Silva Queiroz,288.274.949-28,carlossilva@septem.co.uk,2205573,(55) 9531 - 9887; ,"Travessa Evangelista, 187",1;3;2
+555,Orlando Melo Sousa,641.624.324-97,orlando-melo@hjmail.com.br,2616407,(78) 9194 - 1838; ,"Avenida do Gin Tônica, 615",4;2;3
+556,Carlos de Sá Santos,879.322.758-52,carlos_de@carlmail.com,2112852,(63) 2386 - 7887; ,"Alameda Setembro, 1438",1;3;4;2
+557,Laura Edgar Silveira,696.933.927-22,laura_edgar@hjmail.com.br,2708956,(84) 4839 - 2616; ,"Alameda Marques, 1015",2;1
+558,Sandra Andrade Lima,545.727.438-57,sandra.andrade@carlmail.com,1507755,(83) 8777 - 8759; ,"Travessa Uberaba, 1885 - sala 23",4;1;2
+559,Carlos Santista Crozara,194.839.718-55,carlos-santista@carlmail.com,2406908,(21) 9757 - 4912; ,"Travessa Cristo, 246 - sala 15",4;3
+560,Pamela Lima Walter,126.859.143-61,pamela_lima@hjmail.com.br,2914505,(75) 1497 - 2836; ,"Rua Ernesto Augusto, 341 - sala 22",3;4;2;1
+561,Gladison Lucas Melo,276.797.257-94,gladison-lucas@septem.co.uk,2613107,(25) 6528 - 4325; ,"Travessa Vinícius CEO, 807",4;2;3
+562,João Walter Silveira,845.947.577-94,joãowalter@septem.co.uk,1200336,(57) 9324 - 8857; ,"Alameda do Bode, 132",1;2;4
+563,Natasha Edgar Lima,966.243.181-67,natasha-edgar@septem.co.uk,1100114,(82) 9984 - 8228; ,"Rua Easy, 1673",2;4
+564,Orlando Santos Oliveira,937.714.943-57,orlando_santos@carlmail.com,2204303,(24) 5282 - 1941; ,"Travessa Santos Dumont, 769 - Apto 631",4;2;3
+565,Carlos Walter Abreu,642.467.462-57,carlos_walter@septem.co.uk,2701001,(46) 9411 - 6178; ,"Travessa Cristina Aveiro, 394",3;1
+566,Leandro Santista Walter,611.562.848-11,leandro-santista@septem.co.uk,2109270,(58) 2797 - 4184; ,"Avenida Maria Angélica, 1943",2;1
+567,Orlando Sousa Andrade,691.832.995-96,orlandosousa@carlmail.com,2301802,(25) 7626 - 3688; ,"Travessa Setembrino, 1508 - sala 3",3;2;1
+568,Igor Lucas Silveira,517.462.327-89,igor-lucas@carlmail.com,2512101,(77) 9896 - 4583; ,"Travessa Evangelista, 1098 - Apto 364",2;1;3
+569,Carla Abreu Queiroz,414.541.375-22,carla-abreu@hjmail.com.br,2109304,(11) 3792 - 9851; ,"Rua do Bode, 161",4;1
+570,Mylen Santos Trindade,396.623.626-84,mylensantos@septem.co.uk,2505105,(31) 3977 - 1278; ,"Travessa do Coelho da Páscoa, 23 - Apartamento 837",3;2;4
+571,Lauro Santista Pires,942.149.466-85,lauro.santista@hjmail.com.br,2905107,(72) 1939 - 2888; ,"Travessa Peas, 1196 - Apartamento 765",4;2;3
+572,Natasha Andrade Walter,313.885.525-11,natasha-andrade@septem.co.uk,2205607,(28) 3189 - 4429; ,"Alameda Saracura, 258",3;1
+573,Camila Lima Lucas,649.584.686-85,camila-lima@septem.co.uk,2400406,(43) 4159 - 2267; ,"Alameda Ernesto Augusto, 1789",1
+574,William De Melo Oliveira,671.397.469-13,william_de@septem.co.uk,2602100,(58) 8634 - 1749; ,"Rua confins, 803 - Apto 571",4;3
+575,Teresa Melo Abreu,883.546.515-21,teresa.melo@septem.co.uk,2411106,(98) 5964 - 6929; ,"Rua Ernesto Augusto, 635 - Apartamento 589",1;3
+576,Laura Oliveira Sousa,462.294.316-38,lauraoliveira@carlmail.com,1506708,(67) 3974 - 4415; ,"Alameda do Carneiro, 308 - Apartamento 115",4;2;1
+577,Lisa Queiroz Racazella,214.793.579-85,lisa.queiroz@septem.co.uk,2406403,(82) 7861 - 2817; ,"Rua Carolina, 1650",2
+578,Caio Silva Melo,963.876.784-84,caio-silva@septem.co.uk,2601102,(24) 5342 - 1528; (71) 21891 - 6723,"Travessa da Cenoura, 921 - Apartamento 159",1;3;4
+579,Lauro Melo Queiroz,911.552.724-28,lauromelo@septem.co.uk,2605400,(45) 5843 - 3178; (63) 8521 - 2995,"Rua Cristina Aveiro, 1298 - Apto 931",2;4;3
+580,Luzia Santos Oliveira,588.589.527-23,luzia.santos@hjmail.com.br,2106805,(72) 9872 - 4236; (52) 3269 - 8637,"Rua Carolina, 1056 - sala 4",1;2;4
+581,Mylen Silveira Walter,488.543.539-62,mylensilveira@hjmail.com.br,2508703,(87) 7272 - 2866; (42) 21849 - 1223,"Avenida Santos Dumont, 1368",3;2
+582,Maria Pires Sousa,729.791.162-45,maria_pires@hjmail.com.br,2608404,(15) 8782 - 6121; (81) 24116 - 8475,"Travessa Setembro, 1246",3;1;2
+583,João Sousa Crozara,746.827.883-72,joão.sousa@septem.co.uk,2902906,(92) 8998 - 2397; (59) 30526 - 3846,"Rua Cristina Aveiro, 327 - Apto 578",2;1
+584,Carlos Ramos Duarte,536.629.474-74,carlosramos@septem.co.uk,2108256,(76) 4983 - 9484; (44) 12582 - 4512,"Alameda Costa Teles, 1791",1;2
+585,Priscila Oliveira Melo,291.639.385-63,priscila.oliveira@septem.co.uk,2109239,(63) 4444 - 2777; (88) 6172 - 2828,"Rua Marques, 1630",2;3
+586,Priscila de Sá Andrade,421.498.524-32,priscilade@carlmail.com,1100288,(86) 4943 - 4441; (99) 1953 - 9244,"Rua do Carneiro, 1905",3;2;1
+587,William Sousa Melo,639.636.317-59,william_sousa@carlmail.com,1500206,(62) 5185 - 5525; (46) 5831 - 6239,"Avenida do Whisky, 365 - Apto 454",1;2
+588,Giulia Crozara Lucas,363.551.657-42,giuliacrozara@septem.co.uk,2601201,(81) 9965 - 7722; (86) 20492 - 6194,"Travessa Uberaba, 694",4;2
+589,Otávio Ramos Lima,159.346.299-55,otávioramos@hjmail.com.br,1721109,(96) 1827 - 9734; (41) 4425 - 1438,"Alameda da Lenora, 619 - Apto 924",2;4;1
+590,Carlos Silveira Duarte,363.351.242-83,carlos-silveira@carlmail.com,2513968,(65) 5184 - 2665; (42) 6772 - 7683,"Alameda Vinícius CEO, 1464 - Apto 284",3;4
+591,Caio Sousa Silveira,521.631.383-59,caiosousa@hjmail.com.br,2501153,(71) 5187 - 1742; (65) 19683 - 1960,"Avenida do Bode, 300",4;3;1
+592,Gladison Melo Andrade,653.281.737-64,gladisonmelo@hjmail.com.br,2211605,(34) 2219 - 6795; (83) 23218 - 8310,"Avenida Marques, 16 - Apto 468",4;2;3
+593,Lisa Racazella de Sá,811.934.672-39,lisa.racazella@septem.co.uk,2103174,(74) 2776 - 3773; (11) 22565 - 8794,"Travessa milipode, 2031",1;4;2
+594,Rafaela Lucas Oliveira,646.448.145-49,rafaelalucas@carlmail.com,2610806,(82) 8567 - 7527; (97) 24125 - 4368,"Travessa Costa Teles, 620 - Apto 130",3;1
+595,Maria Racazella Duarte,595.959.294-59,maria-racazella@carlmail.com,2907558,(21) 1536 - 8736; (94) 7648 - 2514,"Avenida serenata, 662 - Apto 444",3;1
+596,Gladison Duarte Crozara,283.817.556-83,gladisonduarte@hjmail.com.br,2705408,(47) 8966 - 7845; (23) 1353 - 7867,"Travessa Setembro, 1547",1;3
+597,Rafaela Oliveira Melo,229.949.442-52,rafaelaoliveira@septem.co.uk,2300754,(57) 5554 - 1582; (95) 5357 - 8464,"Travessa do Carneiro, 1520 - Apartamento 809",3;4
+598,Rosa Andrade Silva,915.269.936-95,rosa_andrade@carlmail.com,2107001,(32) 1232 - 9793; (51) 26686 - 9904,"Avenida milipode, 1965 - Apartamento 408",3;4
+599,Carla Pires Queiroz,327.687.127-91,carla_pires@hjmail.com.br,1504208,(69) 9122 - 9236; (32) 19752 - 3175,"Rua Zimbro, 538 - sala 14",1;2;4
+600,Rosa Santos Melo,176.137.241-54,rosa_santos@septem.co.uk,2111201,(32) 4668 - 4722; (29) 12554 - 3571,"Rua Lenora, 109 - Apto 486",4;1;2;3
+601,Dina Santos Duarte,839.186.931-16,dinasantos@septem.co.uk,2200509,(38) 9778 - 3637; (35) 1775 - 7919,"Rua Yayá, 1962",1;4
+602,Sandra Santista Queiroz,189.575.145-46,sandra-santista@septem.co.uk,2903508,(42) 2175 - 3631; (94) 14879 - 7789,"Alameda Setembrino, 1864 - Apto 424",1;4;2
+603,Carlos Sousa Queiroz,417.247.124-58,carlos_sousa@hjmail.com.br,2200251,(17) 8841 - 5839; (12) 17848 - 5711,"Avenida Saracura, 1764",1;3;2
+604,Luzia Oliveira Duarte,559.149.886-96,luzia.oliveira@septem.co.uk,1200054,(73) 2382 - 8335; (82) 2472 - 9775,"Travessa Lenora, 1171",3;1
+605,Luzia Silveira De Melo,762.583.417-66,luzia_silveira@carlmail.com,2510402,(91) 3619 - 2875; (93) 7816 - 1706,"Travessa Catapora, 1739 - Apto 450",1;2;3
+606,Gladison Abreu Ramos,121.336.942-74,gladisonabreu@septem.co.uk,2905909,(13) 7744 - 1413; (91) 14873 - 2269,"Avenida da Lenora, 579 - Apto 934",4;1;3
+607,Tony Sousa Abreu,323.676.118-18,tony_sousa@carlmail.com,2806107,(98) 7376 - 3839; (87) 28784 - 3717,"Rua Peas, 1050 - Apartamento 368",1;3;4
+608,Orlando Sousa Edgar,594.547.186-46,orlando.sousa@septem.co.uk,2304269,(56) 1755 - 6319; (63) 25739 - 4498,"Alameda da Lenora, 1579 - Apartamento 337",3;1;2
+609,Natasha Queiroz Pires,237.531.172-74,natasha.queiroz@hjmail.com.br,1300706,(45) 2774 - 5728; (92) 18123 - 4546,"Alameda Ernesto Augusto, 1952",4;1;3
+610,Priscila Oliveira Crozara,612.149.676-67,priscilaoliveira@carlmail.com,1300300,(24) 6346 - 6714; (47) 6763 - 4374,"Rua do Carneiro, 1433 - Apto 476",1;4;2
+611,Rafael Walter Queiroz,168.429.193-14,rafael.walter@septem.co.uk,2602100,(33) 7736 - 2768; (98) 26457 - 5124,"Alameda do Bode, 104",4;2
+612,Rosa Lima de Sá,475.691.237-82,rosa.lima@septem.co.uk,2414001,(81) 1923 - 3823; (94) 4999 - 7516,"Avenida do Whisky, 316",3;2;4
+613,Otávio Queiroz Melo,439.618.495-78,otávio-queiroz@septem.co.uk,2705606,(81) 5592 - 2843; (47) 29334 - 2412,"Travessa Ernesto Augusto, 1179",2;3;1;4
+614,Teresa Sousa Santos,465.245.314-27,teresasousa@septem.co.uk,1100346,(66) 5612 - 7722; (82) 25549 - 9962,"Alameda da Cenoura, 1636 - sala 12",4;2;1
+615,Leandro Crozara Andrade,722.696.234-49,leandro_crozara@carlmail.com,2309607,(14) 9716 - 6344; (33) 5757 - 5233,"Rua da Cenoura, 186 - Apartamento 116",4;1;2
+616,Eduardo Lucas Trindade,748.191.936-31,eduardolucas@carlmail.com,2101905,(62) 6722 - 1584; (92) 22888 - 9315,"Alameda serenata, 1215",2;3;1
+617,Luzia Walter Sousa,217.789.993-38,luziawalter@carlmail.com,2400307,(35) 4958 - 9729; (74) 22656 - 9450,"Alameda da Cenoura, 1113 - sala 13",4;1
+618,Natasha Oliveira Santos,322.756.697-73,natasha_oliveira@septem.co.uk,2502102,(18) 9661 - 7718; (98) 5625 - 9505,"Travessa Setembrino, 1911",3;2;4
+619,Carlos Queiroz Edgar,685.537.648-96,carlos-queiroz@hjmail.com.br,2902005,(66) 3527 - 1628; (56) 21768 - 1672,"Rua Cristina Aveiro, 831 - Apartamento 210",1;2;4
+620,Giulia Lucas Queiroz,887.593.365-81,giulia.lucas@hjmail.com.br,1506005,(55) 4569 - 5428; (37) 18315 - 9180,"Avenida Setembro, 1497",4;2
+621,Natasha Trindade Lucas,471.483.912-46,natasha.trindade@carlmail.com,2201572,(54) 5933 - 9925; (82) 17328 - 6514,"Avenida Catapora, 1605",4;2;1
+622,Rafael Sousa Oliveira,226.436.298-75,rafaelsousa@hjmail.com.br,2913309,(34) 2361 - 2546; (11) 2748 - 3464,"Travessa Yayá, 96 - sala 16",2;1;3
+623,Igor de Sá Duarte,498.688.452-52,igor_de@septem.co.uk,2908200,(26) 3769 - 6134; (72) 6588 - 7604,"Travessa da Lenora, 308",1;3;4
+624,Beatriz Lucas Santos,495.975.138-67,beatrizlucas@septem.co.uk,2203354,(36) 9517 - 3853; (45) 23467 - 1067,"Travessa confins, 1551 - Apto 598",2;3;4
+625,Tony Silva Edgar,321.162.618-43,tony.silva@septem.co.uk,2111706,(72) 9293 - 6287; (53) 19526 - 6097,"Avenida da Cenoura, 643",2;4
+626,Otávio Duarte Andrade,122.148.822-39,otávio.duarte@septem.co.uk,2612703,(18) 6166 - 8776; (43) 11884 - 2078,"Alameda Setembro, 1047 - Apto 480",2;3;1
+627,Mylen Racazella De Melo,184.623.559-14,mylenracazella@hjmail.com.br,2302305,(67) 7353 - 7595; (89) 11784 - 5322,"Rua Zimbro, 410 - sala 3",2;3;1
+628,Priscila Duarte Walter,957.734.431-43,priscila-duarte@septem.co.uk,2407252,(63) 7685 - 8798; (37) 6478 - 6836,"Rua Marques, 1311",1;3
+629,Antonio Santos Lima,896.739.464-81,antonio.santos@carlmail.com,2105450,(99) 7333 - 9359; (92) 7469 - 4680,"Avenida do Coelho da Páscoa, 129",2;3;1
+630,Natasha Edgar Oliveira,235.774.889-17,natasha-edgar@septem.co.uk,1100130,(84) 5549 - 9369; (65) 13948 - 7248,"Avenida Uberaba, 2013 - Apartamento 799",3;1
+631,Rosa Queiroz Sousa,984.222.369-45,rosaqueiroz@septem.co.uk,2600302,(26) 1869 - 8949; (51) 16675 - 4202,"Travessa Easy, 343 - sala 19",2;4;3;1
+632,Maria Santista Lucas,631.535.469-81,mariasantista@hjmail.com.br,2312205,(84) 9358 - 4397; (33) 17292 - 1755,"Alameda Catapora, 394 - sala 22",3;2;1
+633,Carlos de Sá Oliveira,794.191.872-39,carlos_de@hjmail.com.br,2311108,(27) 5313 - 1731; (65) 22393 - 7740,"Rua da Cenoura, 1352 - Apto 358",2;4;3
+634,Rosa Abreu Andrade,746.889.351-92,rosaabreu@hjmail.com.br,2402105,(88) 9154 - 8576; (81) 9335 - 3000,"Alameda Santos Dumont, 1087 - sala 8",1;3;2
+635,Eduardo Abreu Queiroz,481.891.456-28,eduardo.abreu@carlmail.com,2302909,(37) 1777 - 3166; (21) 25348 - 4706,"Rua confins, 992 - Apartamento 79",4;3;1
+636,Leandro de Sá Santista,154.132.391-66,leandro.de@septem.co.uk,2412609,(31) 7552 - 1834; (88) 22987 - 8195,"Alameda do Whisky, 583",2;1
+637,Mylen Trindade Silva,555.761.511-76,mylen_trindade@septem.co.uk,2503308,(49) 7332 - 8577; (21) 17396 - 2588,"Avenida Setembrino, 1789",3
+638,Caio Trindade Trindade,152.128.856-12,caio.trindade@carlmail.com,2203420,(61) 7527 - 3388; (63) 1354 - 8257,"Rua do Bode, 669",3;4;2
+639,Teresa Andrade Abreu,165.779.998-65,teresa.andrade@septem.co.uk,1718204,(86) 4878 - 8763; (19) 30591 - 5984,"Rua da Lenora, 1020 - Apto 500",3;1;4
+640,Otávio Andrade Pires,459.439.511-91,otávio.andrade@carlmail.com,2209757,(97) 1346 - 5989; (81) 2794 - 4737,"Avenida Marques, 533",3;4;1;2
+641,Gladison Walter Queiroz,285.129.465-14,gladison-walter@hjmail.com.br,2702108,(23) 9658 - 6827; (88) 14524 - 4745,"Alameda Marcos, 1776",1;4
+642,Igor Queiroz Trindade,452.559.743-22,igor-queiroz@septem.co.uk,2313906,(66) 6577 - 1636; (87) 30175 - 7940,"Alameda Colonial, 207",3;1;4
+643,Caio Sousa De Melo,653.711.134-72,caio.sousa@septem.co.uk,1400456,(46) 9977 - 9875; (72) 7675 - 7154,"Avenida Cristo, 226",2;4;3
+644,Rosi Silveira Crozara,982.683.648-59,rosi.silveira@carlmail.com,2208700,(79) 5697 - 6365; (54) 26951 - 5227,"Avenida Marques, 729",2;3;1
+645,Guilherme Ramos Sousa,953.521.347-44,guilhermeramos@carlmail.com,2907103,(52) 1258 - 5855; (84) 13727 - 3371,"Rua Santos Dumont, 1938 - Apartamento 188",1;4
+646,Rafael Sousa Queiroz,651.521.199-46,rafael_sousa@hjmail.com.br,2507200,(69) 8259 - 8426; (48) 18395 - 7092,"Alameda Yayá, 620 - Apartamento 997",4;1;2
+647,Eduardo De Melo Oliveira,784.157.135-68,eduardo.de@hjmail.com.br,2202000,(51) 4258 - 1785; (91) 30995 - 9930,"Alameda Evangelista, 1188 - Apartamento 488",3;2;4
+648,Laura Silva Santos,878.441.469-73,laurasilva@septem.co.uk,2506004,(15) 2393 - 9231; (65) 11211 - 2803,"Rua Vinícius CEO, 669",2;4;1
+649,Carlos Racazella Edgar,729.734.829-11,carlosracazella@hjmail.com.br,2614105,(86) 7749 - 5431; (35) 17913 - 4964,"Alameda confins, 1929 - Apto 75",3;2
+650,Rosi Andrade Racazella,418.125.923-61,rosi_andrade@hjmail.com.br,1705102,(59) 4214 - 2199; (76) 27284 - 3499,"Travessa Costa Teles, 1224 - sala 9",4;3;2
+651,Marcos Racazella de Sá,562.244.891-88,marcos.racazella@hjmail.com.br,2403400,(55) 2795 - 4993; (46) 19678 - 3900,"Travessa Carolina, 34",1;4;2
+652,Adriana Lima Sousa,581.931.529-59,adrianalima@hjmail.com.br,2707909,(67) 2738 - 2358; (65) 28933 - 3829,"Avenida confins, 469",3;2
+653,Dina Duarte Abreu,495.392.651-27,dinaduarte@carlmail.com,1101104,(55) 7384 - 3664; (87) 19964 - 5765,"Rua Marques, 1983 - Apto 268",4;1
+654,Sousa Abreu Racazella,737.887.965-57,sousaabreu@hjmail.com.br,2210409,(79) 2696 - 3986; (32) 21179 - 8945,"Travessa do Carneiro, 856",4;3
+655,Eduardo Walter Silva,675.786.664-71,eduardo-walter@hjmail.com.br,2204154,(44) 6438 - 7413; (11) 6757 - 6328,"Travessa Saracura, 522",1;2;4
+656,Caio Melo Crozara,366.641.889-58,caiomelo@carlmail.com,2209153,(67) 2346 - 6864; (82) 14796 - 9206,"Rua da Lenora, 237 - Apartamento 757",1;3;4;2
+657,Marcos Andrade Pires,566.384.787-91,marcos-andrade@septem.co.uk,2600609,(73) 8315 - 7441; (49) 22945 - 9239,"Rua Vinícius CEO, 1241",2;1;4
+658,Eduardo Crozara Oliveira,986.943.841-94,eduardocrozara@septem.co.uk,2200103,(82) 6668 - 1584; (49) 21825 - 8288,"Travessa Peas, 1490",2;3;1;4
+659,Sandra Silveira Queiroz,122.897.375-77,sandrasilveira@septem.co.uk,2514107,(68) 9989 - 8779; (58) 12859 - 3046,"Travessa do Carneiro, 1932 - Apartamento 243",3;1;2
+660,Teresa Silveira Edgar,536.469.519-78,teresa_silveira@septem.co.uk,2404903,(16) 1474 - 7424; (27) 2311 - 6320,"Avenida Yayá, 479",4;2
+661,Priscila Pires Trindade,743.575.797-61,priscila.pires@carlmail.com,2100873,(24) 4451 - 4147; (62) 14945 - 5277,"Travessa Cristina Aveiro, 956 - Apartamento 693",2;1
+662,Lisa Crozara Santos,535.735.139-21,lisa.crozara@septem.co.uk,1300060,(19) 9819 - 3271; (61) 5529 - 6472,"Alameda do Bode, 368 - Apartamento 352",1;4
+663,Caio Melo Trindade,857.172.678-74,caio-melo@septem.co.uk,1300102,(59) 1539 - 7672; (31) 13767 - 9978,"Avenida do Coelho da Páscoa, 480",1;4;2
+664,Beatriz Lima Silveira,837.777.564-51,beatriz.lima@carlmail.com,2502805,(63) 5598 - 4885; (15) 17754 - 2091,"Rua confins, 1755 - Apartamento 463",3;2
+665,Rafael Oliveira Ramos,968.517.484-27,rafael-oliveira@hjmail.com.br,2609907,(74) 8822 - 6527; (24) 6486 - 5001,"Travessa Cristo, 2038",4;2;3
+666,Carlos Silveira Andrade,629.837.689-96,carlos-silveira@hjmail.com.br,2603454,(77) 4931 - 6987; (69) 9729 - 2273,"Travessa Vinícius CEO, 362",4;1
+667,Natasha Trindade De Melo,582.579.498-21,natashatrindade@septem.co.uk,2209500,(97) 5239 - 1293; (71) 21386 - 4430,"Travessa Maria Angélica, 1964 - sala 5",1;2
+668,Mylen Walter Lucas,514.775.884-57,mylenwalter@septem.co.uk,2202026,(56) 6164 - 8748; (81) 26954 - 6137,"Avenida confins, 1908 - Apto 661",3;1;4
+669,Carlos Duarte Duarte,984.126.116-68,carlos-duarte@hjmail.com.br,1505700,(37) 1955 - 1873; (57) 28143 - 5010,"Alameda Costa Teles, 1378 - Apartamento 994",2;4;1
+670,Beatriz Racazella Sousa,212.486.287-81,beatriz.racazella@septem.co.uk,2401909,(79) 4858 - 8811; (22) 3813 - 2923,"Travessa Maria Angélica, 819",3;2
+671,Maria Pires Crozara,984.787.324-96,maria.pires@carlmail.com,2704906,(78) 8739 - 1255; (65) 10849 - 3195,"Avenida Catapora, 422 - Apto 541",4;2
+672,Igor Silveira Queiroz,757.598.814-98,igor-silveira@hjmail.com.br,2201988,(28) 7644 - 3467; (56) 5543 - 8090,"Alameda Yayá, 1073 - sala 10",4;2;3
+673,Teresa Lucas Lima,638.227.484-48,teresa-lucas@carlmail.com,2902302,(34) 9441 - 3777; (82) 10464 - 5263,"Avenida Brasil, 1570",2;3;1
+674,Eduardo De Melo de Sá,478.192.359-32,eduardode@septem.co.uk,1718451,(12) 8894 - 3341; (28) 21318 - 8062,"Alameda da Lenora, 431 - Apartamento 859",2
+675,Camila Santos Melo,447.559.831-68,camila.santos@septem.co.uk,1712801,(29) 6396 - 1813; (84) 29566 - 8730,"Travessa Cristo, 145",4;2
+676,Pamela De Melo Silveira,362.666.659-27,pamelade@carlmail.com,2602803,(17) 3812 - 9179; (42) 4258 - 6636,"Avenida Estados Desunidos, 518 - Apto 737",4;1;2
+677,Rafael Trindade Silva,584.271.239-16,rafael_trindade@septem.co.uk,2902609,(85) 6521 - 5139; (85) 7945 - 7466,"Travessa Ernesto Augusto, 1068",3;4
+678,Rafaela Andrade Pires,113.574.497-79,rafaela-andrade@carlmail.com,1504422,(98) 3355 - 3774; (74) 30991 - 1978,"Avenida do Carneiro, 925",3;4
+679,Leandro Sousa Trindade,747.379.345-18,leandrosousa@hjmail.com.br,2108603,(36) 4269 - 6358; (86) 7678 - 4391,"Travessa milipode, 608 - Apartamento 187",4;1
+680,Igor Lucas Silva,465.136.354-74,igorlucas@septem.co.uk,2305100,(36) 1773 - 4131; (84) 25882 - 2846,"Travessa Setembrina, 1800",2;3
+681,Sandra Trindade Duarte,582.531.841-85,sandra.trindade@septem.co.uk,2613206,(84) 5669 - 7732; (27) 2811 - 3808,"Travessa Cristina Aveiro, 2006 - Apto 552",3;2;4
+682,Beatriz Andrade Silva,849.948.974-86,beatriz-andrade@hjmail.com.br,2111052,(35) 9759 - 3788; (95) 7261 - 2829,"Alameda Peas, 1129",1;2;3
+683,Adriana Ramos Edgar,659.692.211-16,adrianaramos@carlmail.com,1400050,(37) 2745 - 3534; (84) 27584 - 4443,"Rua milipode, 1268",3;4;1
+684,Rosi Duarte Crozara,357.592.813-27,rosiduarte@hjmail.com.br,2613503,(21) 5855 - 7483; (16) 3547 - 3108,"Alameda milipode, 1749",4;3;2
+685,Guilherme Edgar Silva,957.537.964-24,guilhermeedgar@hjmail.com.br,2903235,(57) 7237 - 7235; (16) 16978 - 9365,"Avenida Colonial, 1494 - sala 12",4;1
+686,Teresa Edgar Melo,418.893.439-88,teresa-edgar@septem.co.uk,2514206,(18) 1941 - 1657; (48) 13731 - 7793,"Rua Brasil, 893 - Apartamento 652",4;2;1
+687,Lauro Silva Silveira,328.755.893-55,lauro-silva@septem.co.uk,2506707,(84) 6923 - 1242; (98) 21185 - 7206,"Rua da Cenoura, 911",4;3;1
+688,Rafaela Queiroz Ramos,334.158.895-79,rafaela_queiroz@carlmail.com,1600238,(96) 3544 - 4881; (33) 12786 - 8415,"Avenida Colonial, 1777",2;4;1
+689,Caio de Sá Lima,213.844.162-88,caiode@hjmail.com.br,2404002,(64) 7512 - 2667; (83) 11813 - 1162,"Avenida confins, 756",1;4
+690,Igor Trindade Pires,192.617.579-61,igor_trindade@carlmail.com,1100452,(92) 2835 - 3834; (48) 27929 - 8466,"Rua Marcos, 722",3;4;2
+691,Laura Abreu Lucas,363.469.178-91,laura_abreu@hjmail.com.br,2106201,(33) 4952 - 5576; (14) 18776 - 3386,"Travessa Marques, 613",3;2;1
+692,Sandra Santista Silva,254.177.722-28,sandrasantista@carlmail.com,2806503,(16) 1224 - 2792; (79) 24756 - 4434,"Avenida Catapora, 634",2;3;4
+693,Teresa Queiroz Crozara,527.998.742-58,teresa_queiroz@hjmail.com.br,2403756,(77) 4453 - 8828; (26) 30994 - 2064,"Travessa Setembrina, 583",2;4;1
+694,Teresa Edgar Trindade,696.941.466-61,teresaedgar@septem.co.uk,2606705,(35) 7785 - 8948; (13) 18621 - 9122,"Rua Vinícius CEO, 1385 - Apto 252",3;2;4
+695,Carlos Edgar Trindade,248.715.946-43,carlos_edgar@hjmail.com.br,2306009,(22) 3881 - 4164; (59) 28864 - 5212,"Alameda do Coelho da Páscoa, 1720 - Apto 837",1;4;2
+696,Guilherme Oliveira Duarte,223.341.618-35,guilhermeoliveira@carlmail.com,1507201,(24) 4242 - 3641; (69) 17625 - 2043,"Avenida Catapora, 1624 - Apto 277",3;1
+697,Caio Duarte Queiroz,592.218.614-55,caioduarte@hjmail.com.br,2614501,(92) 7427 - 9949; (96) 20565 - 8160,"Rua da Lenora, 1837",3;1;4
+698,Dina Edgar Lucas,812.996.436-23,dina.edgar@septem.co.uk,2909406,(85) 3785 - 4567; (33) 9533 - 3732,"Alameda Vinícius CEO, 1859",3;4;2
+699,Antonio Racazella Ramos,668.114.488-55,antonio.racazella@hjmail.com.br,2706604,(82) 1127 - 5497; (23) 14316 - 2124,"Rua Santos Dumont, 545",2;3;1
+700,Laura Santos Santos,655.995.743-85,laurasantos@septem.co.uk,2410801,(48) 2721 - 6378; (78) 13118 - 7590,"Travessa Cristina Aveiro, 1250",2;3
+701,Luzia Silva Lima,483.675.672-14,luziasilva@septem.co.uk,1301654,(82) 5549 - 8958; (14) 12355 - 1566,"Alameda do Gin Tônica, 1956",1;4
+702,Marcos Racazella Silveira,996.691.169-43,marcos.racazella@hjmail.com.br,2106631,(42) 2675 - 1662; (16) 22623 - 7794,"Travessa da Lenora, 1213 - Apto 145",2;1;4;3
+703,Guilherme Walter Pires,256.314.483-66,guilherme.walter@carlmail.com,2904902,(64) 5667 - 1169; (72) 6278 - 8164,"Alameda da Cenoura, 1412",1;3
+704,Otávio De Melo Abreu,284.293.617-57,otávio_de@carlmail.com,2704708,(95) 2223 - 1991; (95) 1573 - 8418,"Rua Maria Angélica, 1942",3;4;2
+705,Igor Oliveira De Melo,258.233.977-27,igoroliveira@hjmail.com.br,2800308,(95) 9554 - 6672; (35) 13964 - 8048,"Avenida Saracura, 494",3;2;1
+706,Pamela Sousa Trindade,147.652.898-62,pamela.sousa@carlmail.com,1703909,(52) 7596 - 8348; (36) 17571 - 9238,"Rua do Coelho da Páscoa, 987 - sala 6",1;4;2
+707,Eduardo Oliveira Abreu,515.729.659-18,eduardo_oliveira@septem.co.uk,1600105,(46) 4298 - 8999; (37) 4928 - 2734,"Avenida Marcos, 1338",4;2;3
+708,Rafael Santista Trindade,396.389.924-58,rafaelsantista@hjmail.com.br,2401305,(52) 7334 - 8582; (53) 12361 - 3150,"Travessa da Cenoura, 702 - Apartamento 908",2;3;1
+709,Lisa Edgar Andrade,594.835.665-55,lisa-edgar@septem.co.uk,2303931,(32) 2624 - 3442; (84) 10352 - 4896,"Alameda Vinícius CEO, 1350 - Apto 729",1;2;3
+710,Mylen Abreu Lima,538.769.529-11,mylenabreu@hjmail.com.br,1707108,(77) 4188 - 2167; (42) 27854 - 2287,"Travessa Marques, 840 - sala 7",2;4;3
+711,Pamela Ramos de Sá,386.883.725-36,pamela.ramos@carlmail.com,2104099,(19) 1945 - 5866; (44) 23199 - 2594,"Avenida Carolina, 1104",1;4;2;3
+712,Otávio De Melo Sousa,219.789.761-23,otávio-de@septem.co.uk,2701357,(77) 2976 - 8285; (26) 11583 - 6015,"Travessa Setembro, 1325",1;2
+713,Carlos Oliveira Santos,748.237.686-11,carlos.oliveira@septem.co.uk,2608107,(74) 4828 - 5431; (46) 27341 - 6675,"Travessa Setembrina, 1482 - sala 17",2;3;1
+714,Rosi Melo Oliveira,554.574.824-76,rosi-melo@hjmail.com.br,1707405,(55) 2438 - 6128; (31) 22476 - 8599,"Rua Yayá, 1881",1;4;2
+715,Marcos de Sá Edgar,819.532.336-34,marcosde@carlmail.com,1504406,(12) 5518 - 2195; (18) 28372 - 7003,"Rua confins, 842",3;4;1
+716,Marcos Ramos Trindade,782.178.736-77,marcos_ramos@hjmail.com.br,2313757,(57) 2547 - 3563; (54) 6899 - 3846,"Travessa Yayá, 264 - sala 21",1;2;3
+717,Carla Santos Melo,946.619.811-45,carlasantos@hjmail.com.br,1503077,(43) 8932 - 1288; (29) 4138 - 5431,"Rua Catapora, 694 - Apartamento 735",3;2;4
+718,Rafael Racazella Santista,882.885.768-77,rafael_racazella@hjmail.com.br,2701902,(91) 2445 - 2178; (12) 23291 - 8569,"Avenida Maria Angélica, 1542 - Apto 335",1;2
+719,Sousa Ramos Crozara,698.997.841-89,sousaramos@septem.co.uk,2108108,(77) 4892 - 9324; (54) 8733 - 7704,"Rua Brasil, 660",3;4;1
+720,Guilherme Melo Duarte,115.429.823-94,guilherme_melo@carlmail.com,2101301,(28) 2222 - 9634; (26) 8871 - 9753,"Rua Cristina Aveiro, 982 - Apartamento 886",4;2;3
+721,Guilherme Melo De Melo,735.417.985-63,guilherme_melo@hjmail.com.br,2507507,(89) 9466 - 8836; (14) 18184 - 6977,"Rua Setembro, 1796",3;4
+722,Rafael Edgar Edgar,748.797.226-81,rafael_edgar@carlmail.com,2601409,(97) 9992 - 3683; (37) 19942 - 5342,"Avenida Marcos, 239 - Apartamento 222",3;2;4;1
+723,Caio Trindade De Melo,497.484.334-37,caio_trindade@hjmail.com.br,2514206,(14) 1589 - 8672; (56) 21531 - 6443,"Alameda Lenora, 214",2;4
+724,Tony De Melo Abreu,126.832.263-41,tony_de@carlmail.com,2100956,(59) 1145 - 5492; (31) 9482 - 8872,"Rua Yayá, 1254",1;2;3
+725,Rosa Sousa Silveira,594.723.761-57,rosa.sousa@septem.co.uk,1504505,(19) 5893 - 2629; (38) 3153 - 8406,"Rua Easy, 77",2;4;1;3
+726,Adriana De Melo Queiroz,366.413.579-88,adriana.de@carlmail.com,1100262,(56) 6496 - 7277; (51) 13859 - 1075,"Travessa Marques, 1024",4;1;3
+727,Dina Oliveira Lucas,464.145.818-76,dina.oliveira@carlmail.com,2612505,(48) 6424 - 6886; (53) 12984 - 7831,"Rua Cristo, 9 - Apto 359",4;2
+728,Carlos Lucas Crozara,645.228.685-99,carlos.lucas@carlmail.com,2900702,(59) 7539 - 9397; (59) 21552 - 8533,"Rua Catapora, 1298",1;2;4
+729,Giulia Abreu Pires,513.312.497-94,giulia.abreu@septem.co.uk,2504157,(39) 7187 - 3599; (85) 1312 - 1130,"Travessa do Bode, 1828 - sala 7",4;1;3
+730,Sousa Lima Lucas,826.356.598-56,sousa.lima@septem.co.uk,2312601,(91) 8531 - 9844; (28) 18318 - 1765,"Alameda Brasil, 1135",2;3;4
+731,Carla Santista Ramos,113.488.865-79,carla.santista@carlmail.com,2112902,(11) 3436 - 6568; (91) 2738 - 5214,"Alameda do Coelho da Páscoa, 1822 - sala 19",1;3;4
+732,Adriana Abreu De Melo,959.227.597-68,adriana_abreu@hjmail.com.br,2110658,(23) 6692 - 3341; (54) 6451 - 5447,"Avenida confins, 6 - Apartamento 61",3;1;4
+733,Lisa de Sá Melo,855.927.742-58,lisa_de@hjmail.com.br,1703891,(71) 4975 - 1413; (98) 17793 - 7562,"Alameda da Cenoura, 796 - Apto 683",2;4
+734,Orlando Andrade de Sá,732.884.367-49,orlando-andrade@septem.co.uk,1508308,(95) 6773 - 8826; (52) 19179 - 2320,"Travessa confins, 1650",1;4
+735,Leandro Pires Trindade,411.486.921-16,leandro.pires@hjmail.com.br,2800704,(55) 8663 - 4663; (39) 8269 - 6869,"Alameda Peas, 423 - Apto 258",2;1;4
+736,Leandro Silveira de Sá,786.583.361-45,leandro_silveira@septem.co.uk,2613404,(33) 8117 - 9517; (72) 27563 - 7950,"Avenida do Coelho da Páscoa, 981 - Apto 980",2;1;4
+737,Mylen Sousa De Melo,236.787.223-59,mylensousa@carlmail.com,2111003,(19) 2288 - 8677; (31) 3935 - 1478,"Alameda do Bode, 77",2;1;4
+738,Otávio Santista Lucas,313.335.226-14,otáviosantista@hjmail.com.br,2516706,(16) 8781 - 5381; (25) 15821 - 7215,"Travessa Setembrina, 985",2;1;3
+739,Guilherme Silva Edgar,985.436.466-28,guilherme-silva@carlmail.com,2203859,(19) 5773 - 8156; (85) 17373 - 4601,"Avenida Costa Teles, 1780",2;1;3
+740,Carlos Oliveira Melo,137.754.387-73,carlos_oliveira@hjmail.com.br,2511301,(34) 6472 - 5462; (28) 25782 - 1630,"Travessa Brasil, 428",2;4;3
+741,Rafaela Melo de Sá,321.459.974-67,rafaela-melo@septem.co.uk,2209377,(55) 9293 - 5764; (23) 16851 - 9810,"Alameda Carolina, 387 - sala 10",1;2;4
+742,Eduardo Andrade Crozara,268.454.858-62,eduardo.andrade@hjmail.com.br,2310902,(56) 4795 - 2399; (26) 14966 - 7949,"Alameda Setembro, 197",3;4
+743,Carlos Andrade Lima,714.536.239-63,carlos.andrade@carlmail.com,2801702,(91) 1197 - 8399; (68) 16292 - 6133,"Alameda Setembrina, 354 - Apto 661",2;1
+744,Maria Lima Silveira,291.296.911-17,marialima@septem.co.uk,2509370,(63) 8216 - 8359; (79) 6954 - 6882,"Alameda Setembrina, 85",4;2;1
+745,Sandra Edgar Silveira,984.574.539-28,sandraedgar@septem.co.uk,2508208,(54) 5619 - 4614; (98) 14812 - 1222,"Alameda Uberaba, 1963",4;2;1;3
+746,Rafaela Queiroz Lima,765.943.133-53,rafaela-queiroz@septem.co.uk,2806701,(61) 9311 - 7692; (45) 18231 - 9618,"Avenida do Gin Tônica, 764 - sala 10",4;2;3
+747,Rosa Walter Abreu,357.917.128-67,rosa_walter@septem.co.uk,1100809,(27) 7982 - 4149; (88) 7475 - 1428,"Rua do Coelho da Páscoa, 1417 - Apto 511",3;2
+748,Sousa Lima Sousa,135.568.487-91,sousalima@hjmail.com.br,1100254,(79) 6331 - 1427; (65) 28229 - 7279; (36) 1942 - 1257,"Alameda Zimbro, 1715",3;1;2
+749,Antonio Silva Crozara,347.812.628-49,antonio.silva@carlmail.com,2211704,(44) 9756 - 9363; (53) 6666 - 6440; (52) 8724 - 5612,"Travessa Estados Desunidos, 321",3;2
+750,Teresa Silva Lucas,752.423.534-41,teresa.silva@hjmail.com.br,2309508,(42) 6557 - 2789; (29) 26574 - 4802; (83) 3389 - 7043,"Alameda Marques, 1291",1;4;2
+751,Rafael Oliveira Santos,177.451.141-95,rafael.oliveira@carlmail.com,2504850,(57) 4436 - 6448; (68) 14946 - 3791; (95) 3391 - 6964,"Travessa Setembrina, 1615",4;2;1
+752,Gladison Silveira Silva,457.363.377-27,gladison-silveira@septem.co.uk,1100114,(94) 4875 - 1984; (33) 19982 - 1312; (75) 6447 - 8175,"Rua da Cenoura, 74",1;4;3;2
+753,Mylen Sousa Andrade,749.188.242-94,mylen-sousa@hjmail.com.br,2410900,(29) 7813 - 9569; (18) 29422 - 8119; (21) 9751 - 9032,"Alameda serenata, 665",1;2;4
+754,Beatriz Sousa Silva,959.241.334-94,beatrizsousa@carlmail.com,2614808,(84) 1446 - 2926; (93) 9972 - 8782; (94) 4645 - 4470,"Avenida Santos Dumont, 1545",4;1;3
+755,Mylen Santos Walter,982.383.724-46,mylen_santos@septem.co.uk,2900306,(24) 4114 - 2479; (92) 1757 - 1117; (73) 8436 - 2960,"Alameda da Cenoura, 1220",1;3;2
+756,Igor Duarte Melo,421.714.268-85,igor_duarte@hjmail.com.br,2105963,(22) 8415 - 7128; (22) 21432 - 7599; (84) 7994 - 1718,"Travessa Cristo, 760 - sala 10",4;3
+757,Otávio Abreu Andrade,769.614.168-76,otávioabreu@hjmail.com.br,2401800,(27) 5413 - 9685; (88) 30335 - 6856; (99) 4363 - 4459,"Alameda Maria Angélica, 2024",4;3;1
+758,Natasha Trindade Santista,459.982.458-62,natasha.trindade@carlmail.com,2211407,(11) 6872 - 7868; (89) 8192 - 6554; (95) 5283 - 3807,"Rua Easy, 148",2;4
+759,Pamela Walter Abreu,918.626.499-65,pamelawalter@hjmail.com.br,2202091,(87) 2531 - 8298; (32) 15239 - 1569; (39) 9292 - 2713,"Alameda Peas, 2027 - Apartamento 219",1;3
+760,Caio Sousa Abreu,917.518.199-66,caio_sousa@carlmail.com,2204105,(67) 1262 - 1956; (83) 15476 - 6138; (34) 1164 - 8174,"Travessa do Whisky, 1500 - Apto 629",2;4
+761,Adriana de Sá Walter,255.118.965-57,adriana_de@hjmail.com.br,2304269,(14) 3357 - 6877; (83) 28953 - 9479; (99) 3829 - 7410,"Avenida do Coelho da Páscoa, 754",4;3;1
+762,Orlando Melo Trindade,758.441.247-91,orlando-melo@septem.co.uk,2513604,(85) 7691 - 7873; (35) 15215 - 5369; (45) 4989 - 4843,"Avenida Marcos, 1361 - Apto 372",4;3
+763,Sousa de Sá Ramos,354.345.713-46,sousade@hjmail.com.br,2111201,(76) 8118 - 5299; (93) 12251 - 3677; (84) 1236 - 3068,"Travessa Catapora, 621 - Apto 402",1;2;4;3
+764,Giulia Queiroz Silveira,597.321.685-93,giuliaqueiroz@hjmail.com.br,2906303,(24) 4124 - 7789; (84) 11316 - 7273; (19) 3183 - 9053,"Rua da Cenoura, 251",2;3;4
+765,Priscila Queiroz Andrade,875.362.854-18,priscila.queiroz@hjmail.com.br,2907905,(11) 2757 - 5673; (58) 9311 - 5354; (21) 7275 - 6097,"Rua Setembrina, 900",1;3;4
+766,Igor Pires Santos,257.745.716-86,igorpires@carlmail.com,1708205,(11) 2993 - 5183; (67) 30769 - 8841; (24) 9459 - 4573,"Travessa Lenora, 1106",2;3;4
+767,Caio Duarte Santos,675.914.622-22,caio_duarte@hjmail.com.br,2402105,(65) 4774 - 6131; (58) 30237 - 2800; (51) 6312 - 8868,"Rua da Cenoura, 516",1;4
+768,Teresa Melo Crozara,132.637.188-19,teresa_melo@hjmail.com.br,2607208,(89) 1726 - 5922; (45) 18325 - 6574; (85) 2416 - 1907,"Alameda Setembro, 1008",2;3
+769,Caio Ramos De Melo,774.698.987-83,caio-ramos@septem.co.uk,1503903,(29) 8647 - 2581; (42) 3149 - 1997; (55) 2633 - 5006,"Alameda Catapora, 195 - Apto 847",1;2;4
+770,Eduardo Abreu Oliveira,537.273.418-77,eduardo_abreu@carlmail.com,2805802,(95) 7667 - 9947; (61) 11551 - 3759; (83) 2952 - 3720,"Travessa confins, 912 - sala 11",3;4
+771,Natasha Abreu Edgar,724.928.414-13,natashaabreu@septem.co.uk,2501575,(43) 3118 - 5755; (23) 4787 - 8566; (26) 5741 - 7044,"Travessa Estados Desunidos, 2015",2;3;4;1
+772,Tony Santos De Melo,527.556.277-75,tony_santos@hjmail.com.br,2202711,(34) 2674 - 2555; (45) 20152 - 1583; (46) 2515 - 8288,"Rua Estados Desunidos, 1799 - Apto 61",2;4;3
+773,Pamela Crozara de Sá,743.167.187-43,pamelacrozara@carlmail.com,1100106,(69) 2323 - 7614; (58) 23671 - 8513; (46) 1971 - 5512,"Rua garça, 992 - sala 4",3;2;1
+774,Camila Trindade Sousa,994.413.134-58,camila.trindade@hjmail.com.br,2307908,(11) 4492 - 6941; (49) 17356 - 3451; (25) 6516 - 4525,"Travessa Vinícius CEO, 6",1;2;4
+775,Pamela Trindade De Melo,629.473.287-98,pamela-trindade@carlmail.com,1718840,(91) 7272 - 5359; (16) 8278 - 6585; (58) 2853 - 4458,"Avenida Yayá, 522",1;3;2
+776,Antonio Queiroz Trindade,586.544.274-22,antonio_queiroz@hjmail.com.br,2701357,(28) 8631 - 3818; (15) 14553 - 4094; (38) 9891 - 8482,"Avenida milipode, 1656",1;2
+777,Carlos Queiroz Walter,129.145.386-55,carlos.queiroz@septem.co.uk,2301802,(89) 5837 - 3125; (44) 27119 - 6622; (86) 6486 - 4177,"Travessa Setembro, 1540",2;1
+778,Marcos Santos Sousa,859.164.269-32,marcos.santos@hjmail.com.br,2807006,(31) 9899 - 6177; (34) 21369 - 5507; (41) 2337 - 3182,"Rua Uberaba, 147",3;4;2
+779,Maria Oliveira Ramos,488.918.825-73,maria_oliveira@carlmail.com,1703826,(89) 8195 - 6546; (44) 16395 - 6329; (79) 9924 - 3178,"Avenida Evangelista, 214 - Apto 350",1;4;2
+780,Gladison Santos de Sá,212.724.678-49,gladison.santos@hjmail.com.br,2101004,(52) 4596 - 7137; (58) 13122 - 1576; (59) 3128 - 8825,"Avenida Peas, 1455",3;2
+781,Natasha Walter Melo,175.194.532-34,natasha_walter@septem.co.uk,1505437,(12) 1316 - 5989; (18) 26156 - 3584; (88) 4929 - 7469,"Travessa Setembrina, 1593",4;1;2
+782,Caio Queiroz Trindade,622.337.819-12,caio-queiroz@carlmail.com,2611705,(96) 5778 - 9619; (31) 6861 - 2227; (13) 1955 - 1784,"Rua Catapora, 1077 - Apto 658",1;2;3
+783,Dina Racazella Santos,629.255.313-37,dinaracazella@hjmail.com.br,2100709,(38) 5772 - 8475; (36) 9983 - 9193; (79) 9281 - 2303,"Avenida Setembro, 433",3;4;1
+784,Carlos Lucas Pires,881.676.462-49,carlos_lucas@hjmail.com.br,2702405,(29) 6429 - 7314; (48) 15151 - 8628; (11) 1414 - 3683,"Alameda Lenora, 1824 - sala 10",1;3;4;2
+785,Maria Trindade Lima,262.164.646-61,maria-trindade@carlmail.com,2605202,(96) 5621 - 7246; (46) 18667 - 6764; (76) 1574 - 8254,"Rua confins, 241",4;1;2
+786,Tony Crozara Silveira,227.318.823-52,tony.crozara@carlmail.com,2403202,(33) 6818 - 9172; (43) 14546 - 4134; (55) 5599 - 7525,"Rua Easy, 1086",4;1
+787,Pamela Melo Edgar,728.542.459-83,pamela.melo@carlmail.com,2200459,(82) 4795 - 9323; (84) 19853 - 8459; (71) 1611 - 2745,"Avenida Peas, 1935",3;4
+788,Sousa Oliveira Abreu,618.846.666-72,sousaoliveira@carlmail.com,1302108,(77) 3839 - 6135; (67) 27588 - 3336; (99) 8422 - 3448,"Rua do Gin Tônica, 1086",2;3
+789,Lauro Walter Sousa,258.896.451-91,laurowalter@septem.co.uk,2903508,(12) 5398 - 9567; (17) 16885 - 1414; (76) 1774 - 4169,"Avenida Vinícius CEO, 71",1;3;2
+790,Caio Abreu Trindade,366.226.529-58,caio-abreu@carlmail.com,2503704,(53) 3222 - 9755; (76) 10698 - 8501; (22) 3493 - 8953,"Rua Ernesto Augusto, 1683",3;1
+791,Pamela Queiroz Pires,332.688.242-94,pamela.queiroz@hjmail.com.br,2604205,(77) 8332 - 8865; (85) 8783 - 2706; (36) 1291 - 8523,"Avenida do Whisky, 376",3;2;4
+792,Carla Trindade Queiroz,217.276.597-63,carlatrindade@carlmail.com,2408607,(58) 7567 - 1566; (21) 29659 - 8339; (51) 1636 - 6986,"Rua da Cenoura, 507",2;3;4
+793,Rosi Silva Racazella,678.624.339-42,rosi_silva@hjmail.com.br,2400901,(85) 3189 - 7424; (35) 24978 - 3640; (47) 5238 - 3968,"Avenida Easy, 624 - Apto 72",2;3;1
+794,Mylen Santista Pires,541.171.211-77,mylen-santista@septem.co.uk,2913101,(19) 3964 - 8811; (56) 10112 - 8394; (27) 8848 - 3508,"Rua Setembrino, 222 - Apto 561",2;3;1
+795,Sousa Crozara de Sá,837.661.913-25,sousacrozara@septem.co.uk,1500404,(55) 1973 - 8259; (62) 21397 - 4189; (52) 4214 - 8668,"Alameda Cristo, 421",2;1;3
+796,Luzia Trindade Lucas,537.639.341-19,luzia_trindade@hjmail.com.br,2508703,(95) 7232 - 5447; (84) 10284 - 2893; (82) 1626 - 8058,"Travessa da Cenoura, 300 - sala 16",3;1;4
+797,Rafaela Silva Silva,866.391.539-88,rafaelasilva@carlmail.com,2313401,(44) 2621 - 1562; (77) 9752 - 9108; (74) 7411 - 8662,"Travessa Brasil, 650",2;3;1
+798,Dina de Sá Queiroz,575.772.773-99,dina-de@septem.co.uk,2506707,(88) 1313 - 7465; (67) 8479 - 3431; (12) 2576 - 7236,"Travessa Setembrina, 246",2;1
+799,Carla Pires Lucas,512.821.882-78,carla_pires@septem.co.uk,1702554,(16) 2554 - 5652; (79) 21628 - 4370; (45) 3319 - 8781,"Avenida Lenora, 1970 - Apartamento 773",3;4;1
+800,Rosa Walter Trindade,449.276.619-37,rosawalter@hjmail.com.br,2307007,(48) 6772 - 8199; (63) 15839 - 8516; (46) 6636 - 9345,"Travessa milipode, 32 - sala 9",1;4;2
+801,Teresa Oliveira Walter,825.818.424-18,teresa_oliveira@carlmail.com,2110039,(99) 7937 - 6894; (57) 2296 - 9770; (84) 5898 - 5930,"Avenida Colonial, 190",2;4
+802,Rosi Santos Lima,555.343.599-59,rosi.santos@septem.co.uk,2205607,(25) 9321 - 5276; (36) 19472 - 6366; (79) 2984 - 1030,"Alameda Santos Dumont, 84 - Apartamento 103",3;4
+803,Caio Trindade Racazella,373.875.286-95,caio-trindade@septem.co.uk,2104677,(48) 6762 - 7371; (55) 13934 - 4389; (33) 6828 - 9999,"Travessa Saracura, 842",4;3;1
+804,Camila Silva Queiroz,623.368.328-13,camilasilva@hjmail.com.br,2707800,(95) 1478 - 5285; (84) 9972 - 4553; (78) 8572 - 3596,"Travessa do Bode, 617 - sala 15",1;4
+805,Rafaela Lucas Edgar,551.445.523-89,rafaelalucas@septem.co.uk,1504950,(58) 7487 - 2639; (59) 27963 - 8014; (13) 5315 - 3731,"Alameda Costa Teles, 1234 - Apto 297",4;2;3
+806,Natasha Walter Oliveira,981.928.557-85,natashawalter@carlmail.com,2511103,(35) 6353 - 6176; (89) 9951 - 9380; (57) 6646 - 9834,"Alameda Carolina, 1803",1;4;2
+807,Maria Oliveira Lucas,487.629.358-25,maria-oliveira@septem.co.uk,2512705,(44) 4181 - 7891; (73) 26193 - 1526; (72) 5986 - 8157,"Alameda Maria Angélica, 719",4;1;3;2
+808,Orlando Pires Silveira,269.375.972-66,orlando_pires@carlmail.com,2406106,(66) 2633 - 6257; (61) 6364 - 3993; (19) 9476 - 2090,"Alameda Vinícius CEO, 1831 - Apto 99",3;4
+809,Carlos Edgar Santos,182.957.565-83,carlos_edgar@carlmail.com,2904050,(43) 8539 - 4639; (49) 11367 - 1446; (42) 6242 - 1539,"Travessa Marcos, 1042",2;4
+810,Mylen Abreu Ramos,963.294.533-67,mylenabreu@carlmail.com,2905206,(96) 9565 - 3898; (66) 4259 - 5749; (31) 7755 - 6957,"Rua da Cenoura, 91 - Apartamento 175",4;1;3
+811,Orlando de Sá Abreu,927.472.444-16,orlandode@carlmail.com,2511202,(34) 1552 - 8979; (35) 12368 - 1396; (91) 5224 - 9629,"Alameda Brasil, 1170",2;3;1
+812,Lauro Sousa Edgar,661.527.786-48,lauro-sousa@septem.co.uk,2803500,(22) 8941 - 5639; (49) 15948 - 7215; (42) 2489 - 2152,"Avenida Ernesto Augusto, 568",4;2
+813,Gladison Silva Lucas,425.457.846-27,gladison_silva@hjmail.com.br,2414407,(42) 8693 - 8342; (23) 12983 - 3994,"Rua Marques, 1240 - Apartamento 61",1;2
+814,Lisa Melo Lima,552.613.246-28,lisa_melo@carlmail.com,2903235,(71) 3532 - 8265; (33) 21277 - 7978,"Alameda do Bode, 162",3;2;4
+815,Sousa De Melo Sousa,925.421.682-65,sousa-de@carlmail.com,2707305,(94) 7887 - 2543; (23) 18714 - 3359,"Avenida Setembrina, 1136",2;3;4
+816,Caio Santista Oliveira,488.673.128-47,caiosantista@septem.co.uk,2614808,(16) 6686 - 3661; (74) 15525 - 1009,"Travessa do Gin Tônica, 485",4;2
+817,Guilherme Edgar Pires,193.117.575-17,guilherme.edgar@hjmail.com.br,2403400,(87) 4923 - 3514; (59) 20151 - 7437,"Avenida Marcos, 511",1;4
+818,Giulia Ramos Lucas,689.223.929-13,giulia_ramos@carlmail.com,1712009,(21) 7424 - 5817; (73) 10886 - 5462,"Rua do Bode, 1743",2;3;1
+819,Leandro Lima Santista,533.762.775-63,leandro.lima@hjmail.com.br,2607208,(73) 4137 - 6453; (73) 19461 - 9908,"Alameda Santos Dumont, 579 - Apto 202",1;4
+820,Rosa Andrade Pires,889.834.315-14,rosa.andrade@carlmail.com,1300201,(56) 6577 - 3944; (51) 19397 - 9132,"Rua Maria Angélica, 15",2;1;4
+821,Lauro Crozara Melo,253.967.952-86,laurocrozara@carlmail.com,2910800,(38) 4456 - 5275; (86) 30861 - 3699,"Avenida Estados Desunidos, 1035",4;1
+822,Eduardo Lucas de Sá,187.542.455-97,eduardo-lucas@carlmail.com,2107100,(99) 3729 - 2524; (54) 25297 - 3917,"Alameda Vinícius CEO, 1980",3;1;4
+823,Antonio de Sá Melo,832.341.976-82,antonio_de@septem.co.uk,2803708,(97) 1778 - 9284; (95) 12887 - 4348,"Avenida Brasil, 169",4;1;3
+824,Carlos Edgar De Melo,477.954.245-88,carlosedgar@carlmail.com,2303402,(87) 9596 - 1353; (49) 24621 - 8847,"Alameda Brasil, 1961",4;3;1
+825,Marcos Trindade Trindade,973.345.873-79,marcostrindade@carlmail.com,1716653,(21) 4894 - 9482; (49) 17871 - 6011,"Rua da Lenora, 1834",1;3
+826,Mylen De Melo Queiroz,662.269.474-49,mylen_de@carlmail.com,2304277,(28) 8915 - 5986; (78) 23583 - 4861,"Rua do Coelho da Páscoa, 2011",4;3;2;1
+827,Marcos Ramos Racazella,779.559.962-12,marcos_ramos@septem.co.uk,1200807,(51) 3655 - 7347; (49) 1792 - 9792; (95) 7258 - 9155,"Avenida Yayá, 144 - Apartamento 430",4;2;3
+828,Gladison Santista Santista,376.248.538-86,gladisonsantista@carlmail.com,2402303,(83) 7864 - 1922; (32) 1272 - 4613; (34) 3773 - 2650,"Avenida Maria Angélica, 307",1;4;2;3
+829,Maria Racazella Lima,291.218.849-75,mariaracazella@hjmail.com.br,1101500,(39) 7793 - 1946; (55) 14636 - 3359; (23) 1441 - 4714,"Alameda Lenora, 299 - sala 4",3;1;4
+830,Beatriz de Sá Silveira,644.246.128-45,beatriz_de@septem.co.uk,2505501,(23) 5768 - 7655; (27) 19872 - 5356; (62) 3483 - 2096,"Avenida Evangelista, 1936",4;2;3
+831,Maria Crozara Ramos,859.149.975-56,mariacrozara@hjmail.com.br,2803104,(24) 2373 - 8293; (68) 24354 - 1212; (34) 5953 - 7474,"Rua Vinícius CEO, 1228",4;1;2
+832,Igor Silveira Edgar,161.978.995-98,igor-silveira@septem.co.uk,1101807,(58) 6453 - 4157; (63) 25289 - 8943; (62) 1312 - 3960,"Alameda garça, 530 - Apto 45",3;1
+833,Pamela Santista Edgar,261.731.885-22,pamela.santista@carlmail.com,2205540,(62) 6191 - 3978; (15) 11612 - 3571; (96) 4885 - 1751,"Avenida Saracura, 1386",2;4;1
+834,Maria Crozara Crozara,794.355.314-36,maria_crozara@carlmail.com,2912509,(53) 8748 - 2628; (61) 23916 - 4852; (94) 5121 - 4118,"Travessa Evangelista, 1713 - sala 7",3;2;4
+835,Laura Edgar De Melo,662.367.321-28,laura.edgar@carlmail.com,2202083,(71) 3955 - 4858; (95) 11436 - 6658; (85) 8554 - 6419,"Rua Santos Dumont, 1041 - Apto 528",1;3
+836,Orlando Walter Racazella,293.723.139-92,orlando-walter@carlmail.com,1100080,(19) 5139 - 1412; (63) 5462 - 8219; (37) 2965 - 1477,"Travessa Yayá, 568",4;3;2
+837,Rafaela Silveira Duarte,587.262.949-97,rafaela.silveira@hjmail.com.br,2310704,(17) 1839 - 7876; (58) 16131 - 8445; (47) 1684 - 3796,"Travessa Cristina Aveiro, 1169",4
+838,Guilherme Santos Walter,115.832.282-64,guilhermesantos@septem.co.uk,2706505,(29) 3696 - 4617; (35) 13464 - 4829; (64) 7283 - 8628,"Alameda Brasil, 420",1;3;2
+839,Igor Pires Santos,896.767.774-38,igor.pires@hjmail.com.br,2801603,(51) 6279 - 7133; (76) 9281 - 1773; (32) 5836 - 8201,"Avenida Catapora, 1712",2;1
+840,Carlos Santos Racazella,986.792.511-85,carlos_santos@carlmail.com,2301307,(95) 9819 - 5392; (37) 16927 - 8919; (43) 4656 - 1378,"Travessa Easy, 1826",1
+841,Tony Walter Crozara,656.646.811-94,tony-walter@hjmail.com.br,2401909,(25) 6769 - 3729; (21) 9546 - 3713; (55) 3432 - 8561,"Alameda Vinícius CEO, 901",3
+842,Igor Oliveira Silveira,796.146.327-77,igor-oliveira@hjmail.com.br,2210607,(58) 8321 - 3115; (82) 17435 - 5995; (55) 3693 - 9866,"Travessa Vinícius CEO, 335 - Apto 586",1;3;4
+843,Beatriz Melo Santista,492.243.236-49,beatriz_melo@hjmail.com.br,2507408,(81) 4858 - 3974; (16) 13781 - 8982; (95) 4562 - 7133,"Rua confins, 975",3;1;4;2
+844,Gladison Andrade Lucas,883.663.172-86,gladison.andrade@septem.co.uk,1508001,(29) 8969 - 9968; (35) 26178 - 4869; (52) 5987 - 5141,"Travessa do Whisky, 2001 - Apto 195",2;4;3
+845,Beatriz Crozara Sousa,662.351.787-28,beatriz.crozara@carlmail.com,1506609,(29) 6272 - 7773; (41) 9696 - 8850; (22) 9232 - 4863,"Alameda Setembrina, 630",4;2;1
+846,Antonio Santista Oliveira,944.194.257-41,antonio_santista@carlmail.com,1506559,(79) 5525 - 5267; (91) 11573 - 8323; (37) 1956 - 4887,"Rua da Lenora, 1346",4;1;2;3
+847,Tony Melo Santista,969.985.111-34,tony.melo@hjmail.com.br,1100338,(45) 8824 - 8619; (79) 2789 - 7898; (33) 2298 - 8263,"Avenida Evangelista, 616",3;2;1
+848,Lauro Lima Walter,832.732.678-62,lauro-lima@carlmail.com,2705705,(96) 3969 - 4317; (59) 19895 - 8325; (38) 5659 - 5555,"Alameda Carolina, 1678",1;3;4
+849,Luzia Edgar Walter,687.123.255-69,luziaedgar@carlmail.com,2708709,(13) 7268 - 8715; (36) 3424 - 6864; (52) 5159 - 7302,"Travessa Vinícius CEO, 86",3;4
+850,Carlos Duarte Silva,795.674.973-51,carlos.duarte@carlmail.com,2906857,(13) 1199 - 6122; (57) 2731 - 8525; (52) 3824 - 6919,"Avenida Peas, 1153 - Apartamento 428",2;4;1
+851,Adriana Abreu Queiroz,977.328.143-93,adriana_abreu@hjmail.com.br,2100600,(67) 7436 - 9964; (42) 2999 - 6873; (79) 1695 - 2216,"Travessa milipode, 1786",4;2
+852,Caio Lucas de Sá,516.499.679-15,caio.lucas@carlmail.com,2302701,(47) 9226 - 7449; (63) 19154 - 4632; (27) 6811 - 2947,"Avenida Setembro, 447",3;4
+853,Lisa Walter Queiroz,256.761.524-54,lisa-walter@hjmail.com.br,2800407,(37) 4895 - 7885; (27) 1894 - 4112; (88) 1575 - 3002,"Rua Lenora, 217 - sala 15",2;4;1
+854,Giulia Trindade Walter,637.718.367-77,giulia-trindade@carlmail.com,2409506,(86) 6989 - 5928; (36) 27426 - 8965; (75) 7894 - 9578,"Rua da Lenora, 206",4;2;3
+855,Teresa Trindade Walter,776.758.628-62,teresa-trindade@carlmail.com,2612901,(34) 6163 - 3328; (34) 6637 - 9337; (78) 3776 - 7190,"Travessa Setembrina, 326 - sala 13",3;2;1;4
+856,Luzia Sousa Melo,442.922.789-66,luzia.sousa@septem.co.uk,2510105,(99) 3519 - 5766; (58) 6272 - 3016; (98) 3645 - 7961,"Rua Santos Dumont, 131",4;3
+857,Luzia Pires Abreu,718.328.139-74,luzia.pires@carlmail.com,1502756,(78) 5286 - 8241; (94) 10783 - 4267; (63) 2132 - 4343,"Rua Colonial, 1271",3;4;2
+858,João de Sá Ramos,862.836.875-24,joão.de@septem.co.uk,2410801,(77) 8579 - 4196; (33) 6683 - 8547; (16) 6493 - 1901,"Alameda Estados Desunidos, 427",1;2;3
+859,Tony Santista Silveira,485.476.453-81,tony.santista@septem.co.uk,2513802,(86) 2635 - 9374; (43) 17727 - 6493; (93) 7483 - 4369,"Avenida do Carneiro, 1661 - Apto 164",3;4;2
+860,Rosi Pires Walter,732.199.799-52,rosipires@septem.co.uk,2201150,(67) 9568 - 3467; (61) 28277 - 6783; (78) 5394 - 7839,"Travessa Marques, 561",2;4;1;3
+861,Marcos Sousa Sousa,983.383.766-59,marcos_sousa@carlmail.com,1400050,(26) 8475 - 5195; (58) 20857 - 9114; (63) 6892 - 8881,"Alameda Carolina, 685",1;2
+862,Rosi Trindade Sousa,725.963.597-39,rosi-trindade@septem.co.uk,1303403,(83) 4375 - 2629; (39) 28361 - 5480; (82) 1237 - 3503,"Rua Carolina, 1641 - sala 5",1;4;3
+863,Antonio Trindade Melo,255.866.656-94,antonio-trindade@hjmail.com.br,2804904,(83) 2862 - 3751; (43) 22188 - 1316; (43) 3162 - 3481,"Travessa Cristo, 711 - Apto 691",2;3;1
+864,Leandro Andrade Abreu,479.345.675-47,leandroandrade@hjmail.com.br,2111573,(72) 4971 - 7235; (54) 10426 - 1430; (67) 7822 - 6607,"Avenida Catapora, 309 - sala 10",4;3;1
+865,Laura Santos de Sá,557.831.278-92,laurasantos@septem.co.uk,2703700,(88) 6439 - 4665; (26) 30626 - 6606; (59) 2796 - 4357,"Alameda Costa Teles, 1346",4;1
+866,Camila Santos Edgar,175.493.992-73,camila_santos@septem.co.uk,2406205,(61) 9388 - 8641; (18) 6771 - 3824; (88) 6885 - 7817,"Travessa Lenora, 1635 - Apto 206",1;4;2
+867,Otávio Edgar Edgar,611.259.976-89,otávio_edgar@septem.co.uk,2105104,(21) 7811 - 7643; (18) 26673 - 2675; (78) 2731 - 2149,"Travessa do Bode, 1478 - Apto 211",4;2
+868,Orlando Duarte Andrade,393.342.493-17,orlando_duarte@septem.co.uk,2313955,(21) 5444 - 6521; (35) 20911 - 5455; (41) 1919 - 7832,"Avenida Catapora, 1764 - Apartamento 764",4;2;3
+869,Gladison Silva Trindade,446.716.484-63,gladison_silva@hjmail.com.br,2301901,(12) 8514 - 7758; (16) 17597 - 3385; (82) 1166 - 3752,"Alameda Evangelista, 1548",1;3
+870,Igor Santos De Melo,858.944.753-97,igor-santos@septem.co.uk,2307007,(86) 2259 - 6846; (23) 6915 - 8596; (41) 9585 - 7198,"Alameda confins, 473 - Apartamento 698",3;4;1
+871,Priscila Sousa Abreu,716.178.493-58,priscila.sousa@hjmail.com.br,2200277,(22) 5688 - 7634; (24) 24528 - 6058; (66) 5921 - 7390,"Rua Peas, 241 - sala 6",4;3;2
+872,Maria Edgar Santista,521.462.933-98,maria-edgar@hjmail.com.br,1100809,(74) 4959 - 9294; (24) 3488 - 6345; (56) 3264 - 7644,"Travessa confins, 1707",2;3;4
+873,Dina Santos Lima,634.252.766-58,dina_santos@septem.co.uk,2207751,(27) 9439 - 1158; (29) 2836 - 4393; (43) 9835 - 2877,"Avenida Lenora, 697",4;2
+874,Camila De Melo Santista,391.484.177-23,camila.de@carlmail.com,1300060,(29) 2943 - 8412; (83) 19456 - 4709; (28) 9137 - 7786,"Alameda do Coelho da Páscoa, 1702",2;1
+875,Teresa De Melo Queiroz,411.231.571-28,teresa_de@septem.co.uk,1712009,(76) 6975 - 1235; (48) 28298 - 1897; (68) 7384 - 4146,"Alameda Vinícius CEO, 1717 - sala 25",3;1;2
+876,Adriana Lucas Santista,969.438.193-67,adriana-lucas@hjmail.com.br,1200252,(37) 9452 - 5768; (69) 3922 - 5154; (39) 1929 - 3391,"Avenida Santos Dumont, 21",3;4;1
+877,Lauro Santista Oliveira,436.629.893-88,laurosantista@hjmail.com.br,2412559,(58) 7393 - 7793; (94) 17255 - 9867; (26) 4691 - 9179,"Travessa Yayá, 1440",4;1;2
+878,Adriana de Sá Silveira,235.653.222-97,adriana_de@septem.co.uk,1101468,(31) 8832 - 8268; (61) 18733 - 3467,"Alameda Setembro, 1390",4;3;2
+879,Mylen Queiroz Pires,225.652.438-94,mylen-queiroz@hjmail.com.br,1100809,(44) 5413 - 8291; (45) 14282 - 3175,"Rua Cristo, 67",1;2;4
+880,Sandra Duarte Trindade,119.969.635-29,sandra-duarte@hjmail.com.br,2104602,(21) 6246 - 7189; (42) 20386 - 3296,"Travessa da Cenoura, 131",4;1;3
+881,Dina Duarte Edgar,184.346.146-66,dina-duarte@carlmail.com,2307502,(13) 9263 - 7271; (15) 10781 - 7213,"Alameda Costa Teles, 306",2;4;3;1
+882,Caio Silveira Oliveira,612.917.923-53,caiosilveira@carlmail.com,1500206,(83) 4354 - 4547; (72) 7933 - 7628,"Avenida Easy, 1920 - Apto 371",3;1;4;2
+883,Maria Lucas Edgar,599.774.623-86,maria-lucas@septem.co.uk,2706802,(95) 3126 - 2627; (57) 11118 - 6048,"Alameda Peas, 974",4;1
+884,Sousa Walter Pires,466.921.364-23,sousawalter@septem.co.uk,2203909,(51) 7484 - 9854; (47) 9731 - 5269,"Alameda Lenora, 1546 - Apto 931",1;2
+885,Sandra Melo Queiroz,784.577.556-79,sandra-melo@hjmail.com.br,2802502,(46) 9663 - 7233; (49) 19336 - 9258,"Rua do Carneiro, 562",2;4;1
+886,Otávio Duarte Abreu,797.623.242-73,otávio.duarte@carlmail.com,2210979,(81) 5994 - 1558; (56) 9651 - 1549; (31) 5248 - 3859,"Travessa Colonial, 1010",2;1;3
+887,Eduardo Melo Crozara,397.833.361-82,eduardomelo@septem.co.uk,2110104,(19) 7673 - 7793; (12) 19773 - 1766; (53) 2457 - 2453,"Travessa Peas, 1435 - Apartamento 256",1
+888,Leandro De Melo Racazella,694.427.184-11,leandro-de@hjmail.com.br,2101939,(21) 2369 - 9563; (42) 14139 - 7748; (45) 1741 - 7205,"Avenida do Coelho da Páscoa, 1882",2;4;1
+889,Lisa Santos Oliveira,475.881.456-84,lisasantos@carlmail.com,2405405,(85) 1239 - 3669; (77) 2748 - 2870; (41) 3744 - 8296,"Travessa Lenora, 1267",3;2
+890,Dina Sousa Trindade,126.493.787-23,dina.sousa@hjmail.com.br,1100254,(97) 9523 - 1351; (85) 24613 - 5984; (16) 4238 - 5953,"Alameda Peas, 1347 - sala 15",2;1
+891,Caio Walter Duarte,751.985.296-81,caio-walter@septem.co.uk,2803708,(49) 5147 - 5799; (98) 18971 - 5191; (65) 4928 - 8483,"Travessa Costa Teles, 124",2;1
+892,Priscila Pires Lima,774.269.163-85,priscila.pires@hjmail.com.br,2205805,(22) 9768 - 3128; (97) 10344 - 2956; (93) 2695 - 2096,"Avenida Santos Dumont, 752",3;1;4
+893,Priscila Lucas Queiroz,729.297.797-67,priscila-lucas@carlmail.com,2102036,(41) 1736 - 5867; (36) 4949 - 6051; (92) 2658 - 7604,"Travessa Marques, 669 - Apto 316",3;1;2
+894,Gladison Walter Santos,562.681.745-93,gladison.walter@hjmail.com.br,2201002,(45) 4152 - 3446; (54) 19247 - 1670; (45) 1316 - 8581,"Alameda Zimbro, 1865",4;2;1
+895,Rafael Lima Oliveira,266.816.746-79,rafael.lima@carlmail.com,2512754,(74) 4495 - 8652; (12) 10372 - 9072; (64) 1849 - 2011,"Rua Colonial, 1570 - Apartamento 482",3;2;1
+896,Marcos Santista Trindade,337.345.464-37,marcos.santista@septem.co.uk,2707503,(83) 7768 - 1491; (88) 28957 - 4625; (51) 7423 - 8181,"Avenida Setembrina, 1127 - sala 9",3;1;2
+897,Lauro Santista Crozara,698.947.133-68,laurosantista@hjmail.com.br,1100346,(21) 3973 - 7867; (36) 25857 - 1234; (99) 9295 - 8241,"Rua Cristo, 1256",4;2
+898,Rosa de Sá De Melo,396.176.277-79,rosa.de@septem.co.uk,2105005,(23) 9975 - 3488; (55) 3961 - 3027; (89) 9298 - 3711,"Alameda Catapora, 548 - Apartamento 601",2;4;1
+899,Gladison Abreu de Sá,543.471.974-14,gladison.abreu@hjmail.com.br,2911857,(57) 8353 - 9448; (67) 13142 - 8009; (51) 7383 - 7106,"Travessa Colonial, 1418",3;1
+900,Carlos Lima Edgar,127.431.272-96,carlos_lima@carlmail.com,2702108,(59) 8551 - 4358; (49) 28328 - 4092; (76) 1824 - 2464,"Avenida Zimbro, 503",4;1;3
+901,Luzia Sousa Oliveira,377.985.344-62,luziasousa@carlmail.com,2208700,(47) 7818 - 3711; (39) 9475 - 1422; (11) 5531 - 9127,"Alameda da Cenoura, 1728",3;1;2
+902,Camila Pires Racazella,139.612.955-64,camila.pires@septem.co.uk,2603454,(28) 6473 - 6512; (67) 20162 - 8821; (86) 7161 - 1537,"Travessa Setembrino, 21",4;2
+903,Igor Trindade Edgar,991.766.612-92,igor.trindade@hjmail.com.br,2705804,(14) 3329 - 1942; (22) 12284 - 6402; (55) 1971 - 7656,"Avenida da Lenora, 1089",2;1
+904,Pamela Lima Silva,478.664.216-24,pamela.lima@carlmail.com,2506608,(34) 8471 - 7557; (37) 22872 - 2736; (27) 8782 - 9756,"Avenida Zimbro, 533",2;3;1
+905,Lauro Sousa Melo,219.732.534-18,lauro.sousa@septem.co.uk,2104305,(21) 5465 - 5916; (51) 16737 - 1620; (63) 7342 - 9437,"Travessa Vinícius CEO, 761",3;2;1
+906,Otávio Edgar Silva,961.196.327-84,otávio_edgar@carlmail.com,2605707,(94) 6849 - 5122; (28) 26257 - 2408; (84) 8928 - 8701,"Travessa Saracura, 1948 - Apto 811",4;3;1
+907,Natasha Melo Oliveira,191.699.152-69,natasha-melo@septem.co.uk,2414209,(13) 8298 - 8987; (46) 11872 - 6539; (14) 3236 - 8512,"Alameda do Whisky, 2035 - sala 17",1;4
+908,Guilherme Andrade Walter,927.596.763-89,guilhermeandrade@carlmail.com,2204907,(73) 7973 - 5718; (11) 15494 - 5145; (26) 9719 - 4351,"Avenida da Cenoura, 136",3;4;1
+909,Laura Crozara Ramos,362.385.341-39,laura_crozara@septem.co.uk,2209401,(71) 6242 - 5345; (23) 5513 - 7858; (57) 4293 - 6551,"Alameda do Whisky, 948 - sala 8",4;2;1
+910,Caio Melo Trindade,529.985.346-59,caiomelo@carlmail.com,2201408,(22) 9548 - 5138; (38) 15727 - 9323; (23) 6642 - 3384,"Alameda Evangelista, 1409 - Apto 907",2;3;4
+911,Otávio Santos Pires,586.976.768-26,otávio.santos@septem.co.uk,2209955,(92) 6572 - 3425; (16) 27969 - 1375; (97) 7947 - 5364,"Rua Costa Teles, 349 - Apto 698",2;3
+912,Leandro Walter Racazella,291.638.738-32,leandrowalter@hjmail.com.br,2403251,(53) 3641 - 7697; (43) 18245 - 2110; (77) 9961 - 7214,"Travessa Lenora, 918 - sala 22",1;2;3;4
+913,Carlos Melo Pires,326.591.969-18,carlos_melo@carlmail.com,2403202,(99) 2752 - 2377; (49) 3538 - 9818; (13) 1552 - 5230,"Avenida Zimbro, 1374",2;3;4
+914,Guilherme Queiroz Andrade,947.594.199-96,guilhermequeiroz@hjmail.com.br,2206951,(26) 6392 - 8778; (25) 8979 - 7658; (18) 7766 - 1906,"Rua Estados Desunidos, 1056 - Apto 279",3;4
+915,Lauro Sousa Silva,268.225.586-37,laurosousa@hjmail.com.br,2903904,(68) 5131 - 7159; (22) 14744 - 2591; (78) 1817 - 4563,"Rua Setembrino, 1715",4;2;3
+916,Lisa Silva Melo,664.793.996-24,lisa_silva@septem.co.uk,1100379,(27) 9631 - 1399; (93) 20757 - 8328; (87) 8138 - 5561,"Travessa Peas, 319 - sala 18",1;2
+917,Rafael Silveira Oliveira,129.744.929-72,rafaelsilveira@hjmail.com.br,2101939,(99) 9742 - 2815; (93) 21173 - 5322,"Avenida do Gin Tônica, 1778 - Apartamento 533",1;4
+918,Sousa Melo Silveira,417.377.963-12,sousamelo@septem.co.uk,2901007,(84) 3828 - 5691; (68) 25214 - 7787,"Alameda serenata, 771 - Apto 574",2;4;1;3
+919,Caio Duarte Sousa,887.744.933-44,caio_duarte@carlmail.com,2501005,(67) 2122 - 5651; (44) 1674 - 8959,"Rua Cristina Aveiro, 405",1;3;4;2
+920,William Edgar Edgar,287.964.747-96,william_edgar@carlmail.com,2304103,(12) 2223 - 8755; (33) 21135 - 1589,"Alameda do Gin Tônica, 146",1;3
+921,Carlos Silva Oliveira,121.656.598-68,carlos_silva@hjmail.com.br,2909703,(38) 1794 - 5913; (82) 19737 - 3741,"Avenida Cristina Aveiro, 1355",1;4;2
+922,Adriana Melo Silveira,532.566.339-72,adrianamelo@hjmail.com.br,2901403,(16) 7692 - 1418; (78) 29467 - 1207,"Alameda do Whisky, 584 - sala 24",3;1
+923,Carlos Santos Sousa,325.286.647-49,carlos_santos@carlmail.com,2211506,(68) 1738 - 9752; (91) 21196 - 5340,"Travessa Maria Angélica, 1613",1;4
+924,Tony Andrade Walter,313.185.585-96,tonyandrade@carlmail.com,2205581,(43) 2821 - 4543; (65) 21297 - 1424,"Travessa Carolina, 408",1;2
+925,Lauro De Melo Santista,888.354.989-37,lauro_de@hjmail.com.br,1101476,(26) 5134 - 7645; (43) 16692 - 7322,"Rua Carolina, 1558",1;3;2
+926,Dina Oliveira De Melo,836.459.295-13,dina_oliveira@hjmail.com.br,1506708,(19) 5226 - 6947; (64) 21258 - 3091,"Alameda Peas, 676",4;2;3
+927,Leandro Racazella Pires,667.663.886-72,leandro-racazella@septem.co.uk,2502508,(64) 6872 - 1478; (32) 28499 - 4347,"Avenida Marques, 1479 - Apto 79",4;1;3
+928,João Racazella Trindade,992.788.436-94,joãoracazella@carlmail.com,2201804,(53) 3494 - 4255; (24) 14984 - 4187,"Alameda Lenora, 887 - Apartamento 300",2;4
+929,Marcos Duarte Pires,659.717.422-62,marcos_duarte@carlmail.com,2202075,(21) 8864 - 6592; (27) 24973 - 8515,"Avenida Yayá, 874",2
+930,Priscila Lucas Walter,187.927.167-51,priscila.lucas@hjmail.com.br,2901908,(17) 4428 - 9964; (61) 13297 - 6778,"Avenida Uberaba, 1917 - sala 18",2;1;4
+931,Natasha De Melo Melo,434.681.231-24,natasha.de@carlmail.com,2205565,(78) 9551 - 2812; (58) 30797 - 6036,"Alameda Zimbro, 128",1;2;3
+932,Guilherme Walter de Sá,524.311.999-33,guilherme-walter@carlmail.com,2111250,(27) 8765 - 5779; (56) 28846 - 6840,"Avenida Carolina, 2004 - Apartamento 961",2;3;1
+933,Carla Trindade Silveira,835.442.378-83,carlatrindade@septem.co.uk,2901353,(82) 3362 - 4444; (76) 10628 - 7438,"Rua da Lenora, 520 - Apto 895",4;2;1
+934,William Trindade Ramos,975.872.998-65,william_trindade@carlmail.com,2709301,(52) 2469 - 8842; (82) 16245 - 8394,"Travessa Yayá, 1614 - Apartamento 666",2;4;3
+935,Carlos Queiroz Edgar,114.576.878-61,carlos.queiroz@hjmail.com.br,2612471,(53) 1353 - 9542; (49) 14597 - 8047,"Rua Costa Teles, 326 - sala 7",3;2
+936,Caio Racazella Walter,971.774.934-73,caio_racazella@carlmail.com,1300508,(98) 9834 - 1113; (15) 12119 - 2781,"Avenida Uberaba, 1794 - sala 15",2;4;3
+937,Giulia Silva Silveira,852.255.694-19,giulia_silva@septem.co.uk,2913903,(51) 5127 - 6217; (74) 13542 - 3194,"Travessa do Gin Tônica, 953 - sala 23",1;2;3
+938,Carlos De Melo De Melo,745.174.939-47,carlos_de@carlmail.com,2608107,(53) 9248 - 9542; (57) 11881 - 7032,"Rua do Whisky, 1910 - sala 19",4;3
+939,Teresa Ramos Andrade,572.226.527-75,teresa-ramos@carlmail.com,2610301,(21) 8944 - 6575; (41) 26655 - 9498,"Alameda Costa Teles, 1470 - Apto 214",3;1;4;2
+940,Maria Abreu Lima,343.252.534-58,maria.abreu@hjmail.com.br,1711951,(39) 6917 - 9679; (95) 21791 - 3884,"Rua Santos Dumont, 1436 - Apartamento 636",3;4;2;1
+941,Natasha Racazella Pires,349.384.124-58,natasha.racazella@hjmail.com.br,2404705,(31) 7681 - 2994; (43) 4538 - 2281,"Alameda da Cenoura, 1024",1;4
+942,Pamela Santista Queiroz,248.711.716-14,pamela-santista@carlmail.com,2514404,(95) 3667 - 8223; (19) 11841 - 1222,"Avenida do Coelho da Páscoa, 662 - sala 23",2;3
+943,Guilherme Santos Santista,867.648.277-42,guilherme.santos@hjmail.com.br,2506806,(96) 6124 - 1145; (37) 11297 - 8168,"Avenida Marcos, 2040",3;4
+944,Dina Abreu Ramos,497.657.567-89,dina-abreu@carlmail.com,2403707,(59) 6854 - 4754; (32) 18192 - 4970,"Rua Saracura, 319 - Apartamento 502",3;4
+945,Carla Lucas Silveira,461.741.557-57,carlalucas@septem.co.uk,2103174,(83) 3555 - 7499; (29) 27969 - 7755,"Alameda garça, 1491",3;4;1
+946,Adriana Andrade Sousa,832.828.672-42,adriana.andrade@carlmail.com,2505600,(58) 1155 - 6677; (95) 21958 - 2988,"Travessa do Whisky, 2019",4;3;2;1
+947,Otávio Santos Racazella,347.273.923-66,otáviosantos@septem.co.uk,1714880,(68) 4897 - 8416; (97) 7228 - 2073,"Alameda Yayá, 1556",2;3;1
+948,Rosa Crozara Walter,495.178.479-49,rosa-crozara@hjmail.com.br,2206357,(53) 6382 - 7167; (45) 27868 - 1154,"Rua Cristina Aveiro, 1931 - Apartamento 346",2;1;3
+949,Otávio De Melo Sousa,952.328.972-57,otávio.de@septem.co.uk,2601607,(77) 6265 - 2862; (55) 22113 - 3215,"Travessa Brasil, 1416",4
+950,João Pires Santos,852.533.193-65,joão.pires@carlmail.com,2207793,(13) 3676 - 3767; (62) 23656 - 2990,"Rua Costa Teles, 412",2;1;4
+951,Otávio Oliveira Oliveira,641.166.962-22,otávio_oliveira@hjmail.com.br,2407302,(53) 7537 - 9184; (41) 7372 - 4632,"Alameda milipode, 2031",2;4;3
+952,Priscila Silva Lima,862.162.533-93,priscila_silva@hjmail.com.br,2603207,(95) 3328 - 1596; (32) 30756 - 7903,"Avenida do Gin Tônica, 1346 - Apto 335",4;1;2
+953,Dina Queiroz Racazella,554.634.332-12,dinaqueiroz@hjmail.com.br,2605152,(12) 5478 - 4793; (92) 23613 - 2669,"Alameda Evangelista, 136 - sala 2",1;2;4;3
+954,Dina Pires Melo,537.537.871-44,dinapires@carlmail.com,1505601,(12) 8187 - 8134; (48) 26277 - 7483,"Avenida Estados Desunidos, 450",4;3;2
+955,João Lucas Oliveira,566.996.543-53,joão.lucas@hjmail.com.br,2502607,(21) 9617 - 1285; (27) 22248 - 6853,"Travessa do Bode, 1755 - sala 23",2;3
+956,Carla Duarte Andrade,194.479.739-73,carla-duarte@septem.co.uk,1400233,(71) 6718 - 2515; (39) 12466 - 7652,"Travessa do Coelho da Páscoa, 219",1;2
+957,Guilherme De Melo Oliveira,577.863.221-52,guilherme.de@septem.co.uk,2510402,(97) 9943 - 3495; (41) 17712 - 6833,"Alameda Carolina, 369 - Apto 177",2;4;1
+958,Carla Queiroz Queiroz,534.749.263-51,carla_queiroz@carlmail.com,2200400,(98) 5121 - 2759; (71) 18162 - 3047,"Rua Yayá, 1330",4;3;2;1
+959,Eduardo Lima De Melo,251.514.676-95,eduardo-lima@carlmail.com,2108009,(23) 1453 - 7882; (51) 2993 - 9597,"Alameda do Gin Tônica, 1657",3;2;1
+960,Guilherme Racazella Santos,741.465.297-57,guilherme_racazella@septem.co.uk,1702901,(45) 8649 - 5784; (48) 21132 - 4625,"Avenida Easy, 726",4;2
+961,William Silva Silveira,955.683.868-52,williamsilva@hjmail.com.br,2107456,(53) 5754 - 3839; (57) 26225 - 6241,"Rua do Coelho da Páscoa, 1125",4;1
+962,Marcos De Melo Oliveira,429.258.852-87,marcos-de@hjmail.com.br,2309409,(65) 6161 - 4425; (41) 23146 - 6597,"Avenida Yayá, 531",3;4;1
+963,Luzia Ramos Edgar,947.238.253-56,luzia_ramos@carlmail.com,2304251,(38) 3749 - 9422; (36) 21686 - 5183,"Alameda da Cenoura, 128",1;2
+964,Carlos Racazella Silva,411.656.232-29,carlos_racazella@carlmail.com,2514107,(16) 3713 - 9266; (81) 29759 - 1246,"Rua Marcos, 91",1;4;3
+965,Dina Crozara Santista,335.169.372-36,dina.crozara@hjmail.com.br,2405405,(88) 4233 - 9245; (48) 3233 - 2519,"Alameda Setembrina, 1089",3;4
+966,Eduardo Duarte Crozara,286.794.435-99,eduardo-duarte@carlmail.com,2203107,(61) 8632 - 6357; (63) 13861 - 3111,"Avenida Uberaba, 1815",2;4;1
+967,Marcos Pires De Melo,516.946.671-26,marcospires@hjmail.com.br,2407401,(79) 6233 - 5722; (42) 11579 - 2725,"Rua Easy, 425 - sala 8",2;1;4
+968,Rafael Santos Lima,727.671.454-41,rafael_santos@hjmail.com.br,2800670,(35) 1225 - 6924; (66) 6276 - 9966,"Alameda garça, 879",3;4;2
+969,Orlando Racazella Oliveira,941.124.434-86,orlando_racazella@carlmail.com,1507805,(41) 4647 - 4411; (95) 21129 - 7809,"Alameda do Gin Tônica, 1036 - Apartamento 760",2;1;3
+970,Caio Crozara Trindade,995.839.743-95,caio.crozara@carlmail.com,2509602,(44) 8254 - 8651; (99) 20117 - 8977,"Rua do Carneiro, 2020",2;3;1
+971,Leandro Andrade Trindade,732.162.751-82,leandro_andrade@hjmail.com.br,2515005,(56) 4467 - 5137; (32) 19525 - 7163,"Avenida Evangelista, 1164",4;2;3;1
+972,Orlando Silveira Pires,633.486.589-51,orlando_silveira@septem.co.uk,1300144,(47) 4563 - 1395; (76) 5499 - 3945,"Alameda garça, 1050",4;3;2
+973,Teresa Lucas Sousa,779.746.942-13,teresa_lucas@carlmail.com,2510600,(47) 5663 - 1933; (79) 20192 - 9042,"Alameda Lenora, 331",3;4
+974,Camila Queiroz Walter,284.572.681-12,camila.queiroz@septem.co.uk,2905107,(49) 1998 - 1268; (93) 29937 - 7632,"Rua garça, 1765",1;3;4
+975,Otávio Lima Abreu,753.824.381-36,otávio.lima@carlmail.com,2407401,(79) 9719 - 1827; (86) 17916 - 6377,"Avenida Uberaba, 1221",3;1;2
+976,Mylen Lucas Lima,519.529.287-25,mylenlucas@septem.co.uk,1506302,(73) 4172 - 6656; (68) 18136 - 6785,"Rua Easy, 953 - Apto 57",1;3;4
+977,Guilherme Oliveira Duarte,587.971.949-98,guilherme-oliveira@septem.co.uk,2105401,(78) 4951 - 9455; (11) 3917 - 7946,"Avenida Vinícius CEO, 980",2;3
+978,Rosa Abreu Ramos,426.456.216-14,rosa-abreu@carlmail.com,1100908,(44) 2223 - 3116; (66) 19378 - 1953,"Alameda Evangelista, 1917 - Apto 903",3;1;4
+979,Maria De Melo Edgar,779.368.718-55,maria_de@hjmail.com.br,2515203,(67) 9393 - 1181; (14) 9275 - 3468,"Rua do Coelho da Páscoa, 1372 - sala 14",4;3;1
+980,Rosi Duarte Pires,848.488.365-56,rosi_duarte@hjmail.com.br,2911659,(78) 7432 - 8544; (26) 16974 - 9218,"Rua Cristo, 1383",2;1;4
+981,Natasha Andrade Oliveira,333.366.976-58,natasha.andrade@hjmail.com.br,2511608,(13) 1198 - 1844; (54) 5712 - 9806,"Alameda Marcos, 1205",3;2;1
+982,Pamela Oliveira De Melo,687.277.477-25,pamela.oliveira@hjmail.com.br,2902054,(18) 9862 - 7552; (56) 12619 - 9757,"Avenida do Gin Tônica, 1708",1;4;3
+983,Priscila Lucas De Melo,895.585.835-35,priscila_lucas@carlmail.com,2911105,(94) 1512 - 2175; (24) 18872 - 7788,"Alameda Cristina Aveiro, 769 - Apartamento 277",4;2
+984,Carlos Lucas Santista,576.395.155-35,carloslucas@septem.co.uk,2503506,(14) 7517 - 2869; (15) 19228 - 5282,"Rua Zimbro, 939",1;3;4
+985,Rafaela Walter Queiroz,894.648.622-22,rafaelawalter@septem.co.uk,2308807,(32) 5578 - 4338; (72) 19976 - 7721,"Rua Marques, 2",3;4
+986,João Racazella Silveira,742.933.128-29,joão-racazella@hjmail.com.br,2513901,(45) 8778 - 6795; (56) 9375 - 2416,"Avenida Costa Teles, 1402 - Apartamento 949",1;3;2
+987,João Pires Lucas,461.842.526-46,joão-pires@hjmail.com.br,2612208,(63) 7819 - 8192; (19) 11298 - 2801,"Avenida Colonial, 566 - Apto 786",2;1;4;3
+988,Igor Trindade Edgar,925.567.342-96,igor-trindade@carlmail.com,2708709,(55) 4142 - 9586; (26) 14774 - 2009,"Travessa do Coelho da Páscoa, 1267 - Apartamento 593",2;4
+989,Camila Silveira Trindade,554.759.936-27,camila_silveira@hjmail.com.br,2110302,(79) 1666 - 5764; (31) 21314 - 7736,"Rua Vinícius CEO, 1650 - Apartamento 508",4;3;1
+990,Rafael Lima Silveira,589.566.551-59,rafael-lima@hjmail.com.br,2800308,(61) 3114 - 6758; (97) 18654 - 1164,"Avenida milipode, 45",4;3;1
+991,Rosi Ramos Crozara,955.887.352-36,rosi_ramos@carlmail.com,2600054,(74) 3338 - 3957; (54) 29867 - 9414,"Travessa Lenora, 251",1;4;2
+992,Laura Crozara Walter,188.544.586-67,laura_crozara@hjmail.com.br,1400506,(27) 9586 - 4854; (16) 3222 - 7669,"Alameda Setembrino, 749 - sala 24",4;3
+993,Rafaela Lima Crozara,811.225.695-69,rafaelalima@carlmail.com,2311264,(16) 9287 - 2464; (64) 26262 - 2128,"Travessa Yayá, 992",4;1;2;3
+994,Carla Edgar Edgar,696.232.339-95,carla.edgar@septem.co.uk,2207405,(93) 9397 - 7533; (16) 5454 - 7467,"Rua confins, 871 - Apartamento 329",2;4;1
+995,Gladison Oliveira Oliveira,452.179.319-79,gladisonoliveira@carlmail.com,1101203,(21) 8499 - 8513; (39) 23715 - 5852,"Alameda Setembrino, 141 - Apto 794",2;3;4
+996,Rosi Trindade Andrade,272.713.334-53,rosi.trindade@carlmail.com,1712157,(76) 4212 - 2586; (72) 9337 - 6098,"Rua do Coelho da Páscoa, 626 - sala 25",3;2
+997,Rosa Santos De Melo,744.929.359-45,rosa-santos@carlmail.com,2209104,(74) 2163 - 2141; (45) 17843 - 1929,"Avenida Maria Angélica, 781",2;3
+998,Rafael Lima Melo,688.413.371-65,rafaellima@hjmail.com.br,2106003,(32) 2534 - 7854; (41) 18282 - 4019,"Travessa Zimbro, 407 - Apartamento 678",3;1;2
+999,Marcos Melo Pires,834.758.336-21,marcos.melo@hjmail.com.br,2105153,(42) 7931 - 3214; (53) 28519 - 8837; (96) 9371 - 9626,"Alameda Carolina, 1648",3;2;4
+1000,Mylen Silveira Crozara,934.616.962-55,mylen_silveira@carlmail.com,1712454,(22) 2856 - 2835; (71) 16933 - 6808; (43) 8812 - 8338,"Travessa Lenora, 586 - Apto 445",3;4;1
