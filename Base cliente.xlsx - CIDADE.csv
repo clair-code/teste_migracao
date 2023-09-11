@@ -1,0 +1,5571 @@
+id,cidade_uf
+1100015,Alta Floresta D Oeste - CQ
+1100379,Alto Alegre dos Parecis - LS
+1100403,Alto Paraíso - SQ
+1100346,Alvorada D Oeste - AA
+1100023,Ariquemes - AA
+1100452,Buritis - LS
+1100031,Cabixi - PL
+1100601,Cacaulândia - AA
+1100049,Cacoal - SD
+1100700,Campo Novo de Rondônia - PL
+1100809,Candeias do Jamari - LF
+1100908,Castanheiras - SE
+1100056,Cerejeiras - LS
+1100924,Chupinguaia - SE
+1100064,Colorado do Oeste - RQ
+1100072,Corumbiara - AA
+1100080,Costa Marques - SD
+1100940,Cujubim - SQ
+1100098,Espigão D Oeste - PL
+1101005,Governador Jorge Teixeira - LS
+1100106,Guajará-Mirim - PL
+1101104,Itapuã do Oeste - RQ
+1100114,Jaru - LS
+1100122,Ji-Paraná - RQ
+1100130,Machadinho D Oeste - SD
+1101203,Ministro Andreazza - SE
+1101302,Mirante da Serra - AA
+1101401,Monte Negro - SQ
+1100148,Nova Brasilândia D Oeste - PL
+1100338,Nova Mamoré - LF
+1101435,Nova União - LS
+1100502,Novo Horizonte do Oeste - CQ
+1100155,Ouro Preto do Oeste - SQ
+1101450,Parecis - LS
+1100189,Pimenta Bueno - CQ
+1101468,Pimenteiras do Oeste - CQ
+1100205,Porto Velho - PL
+1100254,Presidente Médici - LS
+1101476,Primavera de Rondônia - SQ
+1100262,Rio Crespo - AA
+1100288,Rolim de Moura - CQ
+1100296,Santa Luzia D Oeste - LF
+1101484,São Felipe D Oeste - PL
+1101492,São Francisco do Guaporé - LF
+1100320,São Miguel do Guaporé - SQ
+1101500,Seringueiras - SQ
+1101559,Teixeirópolis - PL
+1101609,Theobroma - AA
+1101708,Urupá - LS
+1101757,Vale do Anari - SE
+1101807,Vale do Paraíso - AA
+1100304,Vilhena - AA
+1200013,Acrelândia - SD
+1200054,Assis Brasil - LS
+1200104,Brasiléia - LF
+1200138,Bujari - SD
+1200179,Capixaba - SE
+1200203,Cruzeiro do Sul - SE
+1200252,Epitaciolândia - RQ
+1200302,Feijó - SE
+1200328,Jordão - SE
+1200336,Mâncio Lima - AA
+1200344,Manoel Urbano - SQ
+1200351,Marechal Thaumaturgo - SD
+1200385,Plácido de Castro - LF
+1200807,Porto Acre - CQ
+1200393,Porto Walter - AA
+1200401,Rio Branco - LS
+1200427,Rodrigues Alves - SD
+1200435,Santa Rosa do Purus - SE
+1200500,Sena Madureira - SE
+1200450,Senador Guiomard - SD
+1200609,Tarauacá - SE
+1200708,Xapuri - AA
+1300029,Alvarães - SE
+1300060,Amaturá - SD
+1300086,Anamã - CQ
+1300102,Anori - AA
+1300144,Apuí - LS
+1300201,Atalaia do Norte - AA
+1300300,Autazes - RQ
+1300409,Barcelos - LS
+1300508,Barreirinha - SE
+1300607,Benjamin Constant - LF
+1300631,Beruri - PL
+1300680,Boa Vista do Ramos - RQ
+1300706,Boca do Acre - SE
+1300805,Borba - SQ
+1300839,Caapiranga - SD
+1300904,Canutama - AA
+1301001,Carauari - LF
+1301100,Careiro - LS
+1301159,Careiro da Várzea - SD
+1301209,Coari - AA
+1301308,Codajás - PL
+1301407,Eirunepé - SE
+1301506,Envira - SE
+1301605,Fonte Boa - CQ
+1301654,Guajará - SQ
+1301704,Humaitá - CQ
+1301803,Ipixuna - LF
+1301852,Iranduba - SD
+1301902,Itacoatiara - CQ
+1301951,Itamarati - SD
+1302009,Itapiranga - CQ
+1302108,Japurá - LF
+1302207,Juruá - RQ
+1302306,Jutaí - RQ
+1302405,Lábrea - CQ
+1302504,Manacapuru - AA
+1302553,Manaquiri - LS
+1302603,Manaus - PL
+1302702,Manicoré - SD
+1302801,Maraã - AA
+1302900,Maués - SQ
+1303007,Nhamundá - SD
+1303106,Nova Olinda do Norte - SE
+1303205,Novo Airão - CQ
+1303304,Novo Aripuanã - SQ
+1303403,Parintins - RQ
+1303502,Pauini - AA
+1303536,Presidente Figueiredo - RQ
+1303569,Rio Preto da Eva - LF
+1303601,Santa Isabel do Rio Negro - LS
+1303700,Santo Antônio do Içá - SQ
+1303809,São Gabriel da Cachoeira - AA
+1303908,São Paulo de Olivença - AA
+1303957,São Sebastião do Uatumã - SE
+1304005,Silves - PL
+1304062,Tabatinga - SD
+1304104,Tapauá - AA
+1304203,Tefé - LS
+1304237,Tonantins - SD
+1304260,Uarini - RQ
+1304302,Urucará - CQ
+1304401,Urucurituba - PL
+1400050,Alto Alegre - RQ
+1400027,Amajari - CQ
+1400100,Boa Vista - LF
+1400159,Bonfim - AA
+1400175,Cantá - LS
+1400209,Caracaraí - LF
+1400233,Caroebe - SE
+1400282,Iracema - LF
+1400308,Mucajaí - LF
+1400407,Normandia - CQ
+1400456,Pacaraima - LS
+1400472,Rorainópolis - AA
+1400506,São João da Baliza - RQ
+1400605,São Luiz - SQ
+1400704,Uiramutã - SE
+1500107,Abaetetuba - SE
+1500131,Abel Figueiredo - SE
+1500206,Acará - RQ
+1500305,Afuá - PL
+1500347,Água Azul do Norte - CQ
+1500404,Alenquer - LF
+1500503,Almeirim - SE
+1500602,Altamira - LF
+1500701,Anajás - PL
+1500800,Ananindeua - AA
+1500859,Anapu - LS
+1500909,Augusto Corrêa - CQ
+1500958,Aurora do Pará - LS
+1501006,Aveiro - SQ
+1501105,Bagre - SQ
+1501204,Baião - SQ
+1501253,Bannach - SE
+1501303,Barcarena - PL
+1501402,Belém - SD
+1501451,Belterra - SE
+1501501,Benevides - AA
+1501576,Bom Jesus do Tocantins - CQ
+1501600,Bonito - PL
+1501709,Bragança - LF
+1501725,Brasil Novo - LS
+1501758,Brejo Grande do Araguaia - PL
+1501782,Breu Branco - SE
+1501808,Breves - SD
+1501907,Bujaru - SE
+1502004,Cachoeira do Arari - PL
+1501956,Cachoeira do Piriá - PL
+1502103,Cametá - LS
+1502152,Canaã dos Carajás - LS
+1502202,Capanema - PL
+1502301,Capitão Poço - LS
+1502400,Castanhal - SQ
+1502509,Chaves - CQ
+1502608,Colares - RQ
+1502707,Conceição do Araguaia - SQ
+1502756,Concórdia do Pará - PL
+1502764,Cumaru do Norte - PL
+1502772,Curionópolis - AA
+1502806,Curralinho - SE
+1502855,Curuá - PL
+1502905,Curuçá - PL
+1502939,Dom Eliseu - LF
+1502954,Eldorado do Carajás - RQ
+1503002,Faro - SE
+1503044,Floresta do Araguaia - AA
+1503077,Garrafão do Norte - SQ
+1503093,Goianésia do Pará - RQ
+1503101,Gurupá - LF
+1503200,Igarapé-Açu - AA
+1503309,Igarapé-Miri - SQ
+1503408,Inhangapi - LF
+1503457,Ipixuna do Pará - LF
+1503507,Irituia - SQ
+1503606,Itaituba - LF
+1503705,Itupiranga - CQ
+1503754,Jacareacanga - SD
+1503804,Jacundá - AA
+1503903,Juruti - LS
+1504000,Limoeiro do Ajuru - SQ
+1504059,Mãe do Rio - SQ
+1504109,Magalhães Barata - SE
+1504208,Marabá - LS
+1504307,Maracanã - RQ
+1504406,Marapanim - SD
+1504422,Marituba - LS
+1504455,Medicilândia - RQ
+1504505,Melgaço - SD
+1504604,Mocajuba - LS
+1504703,Moju - CQ
+1504752,Mojuí dos Campos - LF
+1504802,Monte Alegre - CQ
+1504901,Muaná - LS
+1504950,Nova Esperança do Piriá - RQ
+1504976,Nova Ipixuna - LS
+1505007,Nova Timboteua - CQ
+1505031,Novo Progresso - RQ
+1505064,Novo Repartimento - LF
+1505106,Óbidos - LS
+1505205,Oeiras do Pará - CQ
+1505304,Oriximiná - SE
+1505403,Ourém - LS
+1505437,Ourilândia do Norte - LF
+1505486,Pacajá - RQ
+1505494,Palestina do Pará - LS
+1505502,Paragominas - CQ
+1505536,Parauapebas - AA
+1505551,Pau D Arco - AA
+1505601,Peixe-Boi - SD
+1505635,Piçarra - SE
+1505650,Placas - SQ
+1505700,Ponta de Pedras - AA
+1505809,Portel - SD
+1505908,Porto de Moz - CQ
+1506005,Prainha - PL
+1506104,Primavera - SE
+1506112,Quatipuru - SQ
+1506138,Redenção - PL
+1506161,Rio Maria - LF
+1506187,Rondon do Pará - LS
+1506195,Rurópolis - CQ
+1506203,Salinópolis - LF
+1506302,Salvaterra - CQ
+1506351,Santa Bárbara do Pará - LS
+1506401,Santa Cruz do Arari - PL
+1506500,Santa Izabel do Pará - LF
+1506559,Santa Luzia do Pará - LF
+1506583,Santa Maria das Barreiras - SD
+1506609,Santa Maria do Pará - CQ
+1506708,Santana do Araguaia - RQ
+1506807,Santarém - LS
+1506906,Santarém Novo - CQ
+1507003,Santo Antônio do Tauá - CQ
+1507102,São Caetano de Odivelas - SD
+1507151,São Domingos do Araguaia - CQ
+1507201,São Domingos do Capim - AA
+1507300,São Félix do Xingu - PL
+1507409,São Francisco do Pará - LS
+1507458,São Geraldo do Araguaia - AA
+1507466,São João da Ponta - SD
+1507474,São João de Pirabas - AA
+1507508,São João do Araguaia - CQ
+1507607,São Miguel do Guamá - SE
+1507706,São Sebastião da Boa Vista - RQ
+1507755,Sapucaia - RQ
+1507805,Senador José Porfírio - LF
+1507904,Soure - AA
+1507953,Tailândia - CQ
+1507961,Terra Alta - PL
+1507979,Terra Santa - PL
+1508001,Tomé-Açu - SD
+1508035,Tracuateua - LF
+1508050,Trairão - CQ
+1508084,Tucumã - RQ
+1508100,Tucuruí - SQ
+1508126,Ulianópolis - AA
+1508159,Uruará - SE
+1508209,Vigia - AA
+1508308,Viseu - PL
+1508357,Vitória do Xingu - RQ
+1508407,Xinguara - AA
+1600105,Amapá - SD
+1600204,Calçoene - CQ
+1600212,Cutias - LF
+1600238,Ferreira Gomes - SE
+1600253,Itaubal - RQ
+1600279,Laranjal do Jari - LS
+1600303,Macapá - PL
+1600402,Mazagão - LS
+1600501,Oiapoque - RQ
+1600154,Pedra Branca do Amapari - AA
+1600535,Porto Grande - SQ
+1600550,Pracuúba - RQ
+1600600,Santana - CQ
+1600055,Serra do Navio - SE
+1600709,Tartarugalzinho - LF
+1600808,Vitória do Jari - PL
+1700251,Abreulândia - SQ
+1700301,Aguiarnópolis - SE
+1700350,Aliança do Tocantins - SQ
+1700400,Almas - RQ
+1700707,Alvorada - AA
+1701002,Ananás - LS
+1701051,Angico - SE
+1701101,Aparecida do Rio Negro - LS
+1701309,Aragominas - RQ
+1701903,Araguacema - LF
+1702000,Araguaçu - LS
+1702109,Araguaína - LS
+1702158,Araguanã - AA
+1702208,Araguatins - SD
+1702307,Arapoema - SD
+1702406,Arraias - CQ
+1702554,Augustinópolis - AA
+1702703,Aurora do Tocantins - LF
+1702901,Axixá do Tocantins - SQ
+1703008,Babaçulândia - SE
+1703057,Bandeirantes do Tocantins - CQ
+1703073,Barra do Ouro - AA
+1703107,Barrolândia - SD
+1703206,Bernardo Sayão - SD
+1703305,Bom Jesus do Tocantins - RQ
+1703602,Brasilândia do Tocantins - AA
+1703701,Brejinho de Nazaré - PL
+1703800,Buriti do Tocantins - SE
+1703826,Cachoeirinha - RQ
+1703842,Campos Lindos - SQ
+1703867,Cariri do Tocantins - PL
+1703883,Carmolândia - AA
+1703891,Carrasco Bonito - LF
+1703909,Caseara - LS
+1704105,Centenário - RQ
+1705102,Chapada da Natividade - CQ
+1704600,Chapada de Areia - SE
+1705508,Colinas do Tocantins - PL
+1716703,Colméia - PL
+1705557,Combinado - SQ
+1705607,Conceição do Tocantins - PL
+1706001,Couto Magalhães - PL
+1706100,Cristalândia - RQ
+1706258,Crixás do Tocantins - PL
+1706506,Darcinópolis - PL
+1707009,Dianópolis - LF
+1707108,Divinópolis do Tocantins - SE
+1707207,Dois Irmãos do Tocantins - AA
+1707306,Dueré - AA
+1707405,Esperantina - SE
+1707553,Fátima - PL
+1707652,Figueirópolis - PL
+1707702,Filadélfia - SD
+1708205,Formoso do Araguaia - SE
+1708254,Fortaleza do Tabocão - PL
+1708304,Goianorte - AA
+1709005,Goiatins - LS
+1709302,Guaraí - PL
+1709500,Gurupi - AA
+1709807,Ipueiras - SE
+1710508,Itacajá - SQ
+1710706,Itaguatins - PL
+1710904,Itapiratins - PL
+1711100,Itaporã do Tocantins - LF
+1711506,Jaú do Tocantins - SE
+1711803,Juarina - PL
+1711902,Lagoa da Confusão - LF
+1711951,Lagoa do Tocantins - CQ
+1712009,Lajeado - RQ
+1712157,Lavandeira - PL
+1712405,Lizarda - AA
+1712454,Luzinópolis - RQ
+1712504,Marianópolis do Tocantins - SD
+1712702,Mateiros - CQ
+1712801,Maurilândia do Tocantins - LF
+1713205,Miracema do Tocantins - SE
+1713304,Miranorte - SQ
+1713601,Monte do Carmo - SD
+1713700,Monte Santo do Tocantins - SE
+1713957,Muricilândia - LF
+1714203,Natividade - LF
+1714302,Nazaré - RQ
+1714880,Nova Olinda - RQ
+1715002,Nova Rosalândia - RQ
+1715101,Novo Acordo - PL
+1715150,Novo Alegre - RQ
+1715259,Novo Jardim - RQ
+1715507,Oliveira de Fátima - LF
+1721000,Palmas - RQ
+1715705,Palmeirante - SQ
+1713809,Palmeiras do Tocantins - CQ
+1715754,Palmeirópolis - PL
+1716109,Paraíso do Tocantins - SD
+1716208,Paranã - SE
+1716307,Pau D Arco - RQ
+1716505,Pedro Afonso - SQ
+1716604,Peixe - LF
+1716653,Pequizeiro - LF
+1717008,Pindorama do Tocantins - SQ
+1717206,Piraquê - LS
+1717503,Pium - RQ
+1717800,Ponte Alta do Bom Jesus - SQ
+1717909,Ponte Alta do Tocantins - AA
+1718006,Porto Alegre do Tocantins - LF
+1718204,Porto Nacional - SQ
+1718303,Praia Norte - SQ
+1718402,Presidente Kennedy - AA
+1718451,Pugmil - LF
+1718501,Recursolândia - CQ
+1718550,Riachinho - AA
+1718659,Rio da Conceição - AA
+1718709,Rio dos Bois - SE
+1718758,Rio Sono - SE
+1718808,Sampaio - SD
+1718840,Sandolândia - PL
+1718865,Santa Fé do Araguaia - SD
+1718881,Santa Maria do Tocantins - PL
+1718899,Santa Rita do Tocantins - SE
+1718907,Santa Rosa do Tocantins - RQ
+1719004,Santa Tereza do Tocantins - PL
+1720002,Santa Terezinha do Tocantins - LF
+1720101,São Bento do Tocantins - SD
+1720150,São Félix do Tocantins - SE
+1720200,São Miguel do Tocantins - SE
+1720259,São Salvador do Tocantins - RQ
+1720309,São Sebastião do Tocantins - RQ
+1720499,São Valério - AA
+1720655,Silvanópolis - PL
+1720804,Sítio Novo do Tocantins - LS
+1720853,Sucupira - SE
+1720903,Taguatinga - PL
+1720937,Taipas do Tocantins - SE
+1720978,Talismã - SD
+1721109,Tocantínia - SE
+1721208,Tocantinópolis - SQ
+1721257,Tupirama - LF
+1721307,Tupiratins - LF
+1722081,Wanderlândia - RQ
+1722107,Xambioá - RQ
+2100055,Açailândia - PL
+2100105,Afonso Cunha - PL
+2100154,Água Doce do Maranhão - SQ
+2100204,Alcântara - CQ
+2100303,Aldeias Altas - CQ
+2100402,Altamira do Maranhão - LF
+2100436,Alto Alegre do Maranhão - SE
+2100477,Alto Alegre do Pindaré - RQ
+2100501,Alto Parnaíba - RQ
+2100550,Amapá do Maranhão - RQ
+2100600,Amarante do Maranhão - SE
+2100709,Anajatuba - LS
+2100808,Anapurus - PL
+2100832,Apicum-Açu - AA
+2100873,Araguanã - LF
+2100907,Araioses - LS
+2100956,Arame - AA
+2101004,Arari - LS
+2101103,Axixá - SD
+2101202,Bacabal - AA
+2101251,Bacabeira - AA
+2101301,Bacuri - CQ
+2101350,Bacurituba - LF
+2101400,Balsas - LF
+2101509,Barão de Grajaú - SQ
+2101608,Barra do Corda - PL
+2101707,Barreirinhas - CQ
+2101772,Bela Vista do Maranhão - SE
+2101731,Belágua - CQ
+2101806,Benedito Leite - LF
+2101905,Bequimão - RQ
+2101939,Bernardo do Mearim - CQ
+2101970,Boa Vista do Gurupi - CQ
+2102002,Bom Jardim - SD
+2102036,Bom Jesus das Selvas - SE
+2102077,Bom Lugar - LF
+2102101,Brejo - CQ
+2102150,Brejo de Areia - SQ
+2102200,Buriti - PL
+2102309,Buriti Bravo - CQ
+2102325,Buriticupu - LS
+2102358,Buritirana - RQ
+2102374,Cachoeira Grande - PL
+2102408,Cajapió - SQ
+2102507,Cajari - CQ
+2102556,Campestre do Maranhão - SE
+2102606,Cândido Mendes - RQ
+2102705,Cantanhede - LS
+2102754,Capinzal do Norte - AA
+2102804,Carolina - RQ
+2102903,Carutapera - AA
+2103000,Caxias - SQ
+2103109,Cedral - RQ
+2103125,Central do Maranhão - CQ
+2103158,Centro do Guilherme - RQ
+2103174,Centro Novo do Maranhão - CQ
+2103208,Chapadinha - AA
+2103257,Cidelândia - CQ
+2103307,Codó - CQ
+2103406,Coelho Neto - PL
+2103505,Colinas - LS
+2103554,Conceição do Lago-Açu - LF
+2103604,Coroatá - PL
+2103703,Cururupu - CQ
+2103752,Davinópolis - CQ
+2103802,Dom Pedro - LS
+2103901,Duque Bacelar - RQ
+2104008,Esperantinópolis - LF
+2104057,Estreito - SD
+2104073,Feira Nova do Maranhão - SQ
+2104081,Fernando Falcão - RQ
+2104099,Formosa da Serra Negra - AA
+2104107,Fortaleza dos Nogueiras - RQ
+2104206,Fortuna - PL
+2104305,Godofredo Viana - LS
+2104404,Gonçalves Dias - SE
+2104503,Governador Archer - SE
+2104552,Governador Edison Lobão - SE
+2104602,Governador Eugênio Barros - CQ
+2104628,Governador Luiz Rocha - PL
+2104651,Governador Newton Bello - SD
+2104677,Governador Nunes Freire - AA
+2104701,Graça Aranha - LF
+2104800,Grajaú - PL
+2104909,Guimarães - LF
+2105005,Humberto de Campos - PL
+2105104,Icatu - SD
+2105153,Igarapé do Meio - CQ
+2105203,Igarapé Grande - AA
+2105302,Imperatriz - CQ
+2105351,Itaipava do Grajaú - SQ
+2105401,Itapecuru Mirim - PL
+2105427,Itinga do Maranhão - LF
+2105450,Jatobá - CQ
+2105476,Jenipapo dos Vieiras - LF
+2105500,João Lisboa - PL
+2105609,Joselândia - LF
+2105658,Junco do Maranhão - SD
+2105708,Lago da Pedra - SQ
+2105807,Lago do Junco - SQ
+2105948,Lago dos Rodrigues - CQ
+2105906,Lago Verde - SD
+2105922,Lagoa do Mato - SQ
+2105963,Lagoa Grande do Maranhão - SD
+2105989,Lajeado Novo - LS
+2106003,Lima Campos - CQ
+2106102,Loreto - SD
+2106201,Luís Domingues - PL
+2106300,Magalhães de Almeida - CQ
+2106326,Maracaçumé - PL
+2106359,Marajá do Sena - SD
+2106375,Maranhãozinho - CQ
+2106409,Mata Roma - PL
+2106508,Matinha - CQ
+2106607,Matões - AA
+2106631,Matões do Norte - LF
+2106672,Milagres do Maranhão - RQ
+2106706,Mirador - LF
+2106755,Miranda do Norte - SE
+2106805,Mirinzal - RQ
+2106904,Monção - CQ
+2107001,Montes Altos - AA
+2107100,Morros - CQ
+2107209,Nina Rodrigues - SQ
+2107258,Nova Colinas - SE
+2107308,Nova Iorque - AA
+2107357,Nova Olinda do Maranhão - CQ
+2107407,Olho d Água das Cunhãs - SQ
+2107456,Olinda Nova do Maranhão - AA
+2107506,Paço do Lumiar - CQ
+2107605,Palmeirândia - CQ
+2107704,Paraibano - LF
+2107803,Parnarama - SE
+2107902,Passagem Franca - LF
+2108009,Pastos Bons - SD
+2108058,Paulino Neves - LS
+2108108,Paulo Ramos - SE
+2108207,Pedreiras - SE
+2108256,Pedro do Rosário - LS
+2108306,Penalva - SQ
+2108405,Peri Mirim - SD
+2108454,Peritoró - LS
+2108504,Pindaré-Mirim - CQ
+2108603,Pinheiro - LF
+2108702,Pio XII - PL
+2108801,Pirapemas - LS
+2108900,Poção de Pedras - CQ
+2109007,Porto Franco - RQ
+2109056,Porto Rico do Maranhão - CQ
+2109106,Presidente Dutra - SE
+2109205,Presidente Juscelino - SE
+2109239,Presidente Médici - LF
+2109270,Presidente Sarney - CQ
+2109304,Presidente Vargas - LF
+2109403,Primeira Cruz - AA
+2109452,Raposa - CQ
+2109502,Riachão - SQ
+2109551,Ribamar Fiquene - RQ
+2109601,Rosário - LF
+2109700,Sambaíba - LF
+2109759,Santa Filomena do Maranhão - AA
+2109809,Santa Helena - AA
+2109908,Santa Inês - CQ
+2110005,Santa Luzia - LS
+2110039,Santa Luzia do Paruá - LS
+2110104,Santa Quitéria do Maranhão - CQ
+2110203,Santa Rita - LS
+2110237,Santana do Maranhão - SD
+2110278,Santo Amaro do Maranhão - SD
+2110302,Santo Antônio dos Lopes - PL
+2110401,São Benedito do Rio Preto - AA
+2110500,São Bento - CQ
+2110609,São Bernardo - PL
+2110658,São Domingos do Azeitão - PL
+2110708,São Domingos do Maranhão - LS
+2110807,São Félix de Balsas - RQ
+2110856,São Francisco do Brejão - AA
+2110906,São Francisco do Maranhão - SQ
+2111003,São João Batista - SQ
+2111029,São João do Carú - PL
+2111052,São João do Paraíso - SD
+2111078,São João do Soter - LS
+2111102,São João dos Patos - PL
+2111201,São José de Ribamar - PL
+2111250,São José dos Basílios - RQ
+2111300,São Luís - SE
+2111409,São Luís Gonzaga do Maranhão - LF
+2111508,São Mateus do Maranhão - CQ
+2111532,São Pedro da Água Branca - PL
+2111573,São Pedro dos Crentes - CQ
+2111607,São Raimundo das Mangabeiras - SD
+2111631,São Raimundo do Doca Bezerra - LF
+2111672,São Roberto - AA
+2111706,São Vicente Ferrer - RQ
+2111722,Satubinha - PL
+2111748,Senador Alexandre Costa - LF
+2111763,Senador La Rocque - SE
+2111789,Serrano do Maranhão - AA
+2111805,Sítio Novo - SE
+2111904,Sucupira do Norte - SD
+2111953,Sucupira do Riachão - LS
+2112001,Tasso Fragoso - SQ
+2112100,Timbiras - SE
+2112209,Timon - SQ
+2112233,Trizidela do Vale - LF
+2112274,Tufilândia - AA
+2112308,Tuntum - SQ
+2112407,Turiaçu - LS
+2112456,Turilândia - RQ
+2112506,Tutóia - PL
+2112605,Urbano Santos - SE
+2112704,Vargem Grande - SD
+2112803,Viana - AA
+2112852,Vila Nova dos Martírios - SQ
+2112902,Vitória do Mearim - SQ
+2113009,Vitorino Freire - LF
+2114007,Zé Doca - SQ
+2200053,Acauã - LF
+2200103,Agricolândia - SQ
+2200202,Água Branca - PL
+2200251,Alagoinha do Piauí - LS
+2200277,Alegrete do Piauí - LS
+2200301,Alto Longá - PL
+2200400,Altos - RQ
+2200459,Alvorada do Gurguéia - LF
+2200509,Amarante - CQ
+2200608,Angical do Piauí - LS
+2200707,Anísio de Abreu - AA
+2200806,Antônio Almeida - PL
+2200905,Aroazes - RQ
+2200954,Aroeiras do Itaim - AA
+2201002,Arraial - RQ
+2201051,Assunção do Piauí - CQ
+2201101,Avelino Lopes - LF
+2201150,Baixa Grande do Ribeiro - LS
+2201176,Barra D Alcântara - AA
+2201200,Barras - AA
+2201309,Barreiras do Piauí - RQ
+2201408,Barro Duro - SE
+2201507,Batalha - LS
+2201556,Bela Vista do Piauí - AA
+2201572,Belém do Piauí - LS
+2201606,Beneditinos - SE
+2201705,Bertolínia - LS
+2201739,Betânia do Piauí - SE
+2201770,Boa Hora - SD
+2201804,Bocaina - LS
+2201903,Bom Jesus - AA
+2201919,Bom Princípio do Piauí - LS
+2201929,Bonfim do Piauí - SQ
+2201945,Boqueirão do Piauí - LS
+2201960,Brasileira - RQ
+2201988,Brejo do Piauí - PL
+2202000,Buriti dos Lopes - LS
+2202026,Buriti dos Montes - SD
+2202059,Cabeceiras do Piauí - SQ
+2202075,Cajazeiras do Piauí - RQ
+2202083,Cajueiro da Praia - LF
+2202091,Caldeirão Grande do Piauí - LF
+2202109,Campinas do Piauí - PL
+2202117,Campo Alegre do Fidalgo - SQ
+2202133,Campo Grande do Piauí - AA
+2202174,Campo Largo do Piauí - RQ
+2202208,Campo Maior - LS
+2202251,Canavieira - CQ
+2202307,Canto do Buriti - LS
+2202406,Capitão de Campos - RQ
+2202455,Capitão Gervásio Oliveira - AA
+2202505,Caracol - SE
+2202539,Caraúbas do Piauí - PL
+2202554,Caridade do Piauí - CQ
+2202604,Castelo do Piauí - SD
+2202653,Caxingó - LS
+2202703,Cocal - LS
+2202711,Cocal de Telha - LS
+2202729,Cocal dos Alves - LS
+2202737,Coivaras - SD
+2202752,Colônia do Gurguéia - RQ
+2202778,Colônia do Piauí - CQ
+2202802,Conceição do Canindé - AA
+2202851,Coronel José Dias - AA
+2202901,Corrente - LS
+2203008,Cristalândia do Piauí - LS
+2203107,Cristino Castro - AA
+2203206,Curimatá - SQ
+2203230,Currais - SD
+2203271,Curral Novo do Piauí - PL
+2203255,Curralinhos - LS
+2203305,Demerval Lobão - RQ
+2203354,Dirceu Arcoverde - LF
+2203404,Dom Expedito Lopes - AA
+2203453,Dom Inocêncio - LF
+2203420,Domingos Mourão - SD
+2203503,Elesbão Veloso - PL
+2203602,Eliseu Martins - SE
+2203701,Esperantina - CQ
+2203750,Fartura do Piauí - RQ
+2203800,Flores do Piauí - CQ
+2203859,Floresta do Piauí - LS
+2203909,Floriano - PL
+2204006,Francinópolis - PL
+2204105,Francisco Ayres - PL
+2204154,Francisco Macedo - AA
+2204204,Francisco Santos - LF
+2204303,Fronteiras - CQ
+2204352,Geminiano - SE
+2204402,Gilbués - SD
+2204501,Guadalupe - RQ
+2204550,Guaribas - PL
+2204600,Hugo Napoleão - AA
+2204659,Ilha Grande - AA
+2204709,Inhuma - RQ
+2204808,Ipiranga do Piauí - AA
+2204907,Isaías Coelho - LS
+2205003,Itainópolis - SD
+2205102,Itaueira - RQ
+2205151,Jacobina do Piauí - SD
+2205201,Jaicós - SE
+2205250,Jardim do Mulato - SQ
+2205276,Jatobá do Piauí - SE
+2205300,Jerumenha - PL
+2205359,João Costa - AA
+2205409,Joaquim Pires - AA
+2205458,Joca Marques - CQ
+2205508,José de Freitas - LS
+2205516,Juazeiro do Piauí - SD
+2205524,Júlio Borges - AA
+2205532,Jurema - LF
+2205557,Lagoa Alegre - PL
+2205573,Lagoa de São Francisco - PL
+2205565,Lagoa do Barro do Piauí - PL
+2205581,Lagoa do Piauí - LF
+2205599,Lagoa do Sítio - LS
+2205540,Lagoinha do Piauí - AA
+2205607,Landri Sales - RQ
+2205706,Luís Correia - PL
+2205805,Luzilândia - SQ
+2205854,Madeiro - LS
+2205904,Manoel Emídio - LF
+2205953,Marcolândia - LS
+2206001,Marcos Parente - SE
+2206050,Massapê do Piauí - PL
+2206100,Matias Olímpio - PL
+2206209,Miguel Alves - RQ
+2206308,Miguel Leão - SD
+2206357,Milton Brandão - AA
+2206407,Monsenhor Gil - SQ
+2206506,Monsenhor Hipólito - CQ
+2206605,Monte Alegre do Piauí - SD
+2206654,Morro Cabeça no Tempo - LS
+2206670,Morro do Chapéu do Piauí - RQ
+2206696,Murici dos Portelas - LF
+2206704,Nazaré do Piauí - RQ
+2206720,Nazária - SD
+2206753,Nossa Senhora de Nazaré - SD
+2206803,Nossa Senhora dos Remédios - LF
+2207959,Nova Santa Rita - CQ
+2206902,Novo Oriente do Piauí - SQ
+2206951,Novo Santo Antônio - SD
+2207009,Oeiras - RQ
+2207108,Olho D Água do Piauí - SE
+2207207,Padre Marcos - LF
+2207306,Paes Landim - SD
+2207355,Pajeú do Piauí - AA
+2207405,Palmeira do Piauí - LS
+2207504,Palmeirais - LF
+2207553,Paquetá - RQ
+2207603,Parnaguá - SD
+2207702,Parnaíba - LS
+2207751,Passagem Franca do Piauí - SE
+2207777,Patos do Piauí - SE
+2207793,Pau D Arco do Piauí - PL
+2207801,Paulistana - PL
+2207850,Pavussu - CQ
+2207900,Pedro II - LS
+2207934,Pedro Laurentino - SE
+2208007,Picos - LS
+2208106,Pimenteiras - LS
+2208205,Pio IX - PL
+2208304,Piracuruca - AA
+2208403,Piripiri - SQ
+2208502,Porto - LF
+2208551,Porto Alegre do Piauí - RQ
+2208601,Prata do Piauí - LS
+2208650,Queimada Nova - PL
+2208700,Redenção do Gurguéia - RQ
+2208809,Regeneração - SQ
+2208858,Riacho Frio - CQ
+2208874,Ribeira do Piauí - SQ
+2208908,Ribeiro Gonçalves - LF
+2209005,Rio Grande do Piauí - CQ
+2209104,Santa Cruz do Piauí - SD
+2209153,Santa Cruz dos Milagres - RQ
+2209203,Santa Filomena - SD
+2209302,Santa Luz - SE
+2209377,Santa Rosa do Piauí - SD
+2209351,Santana do Piauí - SE
+2209401,Santo Antônio de Lisboa - LF
+2209450,Santo Antônio dos Milagres - SD
+2209500,Santo Inácio do Piauí - RQ
+2209559,São Braz do Piauí - PL
+2209609,São Félix do Piauí - AA
+2209658,São Francisco de Assis do Piauí - LS
+2209708,São Francisco do Piauí - RQ
+2209757,São Gonçalo do Gurguéia - PL
+2209807,São Gonçalo do Piauí - CQ
+2209856,São João da Canabrava - SE
+2209872,São João da Fronteira - LF
+2209906,São João da Serra - PL
+2209955,São João da Varjota - CQ
+2209971,São João do Arraial - CQ
+2210003,São João do Piauí - LS
+2210052,São José do Divino - RQ
+2210102,São José do Peixe - CQ
+2210201,São José do Piauí - LF
+2210300,São Julião - CQ
+2210359,São Lourenço do Piauí - SD
+2210375,São Luis do Piauí - LF
+2210383,São Miguel da Baixa Grande - AA
+2210391,São Miguel do Fidalgo - SQ
+2210409,São Miguel do Tapuio - AA
+2210508,São Pedro do Piauí - AA
+2210607,São Raimundo Nonato - SE
+2210623,Sebastião Barros - SD
+2210631,Sebastião Leal - RQ
+2210656,Sigefredo Pacheco - SQ
+2210706,Simões - LF
+2210805,Simplício Mendes - PL
+2210904,Socorro do Piauí - LS
+2210938,Sussuapara - LS
+2210953,Tamboril do Piauí - RQ
+2210979,Tanque do Piauí - LF
+2211001,Teresina - LF
+2211100,União - SQ
+2211209,Uruçuí - AA
+2211308,Valença do Piauí - SE
+2211357,Várzea Branca - PL
+2211407,Várzea Grande - AA
+2211506,Vera Mendes - SQ
+2211605,Vila Nova do Piauí - LS
+2211704,Wall Ferraz - SE
+2300101,Abaiara - SQ
+2300150,Acarape - AA
+2300200,Acaraú - LS
+2300309,Acopiara - SE
+2300408,Aiuaba - LS
+2300507,Alcântaras - AA
+2300606,Altaneira - LS
+2300705,Alto Santo - AA
+2300754,Amontada - SE
+2300804,Antonina do Norte - CQ
+2300903,Apuiarés - RQ
+2301000,Aquiraz - PL
+2301109,Aracati - PL
+2301208,Aracoiaba - CQ
+2301257,Ararendá - SE
+2301307,Araripe - RQ
+2301406,Aratuba - SQ
+2301505,Arneiroz - SQ
+2301604,Assaré - SE
+2301703,Aurora - CQ
+2301802,Baixio - CQ
+2301851,Banabuiú - SD
+2301901,Barbalha - SQ
+2301950,Barreira - SD
+2302008,Barro - RQ
+2302057,Barroquinha - AA
+2302107,Baturité - RQ
+2302206,Beberibe - SE
+2302305,Bela Cruz - SQ
+2302404,Boa Viagem - SD
+2302503,Brejo Santo - SD
+2302602,Camocim - LF
+2302701,Campos Sales - SE
+2302800,Canindé - CQ
+2302909,Capistrano - RQ
+2303006,Caridade - RQ
+2303105,Cariré - SQ
+2303204,Caririaçu - SD
+2303303,Cariús - CQ
+2303402,Carnaubal - SE
+2303501,Cascavel - RQ
+2303600,Catarina - LS
+2303659,Catunda - LS
+2303709,Caucaia - RQ
+2303808,Cedro - SE
+2303907,Chaval - CQ
+2303931,Choró - SQ
+2303956,Chorozinho - LF
+2304004,Coreaú - CQ
+2304103,Crateús - PL
+2304202,Crato - LS
+2304236,Croatá - AA
+2304251,Cruz - CQ
+2304269,Deputado Irapuan Pinheiro - SD
+2304277,Ererê - SE
+2304285,Eusébio - SQ
+2304301,Farias Brito - LS
+2304350,Forquilha - SD
+2304400,Fortaleza - AA
+2304459,Fortim - CQ
+2304509,Frecheirinha - LF
+2304608,General Sampaio - LF
+2304657,Graça - SE
+2304707,Granja - RQ
+2304806,Granjeiro - LF
+2304905,Groaíras - RQ
+2304954,Guaiúba - SD
+2305001,Guaraciaba do Norte - SE
+2305100,Guaramiranga - SQ
+2305209,Hidrolândia - SE
+2305233,Horizonte - CQ
+2305266,Ibaretama - LF
+2305308,Ibiapina - CQ
+2305332,Ibicuitinga - PL
+2305357,Icapuí - PL
+2305407,Icó - LF
+2305506,Iguatu - SE
+2305605,Independência - CQ
+2305654,Ipaporanga - SD
+2305704,Ipaumirim - RQ
+2305803,Ipu - PL
+2305902,Ipueiras - LS
+2306009,Iracema - SE
+2306108,Irauçuba - LS
+2306207,Itaiçaba - LF
+2306256,Itaitinga - PL
+2306306,Itapajé - LS
+2306405,Itapipoca - LF
+2306504,Itapiúna - RQ
+2306553,Itarema - SD
+2306603,Itatira - RQ
+2306702,Jaguaretama - PL
+2306801,Jaguaribara - PL
+2306900,Jaguaribe - LS
+2307007,Jaguaruana - SE
+2307106,Jardim - AA
+2307205,Jati - AA
+2307254,Jijoca de Jericoacoara - PL
+2307304,Juazeiro do Norte - RQ
+2307403,Jucás - PL
+2307502,Lavras da Mangabeira - LS
+2307601,Limoeiro do Norte - PL
+2307635,Madalena - RQ
+2307650,Maracanaú - SD
+2307700,Maranguape - LS
+2307809,Marco - PL
+2307908,Martinópole - SE
+2308005,Massapê - SE
+2308104,Mauriti - SE
+2308203,Meruoca - SE
+2308302,Milagres - PL
+2308351,Milhã - LF
+2308377,Miraíma - LS
+2308401,Missão Velha - CQ
+2308500,Mombaça - SQ
+2308609,Monsenhor Tabosa - PL
+2308708,Morada Nova - AA
+2308807,Moraújo - CQ
+2308906,Morrinhos - LS
+2309003,Mucambo - CQ
+2309102,Mulungu - AA
+2309201,Nova Olinda - AA
+2309300,Nova Russas - PL
+2309409,Novo Oriente - RQ
+2309458,Ocara - SD
+2309508,Orós - AA
+2309607,Pacajus - AA
+2309706,Pacatuba - SE
+2309805,Pacoti - PL
+2309904,Pacujá - SD
+2310001,Palhano - AA
+2310100,Palmácia - CQ
+2310209,Paracuru - RQ
+2310258,Paraipaba - CQ
+2310308,Parambu - SD
+2310407,Paramoti - CQ
+2310506,Pedra Branca - RQ
+2310605,Penaforte - LF
+2310704,Pentecoste - RQ
+2310803,Pereiro - RQ
+2310852,Pindoretama - SD
+2310902,Piquet Carneiro - SD
+2310951,Pires Ferreira - SD
+2311009,Poranga - SQ
+2311108,Porteiras - SQ
+2311207,Potengi - AA
+2311231,Potiretama - LF
+2311264,Quiterianópolis - RQ
+2311306,Quixadá - PL
+2311355,Quixelô - SE
+2311405,Quixeramobim - AA
+2311504,Quixeré - RQ
+2311603,Redenção - SQ
+2311702,Reriutaba - LS
+2311801,Russas - SQ
+2311900,Saboeiro - LF
+2311959,Salitre - SD
+2312205,Santa Quitéria - LF
+2312007,Santana do Acaraú - CQ
+2312106,Santana do Cariri - SQ
+2312304,São Benedito - SQ
+2312403,São Gonçalo do Amarante - AA
+2312502,São João do Jaguaribe - LS
+2312601,São Luís do Curu - SE
+2312700,Senador Pompeu - LF
+2312809,Senador Sá - PL
+2312908,Sobral - SD
+2313005,Solonópole - SQ
+2313104,Tabuleiro do Norte - SD
+2313203,Tamboril - AA
+2313252,Tarrafas - RQ
+2313302,Tauá - SD
+2313351,Tejuçuoca - AA
+2313401,Tianguá - SD
+2313500,Trairi - SQ
+2313559,Tururu - LF
+2313609,Ubajara - CQ
+2313708,Umari - LS
+2313757,Umirim - SE
+2313807,Uruburetama - LF
+2313906,Uruoca - SQ
+2313955,Varjota - PL
+2314003,Várzea Alegre - SE
+2314102,Viçosa do Ceará - AA
+2400109,Acari - SE
+2400208,Açu - SQ
+2400307,Afonso Bezerra - SQ
+2400406,Água Nova - RQ
+2400505,Alexandria - SD
+2400604,Almino Afonso - RQ
+2400703,Alto do Rodrigues - SE
+2400802,Angicos - SE
+2400901,Antônio Martins - AA
+2401008,Apodi - SE
+2401107,Areia Branca - CQ
+2401206,Arês - SQ
+2401305,Augusto Severo - LS
+2401404,Baía Formosa - SD
+2401453,Baraúna - LS
+2401503,Barcelona - SE
+2401602,Bento Fernandes - SE
+2401651,Bodó - LS
+2401701,Bom Jesus - SE
+2401800,Brejinho - LS
+2401859,Caiçara do Norte - SD
+2401909,Caiçara do Rio do Vento - SD
+2402006,Caicó - SQ
+2402105,Campo Redondo - RQ
+2402204,Canguaretama - AA
+2402303,Caraúbas - LS
+2402402,Carnaúba dos Dantas - AA
+2402501,Carnaubais - RQ
+2402600,Ceará-Mirim - LS
+2402709,Cerro Corá - SE
+2402808,Coronel Ezequiel - RQ
+2402907,Coronel João Pessoa - SD
+2403004,Cruzeta - AA
+2403103,Currais Novos - PL
+2403202,Doutor Severiano - SE
+2403301,Encanto - AA
+2403400,Equador - RQ
+2403509,Espírito Santo - LS
+2403608,Extremoz - SD
+2403707,Felipe Guerra - LF
+2403756,Fernando Pedroza - PL
+2403806,Florânia - SQ
+2403905,Francisco Dantas - SQ
+2404002,Frutuoso Gomes - SD
+2404101,Galinhos - PL
+2404200,Goianinha - SD
+2404309,Governador Dix-Sept Rosado - PL
+2404408,Grossos - RQ
+2404507,Guamaré - LS
+2404606,Ielmo Marinho - CQ
+2404705,Ipanguaçu - LF
+2404804,Ipueira - LF
+2404853,Itajá - SD
+2404903,Itaú - RQ
+2405009,Jaçanã - AA
+2405108,Jandaíra - AA
+2405207,Janduís - LS
+2405306,Januário Cicco - AA
+2405405,Japi - AA
+2405504,Jardim de Angicos - SQ
+2405603,Jardim de Piranhas - AA
+2405702,Jardim do Seridó - LF
+2405801,João Câmara - CQ
+2405900,João Dias - CQ
+2406007,José da Penha - LS
+2406106,Jucurutu - SQ
+2406155,Jundiá - AA
+2406205,Lagoa d Anta - AA
+2406304,Lagoa de Pedras - SD
+2406403,Lagoa de Velhos - LF
+2406502,Lagoa Nova - AA
+2406601,Lagoa Salgada - AA
+2406700,Lajes - PL
+2406809,Lajes Pintadas - LF
+2406908,Lucrécia - SQ
+2407005,Luís Gomes - LF
+2407104,Macaíba - LS
+2407203,Macau - AA
+2407252,Major Sales - SD
+2407302,Marcelino Vieira - SD
+2407401,Martins - SQ
+2407500,Maxaranguape - LF
+2407609,Messias Targino - RQ
+2407708,Montanhas - PL
+2407807,Monte Alegre - SE
+2407906,Monte das Gameleiras - AA
+2408003,Mossoró - SD
+2408102,Natal - PL
+2408201,Nísia Floresta - LS
+2408300,Nova Cruz - LF
+2408409,Olho d Água do Borges - AA
+2408508,Ouro Branco - AA
+2408607,Paraná - LS
+2408706,Paraú - LF
+2408805,Parazinho - SE
+2408904,Parelhas - AA
+2403251,Parnamirim - RQ
+2409100,Passa e Fica - PL
+2409209,Passagem - LS
+2409308,Patu - LS
+2409407,Pau dos Ferros - CQ
+2409506,Pedra Grande - SE
+2409605,Pedra Preta - SE
+2409704,Pedro Avelino - RQ
+2409803,Pedro Velho - PL
+2409902,Pendências - LS
+2410009,Pilões - CQ
+2410108,Poço Branco - SD
+2410207,Portalegre - LS
+2410256,Porto do Mangue - CQ
+2410405,Pureza - SE
+2410504,Rafael Fernandes - AA
+2410603,Rafael Godeiro - RQ
+2410702,Riacho da Cruz - SQ
+2410801,Riacho de Santana - SQ
+2410900,Riachuelo - SE
+2408953,Rio do Fogo - CQ
+2411007,Rodolfo Fernandes - PL
+2411106,Ruy Barbosa - AA
+2411205,Santa Cruz - RQ
+2409332,Santa Maria - LS
+2411403,Santana do Matos - PL
+2411429,Santana do Seridó - PL
+2411502,Santo Antônio - CQ
+2411601,São Bento do Norte - AA
+2411700,São Bento do Trairí - LF
+2411809,São Fernando - AA
+2411908,São Francisco do Oeste - SD
+2412005,São Gonçalo do Amarante - CQ
+2412104,São João do Sabugi - RQ
+2412203,São José de Mipibu - AA
+2412302,São José do Campestre - RQ
+2412401,São José do Seridó - AA
+2412500,São Miguel - SE
+2412559,São Miguel do Gostoso - SD
+2412609,São Paulo do Potengi - SD
+2412708,São Pedro - SE
+2412807,São Rafael - SE
+2412906,São Tomé - SQ
+2413003,São Vicente - SE
+2413102,Senador Elói de Souza - SQ
+2413201,Senador Georgino Avelino - PL
+2410306,Serra Caiada - RQ
+2413300,Serra de São Bento - SQ
+2413359,Serra do Mel - CQ
+2413409,Serra Negra do Norte - CQ
+2413508,Serrinha - PL
+2413557,Serrinha dos Pintos - RQ
+2413607,Severiano Melo - LF
+2413706,Sítio Novo - AA
+2413805,Taboleiro Grande - LS
+2413904,Taipu - PL
+2414001,Tangará - RQ
+2414100,Tenente Ananias - SD
+2414159,Tenente Laurentino Cruz - PL
+2411056,Tibau - LF
+2414209,Tibau do Sul - SQ
+2414308,Timbaúba dos Batistas - AA
+2414407,Touros - AA
+2414456,Triunfo Potiguar - LF
+2414506,Umarizal - PL
+2414605,Upanema - RQ
+2414704,Várzea - AA
+2414753,Venha-Ver - SD
+2414803,Vera Cruz - LS
+2414902,Viçosa - CQ
+2415008,Vila Flor - LF
+2500106,Água Branca - AA
+2500205,Aguiar - SD
+2500304,Alagoa Grande - AA
+2500403,Alagoa Nova - SE
+2500502,Alagoinha - RQ
+2500536,Alcantil - PL
+2500577,Algodão de Jandaíra - SQ
+2500601,Alhandra - RQ
+2500734,Amparo - RQ
+2500775,Aparecida - SE
+2500809,Araçagi - LF
+2500908,Arara - SE
+2501005,Araruna - CQ
+2501104,Areia - LS
+2501153,Areia de Baraúnas - PL
+2501203,Areial - RQ
+2501302,Aroeiras - RQ
+2501351,Assunção - CQ
+2501401,Baía da Traição - SD
+2501500,Bananeiras - LF
+2501534,Baraúna - RQ
+2501609,Barra de Santa Rosa - SE
+2501575,Barra de Santana - SD
+2501708,Barra de São Miguel - AA
+2501807,Bayeux - LS
+2501906,Belém - SQ
+2502003,Belém do Brejo do Cruz - CQ
+2502052,Bernardino Batista - SQ
+2502102,Boa Ventura - SE
+2502151,Boa Vista - RQ
+2502201,Bom Jesus - PL
+2502300,Bom Sucesso - LS
+2502409,Bonito de Santa Fé - CQ
+2502508,Boqueirão - SQ
+2502706,Borborema - AA
+2502805,Brejo do Cruz - LS
+2502904,Brejo dos Santos - LS
+2503001,Caaporã - AA
+2503100,Cabaceiras - AA
+2503209,Cabedelo - SE
+2503308,Cachoeira dos Índios - LS
+2503407,Cacimba de Areia - LF
+2503506,Cacimba de Dentro - LF
+2503555,Cacimbas - SD
+2503605,Caiçara - LF
+2503704,Cajazeiras - CQ
+2503753,Cajazeirinhas - AA
+2503803,Caldas Brandão - SD
+2503902,Camalaú - AA
+2504009,Campina Grande - PL
+2504033,Capim - SQ
+2504074,Caraúbas - SQ
+2504108,Carrapateira - CQ
+2504157,Casserengue - AA
+2504207,Catingueira - LF
+2504306,Catolé do Rocha - SQ
+2504355,Caturité - PL
+2504405,Conceição - AA
+2504504,Condado - LS
+2504603,Conde - LF
+2504702,Congo - LS
+2504801,Coremas - CQ
+2504850,Coxixola - SQ
+2504900,Cruz do Espírito Santo - SE
+2505006,Cubati - SD
+2505105,Cuité - CQ
+2505238,Cuité de Mamanguape - RQ
+2505204,Cuitegi - CQ
+2505279,Curral de Cima - LS
+2505303,Curral Velho - SE
+2505352,Damião - LF
+2505402,Desterro - SQ
+2505600,Diamante - SD
+2505709,Dona Inês - LS
+2505808,Duas Estradas - CQ
+2505907,Emas - PL
+2506004,Esperança - SQ
+2506103,Fagundes - LF
+2506202,Frei Martinho - SQ
+2506251,Gado Bravo - RQ
+2506301,Guarabira - LF
+2506400,Gurinhém - LF
+2506509,Gurjão - CQ
+2506608,Ibiara - PL
+2502607,Igaracy - RQ
+2506707,Imaculada - LF
+2506806,Ingá - SE
+2506905,Itabaiana - SD
+2507002,Itaporanga - SE
+2507101,Itapororoca - RQ
+2507200,Itatuba - SE
+2507309,Jacaraú - SQ
+2507408,Jericó - CQ
+2507507,João Pessoa - CQ
+2513653,Joca Claudino - CQ
+2507606,Juarez Távora - SD
+2507705,Juazeirinho - SD
+2507804,Junco do Seridó - CQ
+2507903,Juripiranga - LS
+2508000,Juru - AA
+2508109,Lagoa - AA
+2508208,Lagoa de Dentro - PL
+2508307,Lagoa Seca - SD
+2508406,Lastro - RQ
+2508505,Livramento - CQ
+2508554,Logradouro - RQ
+2508604,Lucena - RQ
+2508703,Mãe d Água - LS
+2508802,Malta - RQ
+2508901,Mamanguape - RQ
+2509008,Manaíra - CQ
+2509057,Marcação - CQ
+2509107,Mari - SD
+2509156,Marizópolis - LF
+2509206,Massaranduba - CQ
+2509305,Mataraca - LS
+2509339,Matinhas - PL
+2509370,Mato Grosso - RQ
+2509396,Maturéia - SQ
+2509404,Mogeiro - PL
+2509503,Montadas - RQ
+2509602,Monte Horebe - RQ
+2509701,Monteiro - LS
+2509800,Mulungu - PL
+2509909,Natuba - PL
+2510006,Nazarezinho - SD
+2510105,Nova Floresta - SD
+2510204,Nova Olinda - LF
+2510303,Nova Palmeira - CQ
+2510402,Olho d Água - SD
+2510501,Olivedos - PL
+2510600,Ouro Velho - RQ
+2510659,Parari - LF
+2510709,Passagem - LS
+2510808,Patos - RQ
+2510907,Paulista - PL
+2511004,Pedra Branca - PL
+2511103,Pedra Lavrada - SE
+2511202,Pedras de Fogo - SD
+2512721,Pedro Régis - LS
+2511301,Piancó - LF
+2511400,Picuí - SQ
+2511509,Pilar - SD
+2511608,Pilões - AA
+2511707,Pilõezinhos - PL
+2511806,Pirpirituba - SQ
+2511905,Pitimbu - LS
+2512002,Pocinhos - AA
+2512036,Poço Dantas - AA
+2512077,Poço de José de Moura - SQ
+2512101,Pombal - LS
+2512200,Prata - RQ
+2512309,Princesa Isabel - PL
+2512408,Puxinanã - SD
+2512507,Queimadas - LS
+2512606,Quixaba - SD
+2512705,Remígio - SD
+2512747,Riachão - LS
+2512754,Riachão do Bacamarte - SE
+2512762,Riachão do Poço - RQ
+2512788,Riacho de Santo Antônio - RQ
+2512804,Riacho dos Cavalos - SE
+2512903,Rio Tinto - LF
+2513000,Salgadinho - CQ
+2513109,Salgado de São Félix - AA
+2513158,Santa Cecília - CQ
+2513208,Santa Cruz - SD
+2513307,Santa Helena - PL
+2513356,Santa Inês - SE
+2513406,Santa Luzia - SQ
+2513703,Santa Rita - SE
+2513802,Santa Teresinha - SE
+2513505,Santana de Mangueira - AA
+2513604,Santana dos Garrotes - CQ
+2513851,Santo André - LF
+2513927,São Bentinho - LF
+2513901,São Bento - SD
+2513968,São Domingos - SQ
+2513943,São Domingos do Cariri - SQ
+2513984,São Francisco - LF
+2514008,São João do Cariri - SQ
+2500700,São João do Rio do Peixe - AA
+2514107,São João do Tigre - SD
+2514206,São José da Lagoa Tapada - SD
+2514305,São José de Caiana - PL
+2514404,São José de Espinharas - SD
+2514503,São José de Piranhas - SE
+2514552,São José de Princesa - LF
+2514602,São José do Bonfim - CQ
+2514651,São José do Brejo do Cruz - RQ
+2514701,São José do Sabugi - CQ
+2514800,São José dos Cordeiros - SQ
+2514453,São José dos Ramos - PL
+2514909,São Mamede - AA
+2515005,São Miguel de Taipu - CQ
+2515104,São Sebastião de Lagoa de Roça - LF
+2515203,São Sebastião do Umbuzeiro - RQ
+2515401,São Vicente do Seridó - SD
+2515302,Sapé - SD
+2515500,Serra Branca - AA
+2515609,Serra da Raiz - LS
+2515708,Serra Grande - CQ
+2515807,Serra Redonda - LF
+2515906,Serraria - SQ
+2515930,Sertãozinho - PL
+2515971,Sobrado - SQ
+2516003,Solânea - LF
+2516102,Soledade - SE
+2516151,Sossêgo - SD
+2516201,Sousa - SQ
+2516300,Sumé - CQ
+2516409,Tacima - SQ
+2516508,Taperoá - SQ
+2516607,Tavares - SQ
+2516706,Teixeira - SD
+2516755,Tenório - SE
+2516805,Triunfo - RQ
+2516904,Uiraúna - RQ
+2517001,Umbuzeiro - SQ
+2517100,Várzea - PL
+2517209,Vieirópolis - CQ
+2505501,Vista Serrana - SQ
+2517407,Zabelê - LS
+2600054,Abreu e Lima - LF
+2600104,Afogados da Ingazeira - SD
+2600203,Afrânio - SQ
+2600302,Agrestina - RQ
+2600401,Água Preta - PL
+2600500,Águas Belas - SQ
+2600609,Alagoinha - SD
+2600708,Aliança - SD
+2600807,Altinho - AA
+2600906,Amaraji - LS
+2601003,Angelim - PL
+2601052,Araçoiaba - LS
+2601102,Araripina - SE
+2601201,Arcoverde - RQ
+2601300,Barra de Guabiraba - SD
+2601409,Barreiros - SD
+2601508,Belém de Maria - LF
+2601607,Belém do São Francisco - SQ
+2601706,Belo Jardim - SD
+2601805,Betânia - LF
+2601904,Bezerros - SD
+2602001,Bodocó - SE
+2602100,Bom Conselho - CQ
+2602209,Bom Jardim - CQ
+2602308,Bonito - RQ
+2602407,Brejão - RQ
+2602506,Brejinho - PL
+2602605,Brejo da Madre de Deus - SD
+2602704,Buenos Aires - LF
+2602803,Buíque - SQ
+2602902,Cabo de Santo Agostinho - SQ
+2603009,Cabrobó - RQ
+2603108,Cachoeirinha - SE
+2603207,Caetés - LS
+2603306,Calçado - SQ
+2603405,Calumbi - SD
+2603454,Camaragibe - SQ
+2603504,Camocim de São Félix - AA
+2603603,Camutanga - RQ
+2603702,Canhotinho - SE
+2603801,Capoeiras - SQ
+2603900,Carnaíba - PL
+2603926,Carnaubeira da Penha - LS
+2604007,Carpina - LS
+2604106,Caruaru - AA
+2604155,Casinhas - SE
+2604205,Catende - CQ
+2604304,Cedro - PL
+2604403,Chã de Alegria - SQ
+2604502,Chã Grande - SE
+2604601,Condado - AA
+2604700,Correntes - CQ
+2604809,Cortês - CQ
+2604908,Cumaru - AA
+2605004,Cupira - AA
+2605103,Custódia - SQ
+2605152,Dormentes - RQ
+2605202,Escada - CQ
+2605301,Exu - SD
+2605400,Feira Nova - CQ
+2605459,Fernando de Noronha - CQ
+2605509,Ferreiros - AA
+2605608,Flores - SQ
+2605707,Floresta - AA
+2605806,Frei Miguelinho - SD
+2605905,Gameleira - AA
+2606002,Garanhuns - RQ
+2606101,Glória do Goitá - LS
+2606200,Goiana - RQ
+2606309,Granito - SE
+2606408,Gravatá - RQ
+2606507,Iati - SQ
+2606606,Ibimirim - SD
+2606705,Ibirajuba - CQ
+2606804,Igarassu - SD
+2606903,Iguaracy - LS
+2607604,Ilha de Itamaracá - SD
+2607000,Inajá - LS
+2607109,Ingazeira - AA
+2607208,Ipojuca - LF
+2607307,Ipubi - CQ
+2607406,Itacuruba - PL
+2607505,Itaíba - SD
+2607653,Itambé - SQ
+2607703,Itapetim - LF
+2607752,Itapissuma - PL
+2607802,Itaquitinga - LS
+2607901,Jaboatão dos Guararapes - SQ
+2607950,Jaqueira - RQ
+2608008,Jataúba - LF
+2608057,Jatobá - AA
+2608107,João Alfredo - SE
+2608206,Joaquim Nabuco - SE
+2608255,Jucati - AA
+2608305,Jupi - SD
+2608404,Jurema - PL
+2608503,Lagoa de Itaenga - LS
+2608453,Lagoa do Carro - LS
+2608602,Lagoa do Ouro - RQ
+2608701,Lagoa dos Gatos - SQ
+2608750,Lagoa Grande - LF
+2608800,Lajedo - AA
+2608909,Limoeiro - RQ
+2609006,Macaparana - SQ
+2609105,Machados - AA
+2609154,Manari - SD
+2609204,Maraial - CQ
+2609303,Mirandiba - PL
+2614303,Moreilândia - AA
+2609402,Moreno - LF
+2609501,Nazaré da Mata - PL
+2609600,Olinda - SQ
+2609709,Orobó - RQ
+2609808,Orocó - SQ
+2609907,Ouricuri - LS
+2610004,Palmares - RQ
+2610103,Palmeirina - SD
+2610202,Panelas - SQ
+2610301,Paranatama - LS
+2610400,Parnamirim - LF
+2610509,Passira - LS
+2610608,Paudalho - CQ
+2610707,Paulista - SE
+2610806,Pedra - AA
+2610905,Pesqueira - PL
+2611002,Petrolândia - CQ
+2611101,Petrolina - PL
+2611200,Poção - LF
+2611309,Pombos - LS
+2611408,Primavera - SE
+2611507,Quipapá - AA
+2611533,Quixaba - AA
+2611606,Recife - SD
+2611705,Riacho das Almas - RQ
+2611804,Ribeirão - CQ
+2611903,Rio Formoso - PL
+2612000,Sairé - AA
+2612109,Salgadinho - SE
+2612208,Salgueiro - LS
+2612307,Saloá - CQ
+2612406,Sanharó - LF
+2612455,Santa Cruz - SD
+2612471,Santa Cruz da Baixa Verde - SQ
+2612505,Santa Cruz do Capibaribe - PL
+2612554,Santa Filomena - RQ
+2612604,Santa Maria da Boa Vista - AA
+2612703,Santa Maria do Cambucá - SE
+2612802,Santa Terezinha - LF
+2612901,São Benedito do Sul - AA
+2613008,São Bento do Una - SD
+2613107,São Caitano - AA
+2613206,São João - RQ
+2613305,São Joaquim do Monte - SE
+2613404,São José da Coroa Grande - SQ
+2613503,São José do Belmonte - AA
+2613602,São José do Egito - RQ
+2613701,São Lourenço da Mata - AA
+2613800,São Vicente Férrer - LS
+2613909,Serra Talhada - SE
+2614006,Serrita - LF
+2614105,Sertânia - SQ
+2614204,Sirinhaém - LS
+2614402,Solidão - AA
+2614501,Surubim - AA
+2614600,Tabira - SE
+2614709,Tacaimbó - LF
+2614808,Tacaratu - SQ
+2614857,Tamandaré - SQ
+2615003,Taquaritinga do Norte - LS
+2615102,Terezinha - LS
+2615201,Terra Nova - CQ
+2615300,Timbaúba - SD
+2615409,Toritama - SQ
+2615508,Tracunhaém - RQ
+2615607,Trindade - CQ
+2615706,Triunfo - SE
+2615805,Tupanatinga - RQ
+2615904,Tuparetama - RQ
+2616001,Venturosa - LF
+2616100,Verdejante - CQ
+2616183,Vertente do Lério - AA
+2616209,Vertentes - SD
+2616308,Vicência - SQ
+2616407,Vitória de Santo Antão - AA
+2616506,Xexéu - PL
+2700102,Água Branca - LS
+2700201,Anadia - AA
+2700300,Arapiraca - SQ
+2700409,Atalaia - LS
+2700508,Barra de Santo Antônio - AA
+2700607,Barra de São Miguel - LS
+2700706,Batalha - SD
+2700805,Belém - CQ
+2700904,Belo Monte - SD
+2701001,Boca da Mata - RQ
+2701100,Branquinha - CQ
+2701209,Cacimbinhas - AA
+2701308,Cajueiro - RQ
+2701357,Campestre - PL
+2701407,Campo Alegre - SD
+2701506,Campo Grande - PL
+2701605,Canapi - RQ
+2701704,Capela - SQ
+2701803,Carneiros - SD
+2701902,Chã Preta - LS
+2702009,Coité do Nóia - CQ
+2702108,Colônia Leopoldina - LS
+2702207,Coqueiro Seco - SE
+2702306,Coruripe - LF
+2702355,Craíbas - LS
+2702405,Delmiro Gouveia - LF
+2702504,Dois Riachos - RQ
+2702553,Estrela de Alagoas - SE
+2702603,Feira Grande - RQ
+2702702,Feliz Deserto - LF
+2702801,Flexeiras - SQ
+2702900,Girau do Ponciano - AA
+2703007,Ibateguara - SE
+2703106,Igaci - RQ
+2703205,Igreja Nova - AA
+2703304,Inhapi - SD
+2703403,Jacaré dos Homens - LF
+2703502,Jacuípe - RQ
+2703601,Japaratinga - SE
+2703700,Jaramataia - AA
+2703759,Jequiá da Praia - RQ
+2703809,Joaquim Gomes - RQ
+2703908,Jundiá - LF
+2704005,Junqueiro - RQ
+2704104,Lagoa da Canoa - PL
+2704203,Limoeiro de Anadia - SQ
+2704302,Maceió - SD
+2704401,Major Isidoro - LF
+2704906,Mar Vermelho - RQ
+2704500,Maragogi - LF
+2704609,Maravilha - SE
+2704708,Marechal Deodoro - LS
+2704807,Maribondo - LS
+2705002,Mata Grande - PL
+2705101,Matriz de Camaragibe - SQ
+2705200,Messias - AA
+2705309,Minador do Negrão - SQ
+2705408,Monteirópolis - LF
+2705507,Murici - SQ
+2705606,Novo Lino - LS
+2705705,Olho d Água das Flores - RQ
+2705804,Olho d Água do Casado - CQ
+2705903,Olho d Água Grande - PL
+2706000,Olivença - LF
+2706109,Ouro Branco - RQ
+2706208,Palestina - SQ
+2706307,Palmeira dos Índios - SQ
+2706406,Pão de Açúcar - AA
+2706422,Pariconha - LF
+2706448,Paripueira - AA
+2706505,Passo de Camaragibe - SQ
+2706604,Paulo Jacinto - CQ
+2706703,Penedo - SQ
+2706802,Piaçabuçu - SD
+2706901,Pilar - SQ
+2707008,Pindoba - LF
+2707107,Piranhas - PL
+2707206,Poço das Trincheiras - PL
+2707305,Porto Calvo - SQ
+2707404,Porto de Pedras - PL
+2707503,Porto Real do Colégio - SD
+2707602,Quebrangulo - SQ
+2707701,Rio Largo - LF
+2707800,Roteiro - AA
+2707909,Santa Luzia do Norte - PL
+2708006,Santana do Ipanema - PL
+2708105,Santana do Mundaú - LF
+2708204,São Brás - SD
+2708303,São José da Laje - PL
+2708402,São José da Tapera - LF
+2708501,São Luís do Quitunde - AA
+2708600,São Miguel dos Campos - LF
+2708709,São Miguel dos Milagres - AA
+2708808,São Sebastião - SQ
+2708907,Satuba - RQ
+2708956,Senador Rui Palmeira - SD
+2709004,Tanque d Arca - CQ
+2709103,Taquarana - CQ
+2709152,Teotônio Vilela - AA
+2709202,Traipu - LF
+2709301,União dos Palmares - RQ
+2709400,Viçosa - PL
+2800100,Amparo de São Francisco - LS
+2800209,Aquidabã - CQ
+2800308,Aracaju - LF
+2800407,Arauá - LS
+2800506,Areia Branca - RQ
+2800605,Barra dos Coqueiros - CQ
+2800670,Boquim - RQ
+2800704,Brejo Grande - RQ
+2801009,Campo do Brito - SE
+2801108,Canhoba - RQ
+2801207,Canindé de São Francisco - AA
+2801306,Capela - LS
+2801405,Carira - CQ
+2801504,Carmópolis - LS
+2801603,Cedro de São João - PL
+2801702,Cristinápolis - CQ
+2801900,Cumbe - SD
+2802007,Divina Pastora - PL
+2802106,Estância - SD
+2802205,Feira Nova - LF
+2802304,Frei Paulo - CQ
+2802403,Gararu - SE
+2802502,General Maynard - CQ
+2802601,Gracho Cardoso - SD
+2802700,Ilha das Flores - SE
+2802809,Indiaroba - LS
+2802908,Itabaiana - CQ
+2803005,Itabaianinha - SD
+2803104,Itabi - CQ
+2803203,Itaporanga d Ajuda - SD
+2803302,Japaratuba - RQ
+2803401,Japoatã - SQ
+2803500,Lagarto - SD
+2803609,Laranjeiras - SE
+2803708,Macambira - AA
+2803807,Malhada dos Bois - SD
+2803906,Malhador - SD
+2804003,Maruim - LF
+2804102,Moita Bonita - AA
+2804201,Monte Alegre de Sergipe - CQ
+2804300,Muribeca - LF
+2804409,Neópolis - PL
+2804458,Nossa Senhora Aparecida - SQ
+2804508,Nossa Senhora da Glória - SQ
+2804607,Nossa Senhora das Dores - CQ
+2804706,Nossa Senhora de Lourdes - RQ
+2804805,Nossa Senhora do Socorro - SQ
+2804904,Pacatuba - PL
+2805000,Pedra Mole - PL
+2805109,Pedrinhas - LS
+2805208,Pinhão - SQ
+2805307,Pirambu - CQ
+2805406,Poço Redondo - AA
+2805505,Poço Verde - CQ
+2805604,Porto da Folha - PL
+2805703,Propriá - LS
+2805802,Riachão do Dantas - LS
+2805901,Riachuelo - SQ
+2806008,Ribeirópolis - LS
+2806107,Rosário do Catete - RQ
+2806206,Salgado - SD
+2806305,Santa Luzia do Itanhy - LF
+2806503,Santa Rosa de Lima - RQ
+2806404,Santana do São Francisco - RQ
+2806602,Santo Amaro das Brotas - LF
+2806701,São Cristóvão - SD
+2806800,São Domingos - CQ
+2806909,São Francisco - LF
+2807006,São Miguel do Aleixo - CQ
+2807105,Simão Dias - AA
+2807204,Siriri - SE
+2807303,Telha - SE
+2807402,Tobias Barreto - SQ
+2807501,Tomar do Geru - RQ
+2807600,Umbaúba - LF
+2900108,Abaíra - RQ
+2900207,Abaré - RQ
+2900306,Acajutiba - CQ
+2900355,Adustina - LS
+2900405,Água Fria - SD
+2900603,Aiquara - PL
+2900702,Alagoinhas - SE
+2900801,Alcobaça - LS
+2900900,Almadina - AA
+2901007,Amargosa - PL
+2901106,Amélia Rodrigues - AA
+2901155,América Dourada - LF
+2901205,Anagé - CQ
+2901304,Andaraí - PL
+2901353,Andorinha - AA
+2901403,Angical - CQ
+2901502,Anguera - SD
+2901601,Antas - LF
+2901700,Antônio Cardoso - LS
+2901809,Antônio Gonçalves - RQ
+2901908,Aporá - LF
+2901957,Apuarema - RQ
+2902054,Araçás - SE
+2902005,Aracatu - LS
+2902104,Araci - SQ
+2902203,Aramari - LS
+2902252,Arataca - RQ
+2902302,Aratuípe - LS
+2902401,Aurelino Leal - PL
+2902500,Baianópolis - SD
+2902609,Baixa Grande - LS
+2902658,Banzaê - SQ
+2902708,Barra - SD
+2902807,Barra da Estiva - SE
+2902906,Barra do Choça - CQ
+2903003,Barra do Mendes - SQ
+2903102,Barra do Rocha - RQ
+2903201,Barreiras - SQ
+2903235,Barro Alto - SD
+2903300,Barro Preto - SD
+2903276,Barrocas - AA
+2903409,Belmonte - AA
+2903508,Belo Campo - LF
+2903607,Biritinga - SE
+2903706,Boa Nova - PL
+2903805,Boa Vista do Tupim - LS
+2903904,Bom Jesus da Lapa - CQ
+2903953,Bom Jesus da Serra - RQ
+2904001,Boninal - SQ
+2904050,Bonito - AA
+2904100,Boquira - CQ
+2904209,Botuporã - RQ
+2904308,Brejões - AA
+2904407,Brejolândia - CQ
+2904506,Brotas de Macaúbas - PL
+2904605,Brumado - SQ
+2904704,Buerarema - PL
+2904753,Buritirama - LF
+2904803,Caatiba - SD
+2904852,Cabaceiras do Paraguaçu - RQ
+2904902,Cachoeira - CQ
+2905008,Caculé - CQ
+2905107,Caém - SE
+2905156,Caetanos - PL
+2905206,Caetité - LF
+2905305,Cafarnaum - LS
+2905404,Cairu - AA
+2905503,Caldeirão Grande - SE
+2905602,Camacan - SD
+2905701,Camaçari - SD
+2905800,Camamu - LF
+2905909,Campo Alegre de Lourdes - LS
+2906006,Campo Formoso - SD
+2906105,Canápolis - SD
+2906204,Canarana - PL
+2906303,Canavieiras - SD
+2906402,Candeal - SD
+2906501,Candeias - RQ
+2906600,Candiba - LS
+2906709,Cândido Sales - LS
+2906808,Cansanção - SD
+2906824,Canudos - LS
+2906857,Capela do Alto Alegre - LF
+2906873,Capim Grosso - CQ
+2906899,Caraíbas - SD
+2906907,Caravelas - SQ
+2907004,Cardeal da Silva - AA
+2907103,Carinhanha - SD
+2907202,Casa Nova - SD
+2907301,Castro Alves - RQ
+2907400,Catolândia - SD
+2907509,Catu - LF
+2907558,Caturama - SE
+2907608,Central - PL
+2907707,Chorrochó - PL
+2907806,Cícero Dantas - LS
+2907905,Cipó - LS
+2908002,Coaraci - PL
+2908101,Cocos - AA
+2908200,Conceição da Feira - LF
+2908309,Conceição do Almeida - SQ
+2908408,Conceição do Coité - SQ
+2908507,Conceição do Jacuípe - SE
+2908606,Conde - PL
+2908705,Condeúba - SD
+2908804,Contendas do Sincorá - SD
+2908903,Coração de Maria - SE
+2909000,Cordeiros - PL
+2909109,Coribe - SD
+2909208,Coronel João Sá - LF
+2909307,Correntina - RQ
+2909406,Cotegipe - SQ
+2909505,Cravolândia - SE
+2909604,Crisópolis - SQ
+2909703,Cristópolis - RQ
+2909802,Cruz das Almas - PL
+2909901,Curaçá - SQ
+2910008,Dário Meira - AA
+2910057,Dias d Ávila - LF
+2910107,Dom Basílio - AA
+2910206,Dom Macedo Costa - SE
+2910305,Elísio Medrado - CQ
+2910404,Encruzilhada - SQ
+2910503,Entre Rios - SD
+2900504,Érico Cardoso - LS
+2910602,Esplanada - SD
+2910701,Euclides da Cunha - CQ
+2910727,Eunápolis - SQ
+2910750,Fátima - AA
+2910776,Feira da Mata - SD
+2910800,Feira de Santana - PL
+2910859,Filadélfia - SE
+2910909,Firmino Alves - SQ
+2911006,Floresta Azul - SQ
+2911105,Formosa do Rio Preto - PL
+2911204,Gandu - SE
+2911253,Gavião - AA
+2911303,Gentio do Ouro - AA
+2911402,Glória - SD
+2911501,Gongogi - LF
+2911600,Governador Mangabeira - SD
+2911659,Guajeru - RQ
+2911709,Guanambi - LF
+2911808,Guaratinga - PL
+2911857,Heliópolis - RQ
+2911907,Iaçu - AA
+2912004,Ibiassucê - SE
+2912103,Ibicaraí - LS
+2912202,Ibicoara - SD
+2912301,Ibicuí - LS
+2912400,Ibipeba - AA
+2912509,Ibipitanga - CQ
+2912608,Ibiquera - AA
+2912707,Ibirapitanga - PL
+2912806,Ibirapuã - RQ
+2912905,Ibirataia - RQ
+2913002,Ibitiara - SE
+2913101,Ibititá - PL
+2913200,Ibotirama - AA
+2913309,Ichu - RQ
+2913408,Igaporã - SD
+2913457,Igrapiúna - SQ
+2913507,Iguaí - CQ
+2913606,Ilhéus - SQ
+2913705,Inhambupe - LS
+2913804,Ipecaetá - SQ
+2913903,Ipiaú - LF
+2914000,Ipirá - SE
+2914109,Ipupiara - LF
+2914208,Irajuba - SD
+2914307,Iramaia - SD
+2914406,Iraquara - PL
+2914505,Irará - AA
+2914604,Irecê - RQ
+2914653,Itabela - LS
+2914703,Itaberaba - RQ
+2914802,Itabuna - SE
+2914901,Itacaré - AA
+2915007,Itaeté - AA
+2915106,Itagi - CQ
+2915205,Itagibá - SE
+2915304,Itagimirim - SD
+2915353,Itaguaçu da Bahia - SE
+2915403,Itaju do Colônia - CQ
+2915502,Itajuípe - CQ
+2915601,Itamaraju - PL
+2915700,Itamari - AA
+2915809,Itambé - SQ
+2915908,Itanagra - LS
+2916005,Itanhém - CQ
+2916104,Itaparica - SQ
+2916203,Itapé - SQ
+2916302,Itapebi - AA
+2916401,Itapetinga - SD
+2916500,Itapicuru - CQ
+2916609,Itapitanga - LF
+2916708,Itaquara - SQ
+2916807,Itarantim - CQ
+2916856,Itatim - LS
+2916906,Itiruçu - LF
+2917003,Itiúba - SQ
+2917102,Itororó - PL
+2917201,Ituaçu - PL
+2917300,Ituberá - PL
+2917334,Iuiu - RQ
+2917359,Jaborandi - AA
+2917409,Jacaraci - CQ
+2917508,Jacobina - SE
+2917607,Jaguaquara - SE
+2917706,Jaguarari - RQ
+2917805,Jaguaripe - LF
+2917904,Jandaíra - RQ
+2918001,Jequié - PL
+2918100,Jeremoabo - SE
+2918209,Jiquiriçá - SE
+2918308,Jitaúna - LS
+2918357,João Dourado - AA
+2918407,Juazeiro - SD
+2918456,Jucuruçu - LF
+2918506,Jussara - SD
+2918555,Jussari - CQ
+2918605,Jussiape - SQ
+2918704,Lafaiete Coutinho - LS
+2918753,Lagoa Real - LF
+2918803,Laje - PL
+2918902,Lajedão - RQ
+2919009,Lajedinho - SQ
+2919058,Lajedo do Tabocal - RQ
+2919108,Lamarão - SD
+2919157,Lapão - SQ
+2919207,Lauro de Freitas - RQ
+2919306,Lençóis - SD
+2919405,Licínio de Almeida - LS
+2919504,Livramento de Nossa Senhora - CQ
+2919553,Luís Eduardo Magalhães - LS
+2919603,Macajuba - AA
+2919702,Macarani - LS
+2919801,Macaúbas - PL
+2919900,Macururé - SD
+2919926,Madre de Deus - RQ
+2919959,Maetinga - PL
+2920007,Maiquinique - RQ
+2920106,Mairi - LF
+2920205,Malhada - SD
+2920304,Malhada de Pedras - SE
+2920403,Manoel Vitorino - SQ
+2920452,Mansidão - RQ
+2920502,Maracás - SD
+2920601,Maragogipe - SD
+2920700,Maraú - SD
+2920809,Marcionílio Souza - CQ
+2920908,Mascote - PL
+2921005,Mata de São João - CQ
+2921054,Matina - SQ
+2921104,Medeiros Neto - LF
+2921203,Miguel Calmon - SD
+2921302,Milagres - SQ
+2921401,Mirangaba - SQ
+2921450,Mirante - AA
+2921500,Monte Santo - SE
+2921609,Morpará - SQ
+2921708,Morro do Chapéu - RQ
+2921807,Mortugaba - SQ
+2921906,Mucugê - AA
+2922003,Mucuri - AA
+2922052,Mulungu do Morro - AA
+2922102,Mundo Novo - SQ
+2922201,Muniz Ferreira - AA
+2922250,Muquém do São Francisco - LF
+2922300,Muritiba - CQ
+2922409,Mutuípe - SE
+2922508,Nazaré - RQ
+2922607,Nilo Peçanha - LF
+2922656,Nordestina - SE
+2922706,Nova Canaã - PL
+2922730,Nova Fátima - LS
+2922755,Nova Ibiá - CQ
+2922805,Nova Itarana - LF
+2922854,Nova Redenção - CQ
+2922904,Nova Soure - AA
+2923001,Nova Viçosa - LS
+2923035,Novo Horizonte - AA
+2923050,Novo Triunfo - RQ
+2923100,Olindina - RQ
+2923209,Oliveira dos Brejinhos - SQ
+2923308,Ouriçangas - RQ
+2923357,Ourolândia - LS
+2923407,Palmas de Monte Alto - LS
+2923506,Palmeiras - SQ
+2923605,Paramirim - SQ
+2923704,Paratinga - LS
+2923803,Paripiranga - LF
+2923902,Pau Brasil - SD
+2924009,Paulo Afonso - AA
+2924058,Pé de Serra - LS
+2924108,Pedrão - RQ
+2924207,Pedro Alexandre - SQ
+2924306,Piatã - SQ
+2924405,Pilão Arcado - SQ
+2924504,Pindaí - LF
+2924603,Pindobaçu - LF
+2924652,Pintadas - CQ
+2924678,Piraí do Norte - SQ
+2924702,Piripá - LS
+2924801,Piritiba - LF
+2924900,Planaltino - PL
+2925006,Planalto - CQ
+2925105,Poções - LS
+2925204,Pojuca - LF
+2925253,Ponto Novo - AA
+2925303,Porto Seguro - AA
+2925402,Potiraguá - CQ
+2925501,Prado - LF
+2925600,Presidente Dutra - CQ
+2925709,Presidente Jânio Quadros - LS
+2925758,Presidente Tancredo Neves - SQ
+2925808,Queimadas - PL
+2925907,Quijingue - SQ
+2925931,Quixabeira - SE
+2925956,Rafael Jambeiro - PL
+2926004,Remanso - PL
+2926103,Retirolândia - SQ
+2926202,Riachão das Neves - SE
+2926301,Riachão do Jacuípe - PL
+2926400,Riacho de Santana - RQ
+2926509,Ribeira do Amparo - PL
+2926608,Ribeira do Pombal - LS
+2926657,Ribeirão do Largo - SE
+2926707,Rio de Contas - SE
+2926806,Rio do Antônio - SQ
+2926905,Rio do Pires - SD
+2927002,Rio Real - AA
+2927101,Rodelas - SE
+2927200,Ruy Barbosa - CQ
+2927309,Salinas da Margarida - SE
+2927408,Salvador - RQ
+2927507,Santa Bárbara - RQ
+2927606,Santa Brígida - CQ
+2927705,Santa Cruz Cabrália - SE
+2927804,Santa Cruz da Vitória - SD
+2927903,Santa Inês - PL
+2928059,Santa Luzia - LF
+2928109,Santa Maria da Vitória - PL
+2928406,Santa Rita de Cássia - PL
+2928505,Santa Terezinha - CQ
+2928000,Santaluz - LF
+2928208,Santana - SQ
+2928307,Santanópolis - SD
+2928604,Santo Amaro - RQ
+2928703,Santo Antônio de Jesus - LS
+2928802,Santo Estêvão - CQ
+2928901,São Desidério - SQ
+2928950,São Domingos - CQ
+2929107,São Felipe - RQ
+2929008,São Félix - LF
+2929057,São Félix do Coribe - SQ
+2929206,São Francisco do Conde - PL
+2929255,São Gabriel - AA
+2929305,São Gonçalo dos Campos - SE
+2929354,São José da Vitória - LS
+2929370,São José do Jacuípe - SD
+2929404,São Miguel das Matas - AA
+2929503,São Sebastião do Passé - PL
+2929602,Sapeaçu - PL
+2929701,Sátiro Dias - SD
+2929750,Saubara - PL
+2929800,Saúde - SD
+2929909,Seabra - AA
+2930006,Sebastião Laranjeiras - PL
+2930105,Senhor do Bonfim - PL
+2930204,Sento Sé - LS
+2930154,Serra do Ramalho - SD
+2930303,Serra Dourada - RQ
+2930402,Serra Preta - LS
+2930501,Serrinha - PL
+2930600,Serrolândia - PL
+2930709,Simões Filho - LF
+2930758,Sítio do Mato - LF
+2930766,Sítio do Quinto - SE
+2930774,Sobradinho - PL
+2930808,Souto Soares - LS
+2930907,Tabocas do Brejo Velho - SD
+2931004,Tanhaçu - LF
+2931053,Tanque Novo - SQ
+2931103,Tanquinho - LF
+2931202,Taperoá - AA
+2931301,Tapiramutá - AA
+2931350,Teixeira de Freitas - RQ
+2931400,Teodoro Sampaio - LF
+2931509,Teofilândia - PL
+2931608,Teolândia - RQ
+2931707,Terra Nova - CQ
+2931806,Tremedal - SE
+2931905,Tucano - LF
+2932002,Uauá - LF
+2932101,Ubaíra - SE
+2932200,Ubaitaba - RQ
+2932309,Ubatã - SQ
+2932408,Uibaí - LS
+2932457,Umburanas - AA
+2932507,Una - LF
+2932606,Urandi - CQ
+2932705,Uruçuca - RQ
+2932804,Utinga - RQ
+2932903,Valença - LF
+2933000,Valente - SD
+2933059,Várzea da Roça - LS
+2933109,Várzea do Poço - RQ
+2933158,Várzea Nova - SQ
+2933174,Varzedo - AA
+2933208,Vera Cruz - AA
+2933257,Vereda - PL
+2933307,Vitória da Conquista - LS
+2933406,Wagner - SD
+2933455,Wanderley - CQ
+2933505,Wenceslau Guimarães - CQ
+2933604,Xique-Xique - SE
+3100104,Abadia dos Dourados - LS
+3100203,Abaeté - LS
+3100302,Abre Campo - PL
+3100401,Acaiaca - CQ
+3100500,Açucena - RQ
+3100609,Água Boa - CQ
+3100708,Água Comprida - SE
+3100807,Aguanil - CQ
+3100906,Águas Formosas - RQ
+3101003,Águas Vermelhas - LF
+3101102,Aimorés - LF
+3101201,Aiuruoca - LF
+3101300,Alagoa - LS
+3101409,Albertina - SE
+3101508,Além Paraíba - SE
+3101607,Alfenas - LS
+3101631,Alfredo Vasconcelos - CQ
+3101706,Almenara - LS
+3101805,Alpercata - RQ
+3101904,Alpinópolis - SQ
+3102001,Alterosa - PL
+3102050,Alto Caparaó - SE
+3153509,Alto Jequitibá - LF
+3102100,Alto Rio Doce - SE
+3102209,Alvarenga - SQ
+3102308,Alvinópolis - RQ
+3102407,Alvorada de Minas - AA
+3102506,Amparo do Serra - SQ
+3102605,Andradas - SQ
+3102803,Andrelândia - SD
+3102852,Angelândia - CQ
+3102902,Antônio Carlos - PL
+3103009,Antônio Dias - LS
+3103108,Antônio Prado de Minas - PL
+3103207,Araçaí - SQ
+3103306,Aracitaba - LS
+3103405,Araçuaí - LS
+3103504,Araguari - AA
+3103603,Arantina - AA
+3103702,Araponga - LS
+3103751,Araporã - SD
+3103801,Arapuá - SD
+3103900,Araújos - SD
+3104007,Araxá - LF
+3104106,Arceburgo - AA
+3104205,Arcos - SD
+3104304,Areado - AA
+3104403,Argirita - LS
+3104452,Aricanduva - LF
+3104502,Arinos - RQ
+3104601,Astolfo Dutra - RQ
+3104700,Ataléia - SQ
+3104809,Augusto de Lima - SE
+3104908,Baependi - PL
+3105004,Baldim - PL
+3105103,Bambuí - LS
+3105202,Bandeira - RQ
+3105301,Bandeira do Sul - SE
+3105400,Barão de Cocais - CQ
+3105509,Barão de Monte Alto - CQ
+3105608,Barbacena - SQ
+3105707,Barra Longa - CQ
+3105905,Barroso - SQ
+3106002,Bela Vista de Minas - RQ
+3106101,Belmiro Braga - AA
+3106200,Belo Horizonte - LF
+3106309,Belo Oriente - LF
+3106408,Belo Vale - CQ
+3106507,Berilo - CQ
+3106655,Berizal - AA
+3106606,Bertópolis - PL
+3106705,Betim - AA
+3106804,Bias Fortes - LF
+3106903,Bicas - LS
+3107000,Biquinhas - PL
+3107109,Boa Esperança - LF
+3107208,Bocaina de Minas - PL
+3107307,Bocaiúva - SE
+3107406,Bom Despacho - SE
+3107505,Bom Jardim de Minas - AA
+3107604,Bom Jesus da Penha - RQ
+3107703,Bom Jesus do Amparo - AA
+3107802,Bom Jesus do Galho - RQ
+3107901,Bom Repouso - AA
+3108008,Bom Sucesso - PL
+3108107,Bonfim - CQ
+3108206,Bonfinópolis de Minas - SE
+3108255,Bonito de Minas - PL
+3108305,Borda da Mata - SE
+3108404,Botelhos - SQ
+3108503,Botumirim - RQ
+3108701,Brás Pires - LF
+3108552,Brasilândia de Minas - AA
+3108602,Brasília de Minas - CQ
+3108800,Braúnas - RQ
+3108909,Brazópolis - PL
+3109006,Brumadinho - AA
+3109105,Bueno Brandão - CQ
+3109204,Buenópolis - AA
+3109253,Bugre - PL
+3109303,Buritis - CQ
+3109402,Buritizeiro - SQ
+3109451,Cabeceira Grande - SE
+3109501,Cabo Verde - CQ
+3109600,Cachoeira da Prata - RQ
+3109709,Cachoeira de Minas - SD
+3102704,Cachoeira de Pajeú - LS
+3109808,Cachoeira Dourada - RQ
+3109907,Caetanópolis - SD
+3110004,Caeté - LF
+3110103,Caiana - CQ
+3110202,Cajuri - SD
+3110301,Caldas - PL
+3110400,Camacho - RQ
+3110509,Camanducaia - LF
+3110608,Cambuí - SD
+3110707,Cambuquira - CQ
+3110806,Campanário - LF
+3110905,Campanha - SE
+3111002,Campestre - LS
+3111101,Campina Verde - SD
+3111150,Campo Azul - LF
+3111200,Campo Belo - AA
+3111309,Campo do Meio - LS
+3111408,Campo Florido - LS
+3111507,Campos Altos - SQ
+3111606,Campos Gerais - LF
+3111903,Cana Verde - RQ
+3111705,Canaã - SQ
+3111804,Canápolis - CQ
+3112000,Candeias - SD
+3112059,Cantagalo - SE
+3112109,Caparaó - SQ
+3112208,Capela Nova - LS
+3112307,Capelinha - SQ
+3112406,Capetinga - SD
+3112505,Capim Branco - CQ
+3112604,Capinópolis - RQ
+3112653,Capitão Andrade - SD
+3112703,Capitão Enéas - LS
+3112802,Capitólio - LF
+3112901,Caputira - SQ
+3113008,Caraí - CQ
+3113107,Caranaíba - SQ
+3113206,Carandaí - SD
+3113305,Carangola - SE
+3113404,Caratinga - PL
+3113503,Carbonita - PL
+3113602,Careaçu - CQ
+3113701,Carlos Chagas - PL
+3113800,Carmésia - AA
+3113909,Carmo da Cachoeira - RQ
+3114006,Carmo da Mata - LF
+3114105,Carmo de Minas - LF
+3114204,Carmo do Cajuru - LF
+3114303,Carmo do Paranaíba - AA
+3114402,Carmo do Rio Claro - PL
+3114501,Carmópolis de Minas - SD
+3114550,Carneirinho - SD
+3114600,Carrancas - AA
+3114709,Carvalhópolis - SD
+3114808,Carvalhos - RQ
+3114907,Casa Grande - SD
+3115003,Cascalho Rico - CQ
+3115102,Cássia - AA
+3115300,Cataguases - RQ
+3115359,Catas Altas - PL
+3115409,Catas Altas da Noruega - SD
+3115458,Catuji - CQ
+3115474,Catuti - PL
+3115508,Caxambu - LF
+3115607,Cedro do Abaeté - AA
+3115706,Central de Minas - RQ
+3115805,Centralina - RQ
+3115904,Chácara - SQ
+3116001,Chalé - LF
+3116100,Chapada do Norte - LF
+3116159,Chapada Gaúcha - LF
+3116209,Chiador - AA
+3116308,Cipotânea - SQ
+3116407,Claraval - AA
+3116506,Claro dos Poções - RQ
+3116605,Cláudio - AA
+3116704,Coimbra - CQ
+3116803,Coluna - PL
+3116902,Comendador Gomes - SQ
+3117009,Comercinho - CQ
+3117108,Conceição da Aparecida - SE
+3115201,Conceição da Barra de Minas - PL
+3117306,Conceição das Alagoas - SD
+3117207,Conceição das Pedras - CQ
+3117405,Conceição de Ipanema - SD
+3117504,Conceição do Mato Dentro - LF
+3117603,Conceição do Pará - SQ
+3117702,Conceição do Rio Verde - RQ
+3117801,Conceição dos Ouros - SD
+3117836,Cônego Marinho - SD
+3117876,Confins - PL
+3117900,Congonhal - CQ
+3118007,Congonhas - CQ
+3118106,Congonhas do Norte - LF
+3118205,Conquista - SD
+3118304,Conselheiro Lafaiete - PL
+3118403,Conselheiro Pena - SE
+3118502,Consolação - CQ
+3118601,Contagem - SQ
+3118700,Coqueiral - SD
+3118809,Coração de Jesus - SE
+3118908,Cordisburgo - CQ
+3119005,Cordislândia - PL
+3119104,Corinto - RQ
+3119203,Coroaci - RQ
+3119302,Coromandel - AA
+3119401,Coronel Fabriciano - AA
+3119500,Coronel Murta - RQ
+3119609,Coronel Pacheco - SE
+3119708,Coronel Xavier Chaves - LS
+3119807,Córrego Danta - PL
+3119906,Córrego do Bom Jesus - SQ
+3119955,Córrego Fundo - CQ
+3120003,Córrego Novo - CQ
+3120102,Couto de Magalhães de Minas - PL
+3120151,Crisólita - AA
+3120201,Cristais - CQ
+3120300,Cristália - CQ
+3120409,Cristiano Otoni - PL
+3120508,Cristina - RQ
+3120607,Crucilândia - LS
+3120706,Cruzeiro da Fortaleza - LS
+3120805,Cruzília - AA
+3120839,Cuparaque - LS
+3120870,Curral de Dentro - SQ
+3120904,Curvelo - RQ
+3121001,Datas - LF
+3121100,Delfim Moreira - CQ
+3121209,Delfinópolis - CQ
+3121258,Delta - SE
+3121308,Descoberto - SD
+3121407,Desterro de Entre Rios - LF
+3121506,Desterro do Melo - CQ
+3121605,Diamantina - LS
+3121704,Diogo de Vasconcelos - RQ
+3121803,Dionísio - AA
+3121902,Divinésia - SE
+3122009,Divino - LF
+3122108,Divino das Laranjeiras - PL
+3122207,Divinolândia de Minas - RQ
+3122306,Divinópolis - AA
+3122355,Divisa Alegre - CQ
+3122405,Divisa Nova - LF
+3122454,Divisópolis - LS
+3122470,Dom Bosco - SD
+3122504,Dom Cavati - SD
+3122603,Dom Joaquim - SD
+3122702,Dom Silvério - CQ
+3122801,Dom Viçoso - CQ
+3122900,Dona Eusébia - RQ
+3123007,Dores de Campos - CQ
+3123106,Dores de Guanhães - PL
+3123205,Dores do Indaiá - SD
+3123304,Dores do Turvo - RQ
+3123403,Doresópolis - SQ
+3123502,Douradoquara - CQ
+3123528,Durandé - CQ
+3123601,Elói Mendes - SE
+3123700,Engenheiro Caldas - SQ
+3123809,Engenheiro Navarro - RQ
+3123858,Entre Folhas - SD
+3123908,Entre Rios de Minas - RQ
+3124005,Ervália - SE
+3124104,Esmeraldas - LF
+3124203,Espera Feliz - LF
+3124302,Espinosa - PL
+3124401,Espírito Santo do Dourado - RQ
+3124500,Estiva - SD
+3124609,Estrela Dalva - AA
+3124708,Estrela do Indaiá - SD
+3124807,Estrela do Sul - LF
+3124906,Eugenópolis - SD
+3125002,Ewbank da Câmara - SD
+3125101,Extrema - LF
+3125200,Fama - SD
+3125309,Faria Lemos - LS
+3125408,Felício dos Santos - PL
+3125606,Felisburgo - CQ
+3125705,Felixlândia - SE
+3125804,Fernandes Tourinho - RQ
+3125903,Ferros - SD
+3125952,Fervedouro - RQ
+3126000,Florestal - LF
+3126109,Formiga - RQ
+3126208,Formoso - LS
+3126307,Fortaleza de Minas - PL
+3126406,Fortuna de Minas - AA
+3126505,Francisco Badaró - SQ
+3126604,Francisco Dumont - LS
+3126703,Francisco Sá - SE
+3126752,Franciscópolis - SE
+3126802,Frei Gaspar - PL
+3126901,Frei Inocêncio - RQ
+3126950,Frei Lagonegro - LF
+3127008,Fronteira - PL
+3127057,Fronteira dos Vales - SE
+3127073,Fruta de Leite - RQ
+3127107,Frutal - PL
+3127206,Funilândia - AA
+3127305,Galiléia - SE
+3127339,Gameleiras - SE
+3127354,Glaucilândia - PL
+3127370,Goiabeira - LS
+3127388,Goianá - CQ
+3127404,Gonçalves - PL
+3127503,Gonzaga - AA
+3127602,Gouveia - LS
+3127701,Governador Valadares - SQ
+3127800,Grão Mogol - SE
+3127909,Grupiara - RQ
+3128006,Guanhães - RQ
+3128105,Guapé - AA
+3128204,Guaraciaba - SE
+3128253,Guaraciama - SD
+3128303,Guaranésia - SE
+3128402,Guarani - LS
+3128501,Guarará - SD
+3128600,Guarda-Mor - SD
+3128709,Guaxupé - SQ
+3128808,Guidoval - LF
+3128907,Guimarânia - SD
+3129004,Guiricema - RQ
+3129103,Gurinhatã - SQ
+3129202,Heliodora - PL
+3129301,Iapu - PL
+3129400,Ibertioga - SD
+3129509,Ibiá - SQ
+3129608,Ibiaí - AA
+3129657,Ibiracatu - RQ
+3129707,Ibiraci - AA
+3129806,Ibirité - CQ
+3129905,Ibitiúra de Minas - CQ
+3130002,Ibituruna - AA
+3130051,Icaraí de Minas - LS
+3130101,Igarapé - RQ
+3130200,Igaratinga - RQ
+3130309,Iguatama - PL
+3130408,Ijaci - AA
+3130507,Ilicínea - PL
+3130556,Imbé de Minas - LF
+3130606,Inconfidentes - SE
+3130655,Indaiabira - RQ
+3130705,Indianópolis - CQ
+3130804,Ingaí - RQ
+3130903,Inhapim - LS
+3131000,Inhaúma - SQ
+3131109,Inimutaba - LS
+3131158,Ipaba - LS
+3131208,Ipanema - PL
+3131307,Ipatinga - AA
+3131406,Ipiaçu - SD
+3131505,Ipuiúna - LF
+3131604,Iraí de Minas - SQ
+3131703,Itabira - SQ
+3131802,Itabirinha - AA
+3131901,Itabirito - RQ
+3132008,Itacambira - LS
+3132107,Itacarambi - LS
+3132206,Itaguara - LF
+3132305,Itaipé - AA
+3132404,Itajubá - RQ
+3132503,Itamarandiba - PL
+3132602,Itamarati de Minas - RQ
+3132701,Itambacuri - CQ
+3132800,Itambé do Mato Dentro - RQ
+3132909,Itamogi - LF
+3133006,Itamonte - LS
+3133105,Itanhandu - LF
+3133204,Itanhomi - PL
+3133303,Itaobim - CQ
+3133402,Itapagipe - LS
+3133501,Itapecerica - SE
+3133600,Itapeva - PL
+3133709,Itatiaiuçu - SQ
+3133758,Itaú de Minas - SE
+3133808,Itaúna - LF
+3133907,Itaverava - LF
+3134004,Itinga - CQ
+3134103,Itueta - LS
+3134202,Ituiutaba - RQ
+3134301,Itumirim - PL
+3134400,Iturama - SQ
+3134509,Itutinga - LS
+3134608,Jaboticatubas - CQ
+3134707,Jacinto - SD
+3134806,Jacuí - CQ
+3134905,Jacutinga - PL
+3135001,Jaguaraçu - RQ
+3135050,Jaíba - LS
+3135076,Jampruca - CQ
+3135100,Janaúba - SD
+3135209,Januária - LF
+3135308,Japaraíba - AA
+3135357,Japonvar - LF
+3135407,Jeceaba - LS
+3135456,Jenipapo de Minas - SD
+3135506,Jequeri - RQ
+3135605,Jequitaí - RQ
+3135704,Jequitibá - SE
+3135803,Jequitinhonha - PL
+3135902,Jesuânia - LS
+3136009,Joaíma - RQ
+3136108,Joanésia - SQ
+3136207,João Monlevade - SQ
+3136306,João Pinheiro - SD
+3136405,Joaquim Felício - CQ
+3136504,Jordânia - PL
+3136520,José Gonçalves de Minas - LS
+3136553,José Raydan - SQ
+3136579,Josenópolis - LF
+3136652,Juatuba - SD
+3136702,Juiz de Fora - AA
+3136801,Juramento - PL
+3136900,Juruaia - CQ
+3136959,Juvenília - CQ
+3137007,Ladainha - RQ
+3137106,Lagamar - LF
+3137205,Lagoa da Prata - SD
+3137304,Lagoa dos Patos - SE
+3137403,Lagoa Dourada - LS
+3137502,Lagoa Formosa - SE
+3137536,Lagoa Grande - RQ
+3137601,Lagoa Santa - SQ
+3137700,Lajinha - SQ
+3137809,Lambari - SQ
+3137908,Lamim - SD
+3138005,Laranjal - SE
+3138104,Lassance - SD
+3138203,Lavras - SE
+3138302,Leandro Ferreira - LF
+3138351,Leme do Prado - LF
+3138401,Leopoldina - SD
+3138500,Liberdade - SD
+3138609,Lima Duarte - SE
+3138625,Limeira do Oeste - LS
+3138658,Lontra - SD
+3138674,Luisburgo - SQ
+3138682,Luislândia - SQ
+3138708,Luminárias - LS
+3138807,Luz - CQ
+3138906,Machacalis - CQ
+3139003,Machado - CQ
+3139102,Madre de Deus de Minas - SD
+3139201,Malacacheta - LS
+3139250,Mamonas - LS
+3139300,Manga - CQ
+3139409,Manhuaçu - AA
+3139508,Manhumirim - RQ
+3139607,Mantena - LS
+3139805,Mar de Espanha - LF
+3139706,Maravilhas - LF
+3139904,Maria da Fé - SE
+3140001,Mariana - LS
+3140100,Marilac - AA
+3140159,Mário Campos - SE
+3140209,Maripá de Minas - LF
+3140308,Marliéria - SE
+3140407,Marmelópolis - LS
+3140506,Martinho Campos - LS
+3140530,Martins Soares - LF
+3140555,Mata Verde - AA
+3140605,Materlândia - RQ
+3140704,Mateus Leme - SD
+3171501,Mathias Lobato - LS
+3140803,Matias Barbosa - SE
+3140852,Matias Cardoso - LS
+3140902,Matipó - SD
+3141009,Mato Verde - SD
+3141108,Matozinhos - SE
+3141207,Matutina - SE
+3141306,Medeiros - SD
+3141405,Medina - PL
+3141504,Mendes Pimentel - CQ
+3141603,Mercês - PL
+3141702,Mesquita - PL
+3141801,Minas Novas - SD
+3141900,Minduri - CQ
+3142007,Mirabela - PL
+3142106,Miradouro - LS
+3142205,Miraí - PL
+3142254,Miravânia - SE
+3142304,Moeda - SQ
+3142403,Moema - SD
+3142502,Monjolos - SD
+3142601,Monsenhor Paulo - RQ
+3142700,Montalvânia - AA
+3142809,Monte Alegre de Minas - LF
+3142908,Monte Azul - SD
+3143005,Monte Belo - CQ
+3143104,Monte Carmelo - AA
+3143153,Monte Formoso - AA
+3143203,Monte Santo de Minas - SQ
+3143401,Monte Sião - SE
+3143302,Montes Claros - SE
+3143450,Montezuma - LS
+3143500,Morada Nova de Minas - SD
+3143609,Morro da Garça - SE
+3143708,Morro do Pilar - CQ
+3143807,Munhoz - LS
+3143906,Muriaé - PL
+3144003,Mutum - SE
+3144102,Muzambinho - AA
+3144201,Nacip Raydan - LF
+3144300,Nanuque - CQ
+3144359,Naque - SD
+3144375,Natalândia - RQ
+3144409,Natércia - CQ
+3144508,Nazareno - CQ
+3144607,Nepomuceno - CQ
+3144656,Ninheira - SD
+3144672,Nova Belém - SE
+3144706,Nova Era - SQ
+3144805,Nova Lima - SD
+3144904,Nova Módica - LS
+3145000,Nova Ponte - SD
+3145059,Nova Porteirinha - SQ
+3145109,Nova Resende - RQ
+3145208,Nova Serrana - LS
+3136603,Nova União - AA
+3145307,Novo Cruzeiro - RQ
+3145356,Novo Oriente de Minas - PL
+3145372,Novorizonte - SQ
+3145406,Olaria - AA
+3145455,Olhos-d Água - CQ
+3145505,Olímpio Noronha - SE
+3145604,Oliveira - SE
+3145703,Oliveira Fortes - CQ
+3145802,Onça de Pitangui - SD
+3145851,Oratórios - LF
+3145877,Orizânia - AA
+3145901,Ouro Branco - SQ
+3146008,Ouro Fino - PL
+3146107,Ouro Preto - CQ
+3146206,Ouro Verde de Minas - LS
+3146255,Padre Carvalho - LF
+3146305,Padre Paraíso - SQ
+3146552,Pai Pedro - RQ
+3146404,Paineiras - LF
+3146503,Pains - SD
+3146602,Paiva - RQ
+3146701,Palma - CQ
+3146750,Palmópolis - RQ
+3146909,Papagaios - AA
+3147105,Pará de Minas - LF
+3147006,Paracatu - RQ
+3147204,Paraguaçu - PL
+3147303,Paraisópolis - SQ
+3147402,Paraopeba - SD
+3147600,Passa Quatro - LS
+3147709,Passa Tempo - AA
+3147808,Passa Vinte - SD
+3147501,Passabém - SE
+3147907,Passos - SE
+3147956,Patis - AA
+3148004,Patos de Minas - SQ
+3148103,Patrocínio - LF
+3148202,Patrocínio do Muriaé - LF
+3148301,Paula Cândido - SQ
+3148400,Paulistas - SE
+3148509,Pavão - LS
+3148608,Peçanha - SQ
+3148707,Pedra Azul - LS
+3148756,Pedra Bonita - LS
+3148806,Pedra do Anta - AA
+3148905,Pedra do Indaiá - RQ
+3149002,Pedra Dourada - PL
+3149101,Pedralva - SE
+3149150,Pedras de Maria da Cruz - CQ
+3149200,Pedrinópolis - SD
+3149309,Pedro Leopoldo - SQ
+3149408,Pedro Teixeira - RQ
+3149507,Pequeri - SD
+3149606,Pequi - AA
+3149705,Perdigão - RQ
+3149804,Perdizes - AA
+3149903,Perdões - SE
+3149952,Periquito - LS
+3150000,Pescador - RQ
+3150109,Piau - SD
+3150158,Piedade de Caratinga - LF
+3150208,Piedade de Ponte Nova - PL
+3150307,Piedade do Rio Grande - CQ
+3150406,Piedade dos Gerais - SE
+3150505,Pimenta - AA
+3150539,Pingo d Água - SD
+3150570,Pintópolis - CQ
+3150604,Piracema - CQ
+3150703,Pirajuba - SD
+3150802,Piranga - PL
+3150901,Piranguçu - LF
+3151008,Piranguinho - SE
+3151107,Pirapetinga - LF
+3151206,Pirapora - CQ
+3151305,Piraúba - CQ
+3151404,Pitangui - SD
+3151503,Piumhi - SE
+3151602,Planura - LF
+3151701,Poço Fundo - CQ
+3151800,Poços de Caldas - PL
+3151909,Pocrane - AA
+3152006,Pompéu - CQ
+3152105,Ponte Nova - RQ
+3152131,Ponto Chique - LF
+3152170,Ponto dos Volantes - LS
+3152204,Porteirinha - SD
+3152303,Porto Firme - CQ
+3152402,Poté - AA
+3152501,Pouso Alegre - SQ
+3152600,Pouso Alto - RQ
+3152709,Prados - PL
+3152808,Prata - LS
+3152907,Pratápolis - SD
+3153004,Pratinha - AA
+3153103,Presidente Bernardes - CQ
+3153202,Presidente Juscelino - PL
+3153301,Presidente Kubitschek - SQ
+3153400,Presidente Olegário - CQ
+3153608,Prudente de Morais - SQ
+3153707,Quartel Geral - CQ
+3153806,Queluzito - SD
+3153905,Raposos - LF
+3154002,Raul Soares - RQ
+3154101,Recreio - LF
+3154150,Reduto - AA
+3154200,Resende Costa - AA
+3154309,Resplendor - LF
+3154408,Ressaquinha - CQ
+3154457,Riachinho - SQ
+3154507,Riacho dos Machados - SD
+3154606,Ribeirão das Neves - PL
+3154705,Ribeirão Vermelho - LF
+3154804,Rio Acima - LS
+3154903,Rio Casca - LF
+3155108,Rio do Prado - SQ
+3155009,Rio Doce - SQ
+3155207,Rio Espera - SE
+3155306,Rio Manso - RQ
+3155405,Rio Novo - SD
+3155504,Rio Paranaíba - AA
+3155603,Rio Pardo de Minas - SQ
+3155702,Rio Piracicaba - PL
+3155801,Rio Pomba - CQ
+3155900,Rio Preto - AA
+3156007,Rio Vermelho - RQ
+3156106,Ritápolis - SD
+3156205,Rochedo de Minas - LS
+3156304,Rodeiro - PL
+3156403,Romaria - CQ
+3156452,Rosário da Limeira - SD
+3156502,Rubelita - SE
+3156601,Rubim - AA
+3156700,Sabará - SQ
+3156809,Sabinópolis - AA
+3156908,Sacramento - SQ
+3157005,Salinas - PL
+3157104,Salto da Divisa - AA
+3157203,Santa Bárbara - AA
+3157252,Santa Bárbara do Leste - RQ
+3157278,Santa Bárbara do Monte Verde - SQ
+3157302,Santa Bárbara do Tugúrio - SQ
+3157336,Santa Cruz de Minas - SQ
+3157377,Santa Cruz de Salinas - SE
+3157401,Santa Cruz do Escalvado - SE
+3157500,Santa Efigênia de Minas - AA
+3157609,Santa Fé de Minas - SD
+3157658,Santa Helena de Minas - CQ
+3157708,Santa Juliana - SQ
+3157807,Santa Luzia - SQ
+3157906,Santa Margarida - PL
+3158003,Santa Maria de Itabira - PL
+3158102,Santa Maria do Salto - SE
+3158201,Santa Maria do Suaçuí - LF
+3159209,Santa Rita de Caldas - CQ
+3159407,Santa Rita de Ibitipoca - LS
+3159308,Santa Rita de Jacutinga - AA
+3159357,Santa Rita de Minas - SE
+3159506,Santa Rita do Itueto - SD
+3159605,Santa Rita do Sapucaí - SE
+3159704,Santa Rosa da Serra - LF
+3159803,Santa Vitória - SQ
+3158300,Santana da Vargem - SQ
+3158409,Santana de Cataguases - SQ
+3158508,Santana de Pirapama - SE
+3158607,Santana do Deserto - LS
+3158706,Santana do Garambéu - CQ
+3158805,Santana do Jacaré - SQ
+3158904,Santana do Manhuaçu - SQ
+3158953,Santana do Paraíso - RQ
+3159001,Santana do Riacho - AA
+3159100,Santana dos Montes - AA
+3159902,Santo Antônio do Amparo - SD
+3160009,Santo Antônio do Aventureiro - SQ
+3160108,Santo Antônio do Grama - SQ
+3160207,Santo Antônio do Itambé - PL
+3160306,Santo Antônio do Jacinto - AA
+3160405,Santo Antônio do Monte - SD
+3160454,Santo Antônio do Retiro - PL
+3160504,Santo Antônio do Rio Abaixo - SD
+3160603,Santo Hipólito - RQ
+3160702,Santos Dumont - CQ
+3160801,São Bento Abade - SE
+3160900,São Brás do Suaçuí - LF
+3160959,São Domingos das Dores - SD
+3161007,São Domingos do Prata - LF
+3161056,São Félix de Minas - AA
+3161106,São Francisco - SE
+3161205,São Francisco de Paula - AA
+3161304,São Francisco de Sales - SE
+3161403,São Francisco do Glória - LS
+3161502,São Geraldo - RQ
+3161601,São Geraldo da Piedade - PL
+3161650,São Geraldo do Baixio - PL
+3161700,São Gonçalo do Abaeté - LS
+3161809,São Gonçalo do Pará - AA
+3161908,São Gonçalo do Rio Abaixo - LS
+3125507,São Gonçalo do Rio Preto - SD
+3162005,São Gonçalo do Sapucaí - LF
+3162104,São Gotardo - LF
+3162203,São João Batista do Glória - RQ
+3162252,São João da Lagoa - PL
+3162302,São João da Mata - PL
+3162401,São João da Ponte - CQ
+3162450,São João das Missões - LS
+3162500,São João del Rei - SD
+3162559,São João do Manhuaçu - PL
+3162575,São João do Manteninha - PL
+3162609,São João do Oriente - CQ
+3162658,São João do Pacuí - LS
+3162708,São João do Paraíso - AA
+3162807,São João Evangelista - LS
+3162906,São João Nepomuceno - CQ
+3162922,São Joaquim de Bicas - AA
+3162948,São José da Barra - CQ
+3162955,São José da Lapa - RQ
+3163003,São José da Safira - SD
+3163102,São José da Varginha - SQ
+3163201,São José do Alegre - PL
+3163300,São José do Divino - SE
+3163409,São José do Goiabal - LS
+3163508,São José do Jacuri - SQ
+3163607,São José do Mantimento - RQ
+3163706,São Lourenço - CQ
+3163805,São Miguel do Anta - AA
+3163904,São Pedro da União - CQ
+3164100,São Pedro do Suaçuí - CQ
+3164001,São Pedro dos Ferros - CQ
+3164209,São Romão - CQ
+3164308,São Roque de Minas - SE
+3164407,São Sebastião da Bela Vista - RQ
+3164431,São Sebastião da Vargem Alegre - SQ
+3164472,São Sebastião do Anta - AA
+3164506,São Sebastião do Maranhão - SE
+3164605,São Sebastião do Oeste - AA
+3164704,São Sebastião do Paraíso - PL
+3164803,São Sebastião do Rio Preto - RQ
+3164902,São Sebastião do Rio Verde - RQ
+3165206,São Thomé das Letras - SD
+3165008,São Tiago - LS
+3165107,São Tomás de Aquino - LF
+3165305,São Vicente de Minas - PL
+3165404,Sapucaí-Mirim - SE
+3165503,Sardoá - LF
+3165537,Sarzedo - AA
+3165560,Sem-Peixe - SE
+3165578,Senador Amaral - SD
+3165602,Senador Cortes - SE
+3165701,Senador Firmino - LS
+3165800,Senador José Bento - CQ
+3165909,Senador Modestino Gonçalves - PL
+3166006,Senhora de Oliveira - PL
+3166105,Senhora do Porto - PL
+3166204,Senhora dos Remédios - RQ
+3166303,Sericita - SD
+3166402,Seritinga - SQ
+3166501,Serra Azul de Minas - LS
+3166600,Serra da Saudade - PL
+3166808,Serra do Salitre - SD
+3166709,Serra dos Aimorés - SE
+3166907,Serrania - AA
+3166956,Serranópolis de Minas - SE
+3167004,Serranos - RQ
+3167103,Serro - AA
+3167202,Sete Lagoas - SQ
+3165552,Setubinha - SE
+3167301,Silveirânia - CQ
+3167400,Silvianópolis - SQ
+3167509,Simão Pereira - PL
+3167608,Simonésia - LS
+3167707,Sobrália - RQ
+3167806,Soledade de Minas - CQ
+3167905,Tabuleiro - CQ
+3168002,Taiobeiras - SE
+3168051,Taparuba - LS
+3168101,Tapira - AA
+3168200,Tapiraí - LS
+3168309,Taquaraçu de Minas - AA
+3168408,Tarumirim - PL
+3168507,Teixeiras - PL
+3168606,Teófilo Otoni - SQ
+3168705,Timóteo - PL
+3168804,Tiradentes - SE
+3168903,Tiros - SD
+3169000,Tocantins - PL
+3169059,Tocos do Moji - LF
+3169109,Toledo - PL
+3169208,Tombos - SQ
+3169307,Três Corações - SQ
+3169356,Três Marias - LF
+3169406,Três Pontas - AA
+3169505,Tumiritinga - SD
+3169604,Tupaciguara - AA
+3169703,Turmalina - AA
+3169802,Turvolândia - CQ
+3169901,Ubá - RQ
+3170008,Ubaí - AA
+3170057,Ubaporanga - SQ
+3170107,Uberaba - AA
+3170206,Uberlândia - LF
+3170305,Umburatiba - PL
+3170404,Unaí - SE
+3170438,União de Minas - AA
+3170479,Uruana de Minas - CQ
+3170503,Urucânia - CQ
+3170529,Urucuia - PL
+3170578,Vargem Alegre - CQ
+3170602,Vargem Bonita - AA
+3170651,Vargem Grande do Rio Pardo - SE
+3170701,Varginha - RQ
+3170750,Varjão de Minas - LS
+3170800,Várzea da Palma - PL
+3170909,Varzelândia - PL
+3171006,Vazante - LF
+3171030,Verdelândia - LS
+3171071,Veredinha - SD
+3171105,Veríssimo - PL
+3171154,Vermelho Novo - RQ
+3171204,Vespasiano - RQ
+3171303,Viçosa - PL
+3171402,Vieiras - AA
+3171600,Virgem da Lapa - SD
+3171709,Virgínia - CQ
+3171808,Virginópolis - AA
+3171907,Virgolândia - CQ
+3172004,Visconde do Rio Branco - SQ
+3172103,Volta Grande - SQ
+3172202,Wenceslau Braz - PL
+3200102,Afonso Cláudio - PL
+3200169,Água Doce do Norte - RQ
+3200136,Águia Branca - LF
+3200201,Alegre - AA
+3200300,Alfredo Chaves - PL
+3200359,Alto Rio Novo - CQ
+3200409,Anchieta - SE
+3200508,Apiacá - RQ
+3200607,Aracruz - LF
+3200706,Atílio Vivacqua - SE
+3200805,Baixo Guandu - SD
+3200904,Barra de São Francisco - SE
+3201001,Boa Esperança - AA
+3201100,Bom Jesus do Norte - SE
+3201159,Brejetuba - AA
+3201209,Cachoeiro de Itapemirim - SE
+3201308,Cariacica - SE
+3201407,Castelo - CQ
+3201506,Colatina - PL
+3201605,Conceição da Barra - LS
+3201704,Conceição do Castelo - LF
+3201803,Divino de São Lourenço - RQ
+3201902,Domingos Martins - AA
+3202009,Dores do Rio Preto - RQ
+3202108,Ecoporanga - LF
+3202207,Fundão - SD
+3202256,Governador Lindenberg - SE
+3202306,Guaçuí - RQ
+3202405,Guarapari - PL
+3202454,Ibatiba - LS
+3202504,Ibiraçu - CQ
+3202553,Ibitirama - SE
+3202603,Iconha - LF
+3202652,Irupi - LF
+3202702,Itaguaçu - AA
+3202801,Itapemirim - LS
+3202900,Itarana - CQ
+3203007,Iúna - CQ
+3203056,Jaguaré - SQ
+3203106,Jerônimo Monteiro - LF
+3203130,João Neiva - SD
+3203163,Laranja da Terra - SD
+3203205,Linhares - RQ
+3203304,Mantenópolis - SQ
+3203320,Marataízes - LS
+3203346,Marechal Floriano - RQ
+3203353,Marilândia - SE
+3203403,Mimoso do Sul - LS
+3203502,Montanha - PL
+3203601,Mucurici - AA
+3203700,Muniz Freire - AA
+3203809,Muqui - SQ
+3203908,Nova Venécia - SE
+3204005,Pancas - CQ
+3204054,Pedro Canário - CQ
+3204104,Pinheiros - RQ
+3204203,Piúma - SQ
+3204252,Ponto Belo - AA
+3204302,Presidente Kennedy - AA
+3204351,Rio Bananal - SD
+3204401,Rio Novo do Sul - SD
+3204500,Santa Leopoldina - LS
+3204559,Santa Maria de Jetibá - CQ
+3204609,Santa Teresa - SE
+3204658,São Domingos do Norte - AA
+3204708,São Gabriel da Palha - PL
+3204807,São José do Calçado - LS
+3204906,São Mateus - SD
+3204955,São Roque do Canaã - SE
+3205002,Serra - SE
+3205010,Sooretama - SQ
+3205036,Vargem Alta - CQ
+3205069,Venda Nova do Imigrante - AA
+3205101,Viana - LF
+3205150,Vila Pavão - SE
+3205176,Vila Valério - PL
+3205200,Vila Velha - SQ
+3205309,Vitória - SE
+3300100,Angra dos Reis - SQ
+3300159,Aperibé - AA
+3300209,Araruama - CQ
+3300225,Areal - CQ
+3300233,Armação dos Búzios - SQ
+3300258,Arraial do Cabo - LS
+3300308,Barra do Piraí - PL
+3300407,Barra Mansa - AA
+3300456,Belford Roxo - AA
+3300506,Bom Jardim - SD
+3300605,Bom Jesus do Itabapoana - CQ
+3300704,Cabo Frio - CQ
+3300803,Cachoeiras de Macacu - LS
+3300902,Cambuci - SQ
+3301009,Campos dos Goytacazes - SD
+3301108,Cantagalo - AA
+3300936,Carapebus - PL
+3301157,Cardoso Moreira - PL
+3301207,Carmo - SQ
+3301306,Casimiro de Abreu - SD
+3300951,Comendador Levy Gasparian - PL
+3301405,Conceição de Macabu - CQ
+3301504,Cordeiro - LF
+3301603,Duas Barras - LS
+3301702,Duque de Caxias - AA
+3301801,Engenheiro Paulo de Frontin - AA
+3301850,Guapimirim - SE
+3301876,Iguaba Grande - AA
+3301900,Itaboraí - RQ
+3302007,Itaguaí - RQ
+3302056,Italva - LF
+3302106,Itaocara - AA
+3302205,Itaperuna - LF
+3302254,Itatiaia - RQ
+3302270,Japeri - AA
+3302304,Laje do Muriaé - CQ
+3302403,Macaé - SQ
+3302452,Macuco - CQ
+3302502,Magé - AA
+3302601,Mangaratiba - CQ
+3302700,Maricá - AA
+3302809,Mendes - PL
+3302858,Mesquita - AA
+3302908,Miguel Pereira - LS
+3303005,Miracema - LF
+3303104,Natividade - SE
+3303203,Nilópolis - LS
+3303302,Niterói - AA
+3303401,Nova Friburgo - AA
+3303500,Nova Iguaçu - LF
+3303609,Paracambi - SE
+3303708,Paraíba do Sul - RQ
+3303807,Paraty - AA
+3303856,Paty do Alferes - AA
+3303906,Petrópolis - PL
+3303955,Pinheiral - CQ
+3304003,Piraí - SD
+3304102,Porciúncula - LS
+3304110,Porto Real - LS
+3304128,Quatis - RQ
+3304144,Queimados - PL
+3304151,Quissamã - LS
+3304201,Resende - LS
+3304300,Rio Bonito - SD
+3304409,Rio Claro - LS
+3304508,Rio das Flores - RQ
+3304524,Rio das Ostras - SE
+3304557,Rio de Janeiro - CQ
+3304607,Santa Maria Madalena - SD
+3304706,Santo Antônio de Pádua - PL
+3304805,São Fidélis - LF
+3304755,São Francisco de Itabapoana - RQ
+3304904,São Gonçalo - LS
+3305000,São João da Barra - SD
+3305109,São João de Meriti - CQ
+3305133,São José de Ubá - PL
+3305158,São José do Vale do Rio Preto - LF
+3305208,São Pedro da Aldeia - CQ
+3305307,São Sebastião do Alto - CQ
+3305406,Sapucaia - CQ
+3305505,Saquarema - LS
+3305554,Seropédica - SD
+3305604,Silva Jardim - LF
+3305703,Sumidouro - AA
+3305752,Tanguá - LS
+3305802,Teresópolis - RQ
+3305901,Trajano de Moraes - SE
+3306008,Três Rios - CQ
+3306107,Valença - LS
+3306156,Varre-Sai - LS
+3306206,Vassouras - AA
+3306305,Volta Redonda - PL
+3500105,Adamantina - LF
+3500204,Adolfo - LF
+3500303,Aguaí - PL
+3500402,Águas da Prata - SQ
+3500501,Águas de Lindóia - LS
+3500550,Águas de Santa Bárbara - LS
+3500600,Águas de São Pedro - AA
+3500709,Agudos - SD
+3500758,Alambari - SQ
+3500808,Alfredo Marcondes - RQ
+3500907,Altair - PL
+3501004,Altinópolis - SE
+3501103,Alto Alegre - LF
+3501152,Alumínio - AA
+3501202,Álvares Florence - SE
+3501301,Álvares Machado - PL
+3501400,Álvaro de Carvalho - SD
+3501509,Alvinlândia - PL
+3501608,Americana - SD
+3501707,Américo Brasiliense - AA
+3501806,Américo de Campos - CQ
+3501905,Amparo - AA
+3502002,Analândia - LF
+3502101,Andradina - LF
+3502200,Angatuba - CQ
+3502309,Anhembi - LF
+3502408,Anhumas - AA
+3502507,Aparecida - RQ
+3502606,Aparecida d Oeste - AA
+3502705,Apiaí - LS
+3502754,Araçariguama - SE
+3502804,Araçatuba - SQ
+3502903,Araçoiaba da Serra - SE
+3503000,Aramina - SQ
+3503109,Arandu - SD
+3503158,Arapeí - RQ
+3503208,Araraquara - AA
+3503307,Araras - PL
+3503356,Arco-Íris - RQ
+3503406,Arealva - CQ
+3503505,Areias - SQ
+3503604,Areiópolis - CQ
+3503703,Ariranha - SD
+3503802,Artur Nogueira - CQ
+3503901,Arujá - SE
+3503950,Aspásia - LS
+3504008,Assis - CQ
+3504107,Atibaia - PL
+3504206,Auriflama - SD
+3504305,Avaí - LF
+3504404,Avanhandava - LS
+3504503,Avaré - LF
+3504602,Bady Bassitt - RQ
+3504701,Balbinos - LS
+3504800,Bálsamo - RQ
+3504909,Bananal - SD
+3505005,Barão de Antonina - LF
+3505104,Barbosa - AA
+3505203,Bariri - LS
+3505302,Barra Bonita - LF
+3505351,Barra do Chapéu - SE
+3505401,Barra do Turvo - AA
+3505500,Barretos - CQ
+3505609,Barrinha - SE
+3505708,Barueri - RQ
+3505807,Bastos - LS
+3505906,Batatais - SE
+3506003,Bauru - SD
+3506102,Bebedouro - CQ
+3506201,Bento de Abreu - AA
+3506300,Bernardino de Campos - LF
+3506359,Bertioga - SD
+3506409,Bilac - CQ
+3506508,Birigui - SE
+3506607,Biritiba Mirim - RQ
+3506706,Boa Esperança do Sul - CQ
+3506805,Bocaina - LF
+3506904,Bofete - SD
+3507001,Boituva - PL
+3507100,Bom Jesus dos Perdões - LF
+3507159,Bom Sucesso de Itararé - AA
+3507209,Borá - AA
+3507308,Boracéia - CQ
+3507407,Borborema - SQ
+3507456,Borebi - SE
+3507506,Botucatu - SE
+3507605,Bragança Paulista - RQ
+3507704,Braúna - SE
+3507753,Brejo Alegre - SE
+3507803,Brodowski - SQ
+3507902,Brotas - RQ
+3508009,Buri - RQ
+3508108,Buritama - SQ
+3508207,Buritizal - SE
+3508306,Cabrália Paulista - PL
+3508405,Cabreúva - CQ
+3508504,Caçapava - SQ
+3508603,Cachoeira Paulista - LS
+3508702,Caconde - CQ
+3508801,Cafelândia - SQ
+3508900,Caiabu - PL
+3509007,Caieiras - SE
+3509106,Caiuá - SQ
+3509205,Cajamar - PL
+3509254,Cajati - SQ
+3509304,Cajobi - CQ
+3509403,Cajuru - LS
+3509452,Campina do Monte Alegre - LS
+3509502,Campinas - LF
+3509601,Campo Limpo Paulista - LF
+3509700,Campos do Jordão - RQ
+3509809,Campos Novos Paulista - RQ
+3509908,Cananéia - SQ
+3509957,Canas - AA
+3510005,Cândido Mota - SD
+3510104,Cândido Rodrigues - SE
+3510153,Canitar - SD
+3510203,Capão Bonito - RQ
+3510302,Capela do Alto - LS
+3510401,Capivari - SE
+3510500,Caraguatatuba - CQ
+3510609,Carapicuíba - SD
+3510708,Cardoso - LS
+3510807,Casa Branca - AA
+3510906,Cássia dos Coqueiros - SQ
+3511003,Castilho - PL
+3511102,Catanduva - SE
+3511201,Catiguá - SD
+3511300,Cedral - CQ
+3511409,Cerqueira César - RQ
+3511508,Cerquilho - SQ
+3511607,Cesário Lange - SE
+3511706,Charqueada - PL
+3557204,Chavantes - LS
+3511904,Clementina - SE
+3512001,Colina - SE
+3512100,Colômbia - CQ
+3512209,Conchal - CQ
+3512308,Conchas - CQ
+3512407,Cordeirópolis - SQ
+3512506,Coroados - RQ
+3512605,Coronel Macedo - SD
+3512704,Corumbataí - LS
+3512803,Cosmópolis - CQ
+3512902,Cosmorama - CQ
+3513009,Cotia - SE
+3513108,Cravinhos - SE
+3513207,Cristais Paulista - LF
+3513306,Cruzália - CQ
+3513405,Cruzeiro - SE
+3513504,Cubatão - SE
+3513603,Cunha - SD
+3513702,Descalvado - SD
+3513801,Diadema - LF
+3513850,Dirce Reis - SD
+3513900,Divinolândia - AA
+3514007,Dobrada - SQ
+3514106,Dois Córregos - AA
+3514205,Dolcinópolis - SD
+3514304,Dourado - LS
+3514403,Dracena - SQ
+3514502,Duartina - SD
+3514601,Dumont - RQ
+3514700,Echaporã - LS
+3514809,Eldorado - LF
+3514908,Elias Fausto - SD
+3514924,Elisiário - LS
+3514957,Embaúba - LS
+3515004,Embu das Artes - CQ
+3515103,Embu-Guaçu - RQ
+3515129,Emilianópolis - LS
+3515152,Engenheiro Coelho - PL
+3515186,Espírito Santo do Pinhal - LF
+3515194,Espírito Santo do Turvo - CQ
+3557303,Estiva Gerbi - RQ
+3515301,Estrela do Norte - CQ
+3515202,Estrela d Oeste - AA
+3515350,Euclides da Cunha Paulista - RQ
+3515400,Fartura - AA
+3515608,Fernando Prestes - SE
+3515509,Fernandópolis - AA
+3515657,Fernão - SD
+3515707,Ferraz de Vasconcelos - LF
+3515806,Flora Rica - PL
+3515905,Floreal - SQ
+3516002,Flórida Paulista - LS
+3516101,Florínea - LS
+3516200,Franca - LF
+3516309,Francisco Morato - AA
+3516408,Franco da Rocha - AA
+3516507,Gabriel Monteiro - LS
+3516606,Gália - AA
+3516705,Garça - LF
+3516804,Gastão Vidigal - AA
+3516853,Gavião Peixoto - LF
+3516903,General Salgado - CQ
+3517000,Getulina - SE
+3517109,Glicério - AA
+3517208,Guaiçara - RQ
+3517307,Guaimbê - LS
+3517406,Guaíra - CQ
+3517505,Guapiaçu - SE
+3517604,Guapiara - RQ
+3517703,Guará - LS
+3517802,Guaraçaí - AA
+3517901,Guaraci - SD
+3518008,Guarani d Oeste - AA
+3518107,Guarantã - CQ
+3518206,Guararapes - LS
+3518305,Guararema - CQ
+3518404,Guaratinguetá - RQ
+3518503,Guareí - LS
+3518602,Guariba - CQ
+3518701,Guarujá - SQ
+3518800,Guarulhos - PL
+3518859,Guatapará - LS
+3518909,Guzolândia - SQ
+3519006,Herculândia - SD
+3519055,Holambra - SD
+3519071,Hortolândia - CQ
+3519105,Iacanga - PL
+3519204,Iacri - LS
+3519253,Iaras - RQ
+3519303,Ibaté - SQ
+3519402,Ibirá - LS
+3519501,Ibirarema - PL
+3519600,Ibitinga - LS
+3519709,Ibiúna - SD
+3519808,Icém - AA
+3519907,Iepê - LF
+3520004,Igaraçu do Tietê - LF
+3520103,Igarapava - SQ
+3520202,Igaratá - SE
+3520301,Iguape - PL
+3520426,Ilha Comprida - SQ
+3520442,Ilha Solteira - PL
+3520400,Ilhabela - CQ
+3520509,Indaiatuba - SQ
+3520608,Indiana - PL
+3520707,Indiaporã - LF
+3520806,Inúbia Paulista - SQ
+3520905,Ipaussu - SE
+3521002,Iperó - SE
+3521101,Ipeúna - LS
+3521150,Ipiguá - PL
+3521200,Iporanga - CQ
+3521309,Ipuã - SQ
+3521408,Iracemápolis - CQ
+3521507,Irapuã - AA
+3521606,Irapuru - CQ
+3521705,Itaberá - LF
+3521804,Itaí - AA
+3521903,Itajobi - RQ
+3522000,Itaju - SD
+3522109,Itanhaém - SE
+3522158,Itaoca - PL
+3522208,Itapecerica da Serra - LF
+3522307,Itapetininga - CQ
+3522406,Itapeva - RQ
+3522505,Itapevi - SD
+3522604,Itapira - AA
+3522653,Itapirapuã Paulista - SQ
+3522703,Itápolis - SE
+3522802,Itaporanga - SE
+3522901,Itapuí - CQ
+3523008,Itapura - PL
+3523107,Itaquaquecetuba - SQ
+3523206,Itararé - LS
+3523305,Itariri - SQ
+3523404,Itatiba - PL
+3523503,Itatinga - PL
+3523602,Itirapina - RQ
+3523701,Itirapuã - LS
+3523800,Itobi - CQ
+3523909,Itu - SD
+3524006,Itupeva - LF
+3524105,Ituverava - AA
+3524204,Jaborandi - PL
+3524303,Jaboticabal - LF
+3524402,Jacareí - RQ
+3524501,Jaci - LS
+3524600,Jacupiranga - LS
+3524709,Jaguariúna - SD
+3524808,Jales - SE
+3524907,Jambeiro - LF
+3525003,Jandira - SQ
+3525102,Jardinópolis - SE
+3525201,Jarinu - RQ
+3525300,Jaú - LF
+3525409,Jeriquara - LS
+3525508,Joanópolis - RQ
+3525607,João Ramalho - SD
+3525706,José Bonifácio - LS
+3525805,Júlio Mesquita - SD
+3525854,Jumirim - SQ
+3525904,Jundiaí - SE
+3526001,Junqueirópolis - LS
+3526100,Juquiá - AA
+3526209,Juquitiba - LF
+3526308,Lagoinha - SQ
+3526407,Laranjal Paulista - SD
+3526506,Lavínia - PL
+3526605,Lavrinhas - CQ
+3526704,Leme - RQ
+3526803,Lençóis Paulista - SE
+3526902,Limeira - AA
+3527009,Lindóia - PL
+3527108,Lins - SE
+3527207,Lorena - LS
+3527256,Lourdes - AA
+3527306,Louveira - PL
+3527405,Lucélia - RQ
+3527504,Lucianópolis - SE
+3527603,Luís Antônio - SE
+3527702,Luiziânia - CQ
+3527801,Lupércio - LS
+3527900,Lutécia - RQ
+3528007,Macatuba - PL
+3528106,Macaubal - PL
+3528205,Macedônia - SD
+3528304,Magda - SE
+3528403,Mairinque - SE
+3528502,Mairiporã - SQ
+3528601,Manduri - AA
+3528700,Marabá Paulista - SD
+3528809,Maracaí - LS
+3528858,Marapoama - CQ
+3528908,Mariápolis - AA
+3529005,Marília - RQ
+3529104,Marinópolis - RQ
+3529203,Martinópolis - AA
+3529302,Matão - RQ
+3529401,Mauá - SE
+3529500,Mendonça - SE
+3529609,Meridiano - SE
+3529658,Mesópolis - LF
+3529708,Miguelópolis - CQ
+3529807,Mineiros do Tietê - CQ
+3530003,Mira Estrela - RQ
+3529906,Miracatu - AA
+3530102,Mirandópolis - SQ
+3530201,Mirante do Paranapanema - SD
+3530300,Mirassol - LS
+3530409,Mirassolândia - SQ
+3530508,Mococa - PL
+3530607,Mogi das Cruzes - LF
+3530706,Mogi Guaçu - AA
+3530805,Mogi Mirim - RQ
+3530904,Mombuca - SQ
+3531001,Monções - SE
+3531100,Mongaguá - PL
+3531209,Monte Alegre do Sul - RQ
+3531308,Monte Alto - CQ
+3531407,Monte Aprazível - CQ
+3531506,Monte Azul Paulista - SD
+3531605,Monte Castelo - CQ
+3531803,Monte Mor - SD
+3531704,Monteiro Lobato - LF
+3531902,Morro Agudo - SQ
+3532009,Morungaba - AA
+3532058,Motuca - CQ
+3532108,Murutinga do Sul - LF
+3532157,Nantes - RQ
+3532207,Narandiba - LS
+3532306,Natividade da Serra - RQ
+3532405,Nazaré Paulista - SD
+3532504,Neves Paulista - CQ
+3532603,Nhandeara - LS
+3532702,Nipoã - LS
+3532801,Nova Aliança - PL
+3532827,Nova Campina - CQ
+3532843,Nova Canaã Paulista - RQ
+3532868,Nova Castilho - SD
+3532900,Nova Europa - PL
+3533007,Nova Granada - RQ
+3533106,Nova Guataporanga - SE
+3533205,Nova Independência - AA
+3533304,Nova Luzitânia - PL
+3533403,Nova Odessa - PL
+3533254,Novais - LF
+3533502,Novo Horizonte - LF
+3533601,Nuporanga - RQ
+3533700,Ocauçu - CQ
+3533809,Óleo - LF
+3533908,Olímpia - RQ
+3534005,Onda Verde - RQ
+3534104,Oriente - SD
+3534203,Orindiúva - LF
+3534302,Orlândia - LF
+3534401,Osasco - CQ
+3534500,Oscar Bressane - CQ
+3534609,Osvaldo Cruz - PL
+3534708,Ourinhos - SE
+3534807,Ouro Verde - LF
+3534757,Ouroeste - AA
+3534906,Pacaembu - AA
+3535002,Palestina - LF
+3535101,Palmares Paulista - LF
+3535200,Palmeira d Oeste - SE
+3535309,Palmital - AA
+3535408,Panorama - LF
+3535507,Paraguaçu Paulista - LF
+3535606,Paraibuna - CQ
+3535705,Paraíso - PL
+3535804,Paranapanema - PL
+3535903,Paranapuã - SE
+3536000,Parapuã - SD
+3536109,Pardinho - LS
+3536208,Pariquera-Açu - AA
+3536257,Parisi - SQ
+3536307,Patrocínio Paulista - CQ
+3536406,Paulicéia - LF
+3536505,Paulínia - CQ
+3536570,Paulistânia - SQ
+3536604,Paulo de Faria - SQ
+3536703,Pederneiras - LS
+3536802,Pedra Bela - SD
+3536901,Pedranópolis - AA
+3537008,Pedregulho - RQ
+3537107,Pedreira - PL
+3537156,Pedrinhas Paulista - SQ
+3537206,Pedro de Toledo - LS
+3537305,Penápolis - LF
+3537404,Pereira Barreto - AA
+3537503,Pereiras - PL
+3537602,Peruíbe - LF
+3537701,Piacatu - LS
+3537800,Piedade - SD
+3537909,Pilar do Sul - LS
+3538006,Pindamonhangaba - SQ
+3538105,Pindorama - CQ
+3538204,Pinhalzinho - LF
+3538303,Piquerobi - SQ
+3538501,Piquete - LS
+3538600,Piracaia - SD
+3538709,Piracicaba - LF
+3538808,Piraju - CQ
+3538907,Pirajuí - CQ
+3539004,Pirangi - PL
+3539103,Pirapora do Bom Jesus - SD
+3539202,Pirapozinho - CQ
+3539301,Pirassununga - AA
+3539400,Piratininga - AA
+3539509,Pitangueiras - LF
+3539608,Planalto - PL
+3539707,Platina - SD
+3539806,Poá - AA
+3539905,Poloni - AA
+3540002,Pompéia - LS
+3540101,Pongaí - SE
+3540200,Pontal - CQ
+3540259,Pontalinda - AA
+3540309,Pontes Gestal - SQ
+3540408,Populina - SQ
+3540507,Porangaba - RQ
+3540606,Porto Feliz - SQ
+3540705,Porto Ferreira - LS
+3540754,Potim - SD
+3540804,Potirendaba - SQ
+3540853,Pracinha - CQ
+3540903,Pradópolis - RQ
+3541000,Praia Grande - SE
+3541059,Pratânia - CQ
+3541109,Presidente Alves - AA
+3541208,Presidente Bernardes - SD
+3541307,Presidente Epitácio - LF
+3541406,Presidente Prudente - CQ
+3541505,Presidente Venceslau - SD
+3541604,Promissão - SD
+3541653,Quadra - SD
+3541703,Quatá - SQ
+3541802,Queiroz - AA
+3541901,Queluz - PL
+3542008,Quintana - SQ
+3542107,Rafard - SE
+3542206,Rancharia - RQ
+3542305,Redenção da Serra - CQ
+3542404,Regente Feijó - PL
+3542503,Reginópolis - SQ
+3542602,Registro - SQ
+3542701,Restinga - SD
+3542800,Ribeira - LF
+3542909,Ribeirão Bonito - SD
+3543006,Ribeirão Branco - SE
+3543105,Ribeirão Corrente - PL
+3543204,Ribeirão do Sul - SD
+3543238,Ribeirão dos Índios - SE
+3543253,Ribeirão Grande - LF
+3543303,Ribeirão Pires - LF
+3543402,Ribeirão Preto - PL
+3543600,Rifaina - RQ
+3543709,Rincão - LS
+3543808,Rinópolis - CQ
+3543907,Rio Claro - LF
+3544004,Rio das Pedras - AA
+3544103,Rio Grande da Serra - RQ
+3544202,Riolândia - LF
+3543501,Riversul - CQ
+3544251,Rosana - RQ
+3544301,Roseira - AA
+3544400,Rubiácea - PL
+3544509,Rubinéia - SE
+3544608,Sabino - CQ
+3544707,Sagres - CQ
+3544806,Sales - SE
+3544905,Sales Oliveira - CQ
+3545001,Salesópolis - CQ
+3545100,Salmourão - SQ
+3545159,Saltinho - RQ
+3545209,Salto - AA
+3545308,Salto de Pirapora - RQ
+3545407,Salto Grande - LF
+3545506,Sandovalina - LS
+3545605,Santa Adélia - RQ
+3545704,Santa Albertina - SD
+3545803,Santa Bárbara d Oeste - CQ
+3546009,Santa Branca - LS
+3546108,Santa Clara d Oeste - CQ
+3546207,Santa Cruz da Conceição - LF
+3546256,Santa Cruz da Esperança - LF
+3546306,Santa Cruz das Palmeiras - AA
+3546405,Santa Cruz do Rio Pardo - LF
+3546504,Santa Ernestina - LF
+3546603,Santa Fé do Sul - LS
+3546702,Santa Gertrudes - RQ
+3546801,Santa Isabel - AA
+3546900,Santa Lúcia - SQ
+3547007,Santa Maria da Serra - RQ
+3547106,Santa Mercedes - CQ
+3547502,Santa Rita do Passa Quatro - LF
+3547403,Santa Rita d Oeste - SD
+3547601,Santa Rosa de Viterbo - LS
+3547650,Santa Salete - AA
+3547205,Santana da Ponte Pensa - RQ
+3547304,Santana de Parnaíba - PL
+3547700,Santo Anastácio - RQ
+3547809,Santo André - CQ
+3547908,Santo Antônio da Alegria - LF
+3548005,Santo Antônio de Posse - SD
+3548054,Santo Antônio do Aracanguá - RQ
+3548104,Santo Antônio do Jardim - SD
+3548203,Santo Antônio do Pinhal - LF
+3548302,Santo Expedito - SE
+3548401,Santópolis do Aguapeí - RQ
+3548500,Santos - LF
+3548609,São Bento do Sapucaí - CQ
+3548708,São Bernardo do Campo - SD
+3548807,São Caetano do Sul - AA
+3548906,São Carlos - SQ
+3549003,São Francisco - SD
+3549102,São João da Boa Vista - LS
+3549201,São João das Duas Pontes - LS
+3549250,São João de Iracema - AA
+3549300,São João do Pau d Alho - PL
+3549409,São Joaquim da Barra - PL
+3549508,São José da Bela Vista - AA
+3549607,São José do Barreiro - PL
+3549706,São José do Rio Pardo - PL
+3549805,São José do Rio Preto - AA
+3549904,São José dos Campos - SD
+3549953,São Lourenço da Serra - SQ
+3550001,São Luiz do Paraitinga - LF
+3550100,São Manuel - RQ
+3550209,São Miguel Arcanjo - LS
+3550308,São Paulo - RQ
+3550407,São Pedro - LS
+3550506,São Pedro do Turvo - SD
+3550605,São Roque - AA
+3550704,São Sebastião - LF
+3550803,São Sebastião da Grama - SQ
+3550902,São Simão - SE
+3551009,São Vicente - RQ
+3551108,Sarapuí - CQ
+3551207,Sarutaiá - SE
+3551306,Sebastianópolis do Sul - RQ
+3551405,Serra Azul - PL
+3551603,Serra Negra - LF
+3551504,Serrana - SQ
+3551702,Sertãozinho - LS
+3551801,Sete Barras - AA
+3551900,Severínia - AA
+3552007,Silveiras - SQ
+3552106,Socorro - SD
+3552205,Sorocaba - AA
+3552304,Sud Mennucci - SD
+3552403,Sumaré - SD
+3552551,Suzanápolis - AA
+3552502,Suzano - SE
+3552601,Tabapuã - PL
+3552700,Tabatinga - CQ
+3552809,Taboão da Serra - LS
+3552908,Taciba - SD
+3553005,Taguaí - AA
+3553104,Taiaçu - CQ
+3553203,Taiúva - RQ
+3553302,Tambaú - SD
+3553401,Tanabi - SD
+3553500,Tapiraí - LS
+3553609,Tapiratiba - LS
+3553658,Taquaral - PL
+3553708,Taquaritinga - AA
+3553807,Taquarituba - AA
+3553856,Taquarivaí - LS
+3553906,Tarabai - PL
+3553955,Tarumã - PL
+3554003,Tatuí - LF
+3554102,Taubaté - SE
+3554201,Tejupá - AA
+3554300,Teodoro Sampaio - LS
+3554409,Terra Roxa - AA
+3554508,Tietê - CQ
+3554607,Timburi - SD
+3554656,Torre de Pedra - CQ
+3554706,Torrinha - RQ
+3554755,Trabiju - SQ
+3554805,Tremembé - LS
+3554904,Três Fronteiras - LF
+3554953,Tuiuti - SE
+3555000,Tupã - LS
+3555109,Tupi Paulista - LF
+3555208,Turiúba - SE
+3555307,Turmalina - SQ
+3555356,Ubarana - AA
+3555406,Ubatuba - PL
+3555505,Ubirajara - AA
+3555604,Uchoa - RQ
+3555703,União Paulista - AA
+3555802,Urânia - AA
+3555901,Uru - LS
+3556008,Urupês - RQ
+3556107,Valentim Gentil - PL
+3556206,Valinhos - CQ
+3556305,Valparaíso - AA
+3556354,Vargem - SE
+3556404,Vargem Grande do Sul - SQ
+3556453,Vargem Grande Paulista - LF
+3556503,Várzea Paulista - CQ
+3556602,Vera Cruz - SE
+3556701,Vinhedo - LS
+3556800,Viradouro - CQ
+3556909,Vista Alegre do Alto - SD
+3556958,Vitória Brasil - PL
+3557006,Votorantim - CQ
+3557105,Votuporanga - SQ
+3557154,Zacarias - PL
+4100103,Abatiá - LS
+4100202,Adrianópolis - AA
+4100301,Agudos do Sul - SD
+4100400,Almirante Tamandaré - LF
+4100459,Altamira do Paraná - RQ
+4128625,Alto Paraíso - LF
+4100608,Alto Paraná - LF
+4100707,Alto Piquiri - AA
+4100509,Altônia - AA
+4100806,Alvorada do Sul - CQ
+4100905,Amaporã - LS
+4101002,Ampére - CQ
+4101051,Anahy - CQ
+4101101,Andirá - RQ
+4101150,Ângulo - RQ
+4101200,Antonina - RQ
+4101309,Antônio Olinto - AA
+4101408,Apucarana - CQ
+4101507,Arapongas - PL
+4101606,Arapoti - PL
+4101655,Arapuã - PL
+4101705,Araruna - PL
+4101804,Araucária - CQ
+4101853,Ariranha do Ivaí - SE
+4101903,Assaí - RQ
+4102000,Assis Chateaubriand - LF
+4102109,Astorga - SD
+4102208,Atalaia - LF
+4102307,Balsa Nova - PL
+4102406,Bandeirantes - SD
+4102505,Barbosa Ferraz - RQ
+4102703,Barra do Jacaré - LS
+4102604,Barracão - CQ
+4102752,Bela Vista da Caroba - PL
+4102802,Bela Vista do Paraíso - LS
+4102901,Bituruna - PL
+4103008,Boa Esperança - LS
+4103024,Boa Esperança do Iguaçu - LF
+4103040,Boa Ventura de São Roque - RQ
+4103057,Boa Vista da Aparecida - PL
+4103107,Bocaiúva do Sul - SD
+4103156,Bom Jesus do Sul - AA
+4103206,Bom Sucesso - LF
+4103222,Bom Sucesso do Sul - LS
+4103305,Borrazópolis - LF
+4103354,Braganey - RQ
+4103370,Brasilândia do Sul - RQ
+4103404,Cafeara - LS
+4103453,Cafelândia - LF
+4103479,Cafezal do Sul - RQ
+4103503,Califórnia - RQ
+4103602,Cambará - AA
+4103701,Cambé - AA
+4103800,Cambira - CQ
+4103909,Campina da Lagoa - CQ
+4103958,Campina do Simão - SE
+4104006,Campina Grande do Sul - AA
+4104055,Campo Bonito - SQ
+4104105,Campo do Tenente - LS
+4104204,Campo Largo - PL
+4104253,Campo Magro - SQ
+4104303,Campo Mourão - RQ
+4104402,Cândido de Abreu - SQ
+4104428,Candói - RQ
+4104451,Cantagalo - SE
+4104501,Capanema - RQ
+4104600,Capitão Leônidas Marques - AA
+4104659,Carambeí - CQ
+4104709,Carlópolis - SD
+4104808,Cascavel - SQ
+4104907,Castro - LF
+4105003,Catanduvas - PL
+4105102,Centenário do Sul - SD
+4105201,Cerro Azul - LS
+4105300,Céu Azul - SQ
+4105409,Chopinzinho - LS
+4105508,Cianorte - AA
+4105607,Cidade Gaúcha - SD
+4105706,Clevelândia - CQ
+4105805,Colombo - SD
+4105904,Colorado - CQ
+4106001,Congonhinhas - SQ
+4106100,Conselheiro Mairinck - SE
+4106209,Contenda - SD
+4106308,Corbélia - SD
+4106407,Cornélio Procópio - RQ
+4106456,Coronel Domingos Soares - SD
+4106506,Coronel Vivida - AA
+4106555,Corumbataí do Sul - CQ
+4106803,Cruz Machado - SD
+4106571,Cruzeiro do Iguaçu - CQ
+4106605,Cruzeiro do Oeste - PL
+4106704,Cruzeiro do Sul - CQ
+4106852,Cruzmaltina - LF
+4106902,Curitiba - CQ
+4107009,Curiúva - RQ
+4107108,Diamante do Norte - SE
+4107124,Diamante do Sul - PL
+4107157,Diamante D Oeste - LF
+4107207,Dois Vizinhos - PL
+4107256,Douradina - LF
+4107306,Doutor Camargo - RQ
+4128633,Doutor Ulysses - SD
+4107405,Enéas Marques - LS
+4107504,Engenheiro Beltrão - LS
+4107538,Entre Rios do Oeste - SQ
+4107520,Esperança Nova - SE
+4107546,Espigão Alto do Iguaçu - AA
+4107553,Farol - LF
+4107603,Faxinal - AA
+4107652,Fazenda Rio Grande - LF
+4107702,Fênix - RQ
+4107736,Fernandes Pinheiro - CQ
+4107751,Figueira - AA
+4107850,Flor da Serra do Sul - RQ
+4107801,Floraí - SQ
+4107900,Floresta - LF
+4108007,Florestópolis - AA
+4108106,Flórida - SE
+4108205,Formosa do Oeste - LS
+4108304,Foz do Iguaçu - SQ
+4108452,Foz do Jordão - RQ
+4108320,Francisco Alves - AA
+4108403,Francisco Beltrão - LS
+4108502,General Carneiro - SE
+4108551,Godoy Moreira - RQ
+4108601,Goioerê - RQ
+4108650,Goioxim - CQ
+4108700,Grandes Rios - SQ
+4108809,Guaíra - LS
+4108908,Guairaçá - SE
+4108957,Guamiranga - SE
+4109005,Guapirama - SQ
+4109104,Guaporema - SQ
+4109203,Guaraci - LS
+4109302,Guaraniaçu - SQ
+4109401,Guarapuava - LF
+4109500,Guaraqueçaba - CQ
+4109609,Guaratuba - SE
+4109658,Honório Serpa - LF
+4109708,Ibaiti - LF
+4109757,Ibema - SE
+4109807,Ibiporã - SD
+4109906,Icaraíma - SQ
+4110003,Iguaraçu - SD
+4110052,Iguatu - SQ
+4110078,Imbaú - PL
+4110102,Imbituva - PL
+4110201,Inácio Martins - RQ
+4110300,Inajá - CQ
+4110409,Indianópolis - LF
+4110508,Ipiranga - LS
+4110607,Iporã - RQ
+4110656,Iracema do Oeste - LS
+4110706,Irati - LS
+4110805,Iretama - PL
+4110904,Itaguajé - SD
+4110953,Itaipulândia - SE
+4111001,Itambaracá - SQ
+4111100,Itambé - LS
+4111209,Itapejara d Oeste - AA
+4111258,Itaperuçu - LF
+4111308,Itaúna do Sul - LS
+4111407,Ivaí - CQ
+4111506,Ivaiporã - AA
+4111555,Ivaté - SD
+4111605,Ivatuba - LS
+4111704,Jaboti - AA
+4111803,Jacarezinho - SD
+4111902,Jaguapitã - SE
+4112009,Jaguariaíva - LS
+4112108,Jandaia do Sul - LF
+4112207,Janiópolis - LF
+4112306,Japira - RQ
+4112405,Japurá - RQ
+4112504,Jardim Alegre - LF
+4112603,Jardim Olinda - PL
+4112702,Jataizinho - CQ
+4112751,Jesuítas - PL
+4112801,Joaquim Távora - AA
+4112900,Jundiaí do Sul - SQ
+4112959,Juranda - LF
+4113007,Jussara - AA
+4113106,Kaloré - LS
+4113205,Lapa - SD
+4113254,Laranjal - LF
+4113304,Laranjeiras do Sul - SD
+4113403,Leópolis - SD
+4113429,Lidianópolis - SD
+4113452,Lindoeste - SQ
+4113502,Loanda - SE
+4113601,Lobato - SQ
+4113700,Londrina - PL
+4113734,Luiziana - SD
+4113759,Lunardelli - SD
+4113809,Lupionópolis - LS
+4113908,Mallet - PL
+4114005,Mamborê - PL
+4114104,Mandaguaçu - SQ
+4114203,Mandaguari - PL
+4114302,Mandirituba - SQ
+4114351,Manfrinópolis - AA
+4114401,Mangueirinha - LS
+4114500,Manoel Ribas - LF
+4114609,Marechal Cândido Rondon - PL
+4114708,Maria Helena - PL
+4114807,Marialva - SQ
+4114906,Marilândia do Sul - LS
+4115002,Marilena - RQ
+4115101,Mariluz - PL
+4115200,Maringá - CQ
+4115309,Mariópolis - CQ
+4115358,Maripá - SQ
+4115408,Marmeleiro - SE
+4115457,Marquinho - LS
+4115507,Marumbi - LS
+4115606,Matelândia - SQ
+4115705,Matinhos - RQ
+4115739,Mato Rico - AA
+4115754,Mauá da Serra - LS
+4115804,Medianeira - AA
+4115853,Mercedes - SQ
+4115903,Mirador - SQ
+4116000,Miraselva - CQ
+4116059,Missal - PL
+4116109,Moreira Sales - LS
+4116208,Morretes - PL
+4116307,Munhoz de Melo - LS
+4116406,Nossa Senhora das Graças - PL
+4116505,Nova Aliança do Ivaí - SQ
+4116604,Nova América da Colina - SQ
+4116703,Nova Aurora - SQ
+4116802,Nova Cantu - SD
+4116901,Nova Esperança - LF
+4116950,Nova Esperança do Sudoeste - PL
+4117008,Nova Fátima - AA
+4117057,Nova Laranjeiras - LF
+4117107,Nova Londrina - SE
+4117206,Nova Olímpia - SQ
+4117255,Nova Prata do Iguaçu - AA
+4117214,Nova Santa Bárbara - PL
+4117222,Nova Santa Rosa - AA
+4117271,Nova Tebas - AA
+4117297,Novo Itacolomi - SQ
+4117305,Ortigueira - LS
+4117404,Ourizona - PL
+4117453,Ouro Verde do Oeste - LS
+4117503,Paiçandu - SD
+4117602,Palmas - SE
+4117701,Palmeira - SE
+4117800,Palmital - AA
+4117909,Palotina - SD
+4118006,Paraíso do Norte - SQ
+4118105,Paranacity - SQ
+4118204,Paranaguá - LF
+4118303,Paranapoema - RQ
+4118402,Paranavaí - AA
+4118451,Pato Bragado - AA
+4118501,Pato Branco - RQ
+4118600,Paula Freitas - RQ
+4118709,Paulo Frontin - LS
+4118808,Peabiru - SQ
+4118857,Perobal - RQ
+4118907,Pérola - LF
+4119004,Pérola d Oeste - CQ
+4119103,Piên - PL
+4119152,Pinhais - SQ
+4119251,Pinhal de São Bento - PL
+4119202,Pinhalão - SD
+4119301,Pinhão - PL
+4119400,Piraí do Sul - SD
+4119509,Piraquara - SQ
+4119608,Pitanga - PL
+4119657,Pitangueiras - AA
+4119707,Planaltina do Paraná - SE
+4119806,Planalto - LS
+4119905,Ponta Grossa - LS
+4119954,Pontal do Paraná - SD
+4120002,Porecatu - LF
+4120101,Porto Amazonas - CQ
+4120150,Porto Barreiro - SQ
+4120200,Porto Rico - PL
+4120309,Porto Vitória - LS
+4120333,Prado Ferreira - LS
+4120358,Pranchita - RQ
+4120408,Presidente Castelo Branco - CQ
+4120507,Primeiro de Maio - SD
+4120606,Prudentópolis - RQ
+4120655,Quarto Centenário - SQ
+4120705,Quatiguá - RQ
+4120804,Quatro Barras - RQ
+4120853,Quatro Pontes - PL
+4120903,Quedas do Iguaçu - CQ
+4121000,Querência do Norte - CQ
+4121109,Quinta do Sol - CQ
+4121208,Quitandinha - CQ
+4121257,Ramilândia - CQ
+4121307,Rancho Alegre - AA
+4121356,Rancho Alegre D Oeste - CQ
+4121406,Realeza - LF
+4121505,Rebouças - LS
+4121604,Renascença - PL
+4121703,Reserva - CQ
+4121752,Reserva do Iguaçu - SD
+4121802,Ribeirão Claro - SQ
+4121901,Ribeirão do Pinhal - RQ
+4122008,Rio Azul - SE
+4122107,Rio Bom - PL
+4122156,Rio Bonito do Iguaçu - SD
+4122172,Rio Branco do Ivaí - LS
+4122206,Rio Branco do Sul - SD
+4122305,Rio Negro - LF
+4122404,Rolândia - CQ
+4122503,Roncador - LS
+4122602,Rondon - RQ
+4122651,Rosário do Ivaí - RQ
+4122701,Sabáudia - LF
+4122800,Salgado Filho - SQ
+4122909,Salto do Itararé - PL
+4123006,Salto do Lontra - PL
+4123105,Santa Amélia - CQ
+4123204,Santa Cecília do Pavão - LF
+4123303,Santa Cruz de Monte Castelo - SD
+4123402,Santa Fé - AA
+4123501,Santa Helena - LS
+4123600,Santa Inês - LF
+4123709,Santa Isabel do Ivaí - SE
+4123808,Santa Izabel do Oeste - SE
+4123824,Santa Lúcia - SE
+4123857,Santa Maria do Oeste - CQ
+4123907,Santa Mariana - SE
+4123956,Santa Mônica - RQ
+4124020,Santa Tereza do Oeste - SD
+4124053,Santa Terezinha de Itaipu - CQ
+4124004,Santana do Itararé - SE
+4124103,Santo Antônio da Platina - AA
+4124202,Santo Antônio do Caiuá - LF
+4124301,Santo Antônio do Paraíso - SE
+4124400,Santo Antônio do Sudoeste - SQ
+4124509,Santo Inácio - AA
+4124608,São Carlos do Ivaí - CQ
+4124707,São Jerônimo da Serra - PL
+4124806,São João - RQ
+4124905,São João do Caiuá - LS
+4125001,São João do Ivaí - CQ
+4125100,São João do Triunfo - SD
+4125308,São Jorge do Ivaí - RQ
+4125357,São Jorge do Patrocínio - AA
+4125209,São Jorge d Oeste - SQ
+4125407,São José da Boa Vista - LF
+4125456,São José das Palmeiras - LF
+4125506,São José dos Pinhais - SD
+4125555,São Manoel do Paraná - AA
+4125605,São Mateus do Sul - RQ
+4125704,São Miguel do Iguaçu - SE
+4125753,São Pedro do Iguaçu - SQ
+4125803,São Pedro do Ivaí - AA
+4125902,São Pedro do Paraná - PL
+4126009,São Sebastião da Amoreira - LF
+4126108,São Tomé - SQ
+4126207,Sapopema - SE
+4126256,Sarandi - PL
+4126272,Saudade do Iguaçu - CQ
+4126306,Sengés - SQ
+4126355,Serranópolis do Iguaçu - SQ
+4126405,Sertaneja - SD
+4126504,Sertanópolis - SE
+4126603,Siqueira Campos - SD
+4126652,Sulina - PL
+4126678,Tamarana - PL
+4126702,Tamboara - SD
+4126801,Tapejara - CQ
+4126900,Tapira - SE
+4127007,Teixeira Soares - PL
+4127106,Telêmaco Borba - SQ
+4127205,Terra Boa - CQ
+4127304,Terra Rica - SQ
+4127403,Terra Roxa - PL
+4127502,Tibagi - LF
+4127601,Tijucas do Sul - PL
+4127700,Toledo - SE
+4127809,Tomazina - LF
+4127858,Três Barras do Paraná - AA
+4127882,Tunas do Paraná - SQ
+4127908,Tuneiras do Oeste - AA
+4127957,Tupãssi - PL
+4127965,Turvo - LS
+4128005,Ubiratã - SD
+4128104,Umuarama - SD
+4128203,União da Vitória - PL
+4128302,Uniflor - LF
+4128401,Uraí - PL
+4128534,Ventania - SD
+4128559,Vera Cruz do Oeste - RQ
+4128609,Verê - AA
+4128658,Virmond - LF
+4128708,Vitorino - SE
+4128500,Wenceslau Braz - SQ
+4128807,Xambrê - SD
+4200051,Abdon Batista - RQ
+4200101,Abelardo Luz - CQ
+4200200,Agrolândia - RQ
+4200309,Agronômica - LF
+4200408,Água Doce - LF
+4200507,Águas de Chapecó - SQ
+4200556,Águas Frias - PL
+4200606,Águas Mornas - SQ
+4200705,Alfredo Wagner - RQ
+4200754,Alto Bela Vista - CQ
+4200804,Anchieta - RQ
+4200903,Angelina - SE
+4201000,Anita Garibaldi - SE
+4201109,Anitápolis - SQ
+4201208,Antônio Carlos - SD
+4201257,Apiúna - CQ
+4201273,Arabutã - SE
+4201307,Araquari - SE
+4201406,Araranguá - AA
+4201505,Armazém - SD
+4201604,Arroio Trinta - CQ
+4201653,Arvoredo - LS
+4201703,Ascurra - PL
+4201802,Atalanta - SE
+4201901,Aurora - SQ
+4201950,Balneário Arroio do Silva - AA
+4202057,Balneário Barra do Sul - SE
+4202008,Balneário Camboriú - SE
+4202073,Balneário Gaivota - RQ
+4212809,Balneário Piçarras - AA
+4220000,Balneário Rincão - CQ
+4202081,Bandeirante - SD
+4202099,Barra Bonita - SQ
+4202107,Barra Velha - CQ
+4202131,Bela Vista do Toldo - CQ
+4202156,Belmonte - SQ
+4202206,Benedito Novo - AA
+4202305,Biguaçu - LF
+4202404,Blumenau - LF
+4202438,Bocaina do Sul - SQ
+4202503,Bom Jardim da Serra - CQ
+4202537,Bom Jesus - SE
+4202578,Bom Jesus do Oeste - CQ
+4202602,Bom Retiro - LS
+4202453,Bombinhas - PL
+4202701,Botuverá - CQ
+4202800,Braço do Norte - PL
+4202859,Braço do Trombudo - SQ
+4202875,Brunópolis - SQ
+4202909,Brusque - SQ
+4203006,Caçador - AA
+4203105,Caibi - AA
+4203154,Calmon - PL
+4203204,Camboriú - RQ
+4203303,Campo Alegre - SE
+4203402,Campo Belo do Sul - CQ
+4203501,Campo Erê - SE
+4203600,Campos Novos - SE
+4203709,Canelinha - PL
+4203808,Canoinhas - SE
+4203253,Capão Alto - SE
+4203907,Capinzal - SE
+4203956,Capivari de Baixo - SQ
+4204004,Catanduvas - CQ
+4204103,Caxambu do Sul - SD
+4204152,Celso Ramos - SE
+4204178,Cerro Negro - SQ
+4204194,Chapadão do Lageado - LF
+4204202,Chapecó - LS
+4204251,Cocal do Sul - CQ
+4204301,Concórdia - RQ
+4204350,Cordilheira Alta - SD
+4204400,Coronel Freitas - CQ
+4204459,Coronel Martins - SD
+4204558,Correia Pinto - CQ
+4204509,Corupá - PL
+4204608,Criciúma - RQ
+4204707,Cunha Porã - LS
+4204756,Cunhataí - PL
+4204806,Curitibanos - SD
+4204905,Descanso - SQ
+4205001,Dionísio Cerqueira - AA
+4205100,Dona Emma - SD
+4205159,Doutor Pedrinho - SQ
+4205175,Entre Rios - PL
+4205191,Ermo - SD
+4205209,Erval Velho - PL
+4205308,Faxinal dos Guedes - SE
+4205357,Flor do Sertão - AA
+4205407,Florianópolis - PL
+4205431,Formosa do Sul - SD
+4205456,Forquilhinha - SD
+4205506,Fraiburgo - PL
+4205555,Frei Rogério - LS
+4205605,Galvão - LS
+4205704,Garopaba - SE
+4205803,Garuva - RQ
+4205902,Gaspar - LF
+4206009,Governador Celso Ramos - LS
+4206108,Grão Pará - LS
+4206207,Gravatal - CQ
+4206306,Guabiruba - LF
+4206405,Guaraciaba - CQ
+4206504,Guaramirim - CQ
+4206603,Guarujá do Sul - AA
+4206652,Guatambú - AA
+4206702,Herval d Oeste - AA
+4206751,Ibiam - LF
+4206801,Ibicaré - RQ
+4206900,Ibirama - AA
+4207007,Içara - LS
+4207106,Ilhota - SE
+4207205,Imaruí - CQ
+4207304,Imbituba - CQ
+4207403,Imbuia - RQ
+4207502,Indaial - RQ
+4207577,Iomerê - CQ
+4207601,Ipira - LS
+4207650,Iporã do Oeste - CQ
+4207684,Ipuaçu - PL
+4207700,Ipumirim - RQ
+4207759,Iraceminha - LS
+4207809,Irani - AA
+4207858,Irati - SD
+4207908,Irineópolis - RQ
+4208005,Itá - RQ
+4208104,Itaiópolis - PL
+4208203,Itajaí - CQ
+4208302,Itapema - LS
+4208401,Itapiranga - LF
+4208450,Itapoá - SE
+4208500,Ituporanga - SD
+4208609,Jaborá - SQ
+4208708,Jacinto Machado - SQ
+4208807,Jaguaruna - CQ
+4208906,Jaraguá do Sul - SE
+4208955,Jardinópolis - LF
+4209003,Joaçaba - AA
+4209102,Joinville - LF
+4209151,José Boiteux - CQ
+4209177,Jupiá - AA
+4209201,Lacerdópolis - CQ
+4209300,Lages - LS
+4209409,Laguna - LS
+4209458,Lajeado Grande - PL
+4209508,Laurentino - LF
+4209607,Lauro Müller - LS
+4209706,Lebon Régis - LS
+4209805,Leoberto Leal - AA
+4209854,Lindóia do Sul - SQ
+4209904,Lontras - LS
+4210001,Luiz Alves - SE
+4210035,Luzerna - LS
+4210050,Macieira - PL
+4210100,Mafra - CQ
+4210209,Major Gercino - SD
+4210308,Major Vieira - PL
+4210407,Maracajá - CQ
+4210506,Maravilha - SQ
+4210555,Marema - CQ
+4210605,Massaranduba - SD
+4210704,Matos Costa - AA
+4210803,Meleiro - PL
+4210852,Mirim Doce - CQ
+4210902,Modelo - CQ
+4211009,Mondaí - SE
+4211058,Monte Carlo - AA
+4211108,Monte Castelo - RQ
+4211207,Morro da Fumaça - RQ
+4211256,Morro Grande - RQ
+4211306,Navegantes - SD
+4211405,Nova Erechim - LS
+4211454,Nova Itaberaba - PL
+4211504,Nova Trento - SD
+4211603,Nova Veneza - SE
+4211652,Novo Horizonte - SE
+4211702,Orleans - AA
+4211751,Otacílio Costa - LF
+4211801,Ouro - SE
+4211850,Ouro Verde - SQ
+4211876,Paial - SQ
+4211892,Painel - LS
+4211900,Palhoça - SE
+4212007,Palma Sola - CQ
+4212056,Palmeira - SQ
+4212106,Palmitos - SD
+4212205,Papanduva - LS
+4212239,Paraíso - CQ
+4212254,Passo de Torres - CQ
+4212270,Passos Maia - RQ
+4212304,Paulo Lopes - SD
+4212403,Pedras Grandes - CQ
+4212502,Penha - PL
+4212601,Peritiba - SD
+4212650,Pescaria Brava - SQ
+4212700,Petrolândia - SD
+4212908,Pinhalzinho - SD
+4213005,Pinheiro Preto - SQ
+4213104,Piratuba - LS
+4213153,Planalto Alegre - SD
+4213203,Pomerode - SQ
+4213302,Ponte Alta - LS
+4213351,Ponte Alta do Norte - CQ
+4213401,Ponte Serrada - SD
+4213500,Porto Belo - SQ
+4213609,Porto União - RQ
+4213708,Pouso Redondo - RQ
+4213807,Praia Grande - LF
+4213906,Presidente Castello Branco - LF
+4214003,Presidente Getúlio - SD
+4214102,Presidente Nereu - SE
+4214151,Princesa - PL
+4214201,Quilombo - AA
+4214300,Rancho Queimado - RQ
+4214409,Rio das Antas - SD
+4214508,Rio do Campo - CQ
+4214607,Rio do Oeste - SE
+4214805,Rio do Sul - LS
+4214706,Rio dos Cedros - PL
+4214904,Rio Fortuna - AA
+4215000,Rio Negrinho - PL
+4215059,Rio Rufino - CQ
+4215075,Riqueza - LF
+4215109,Rodeio - SQ
+4215208,Romelândia - LF
+4215307,Salete - SQ
+4215356,Saltinho - LS
+4215406,Salto Veloso - LF
+4215455,Sangão - CQ
+4215505,Santa Cecília - CQ
+4215554,Santa Helena - PL
+4215604,Santa Rosa de Lima - SE
+4215653,Santa Rosa do Sul - LF
+4215679,Santa Terezinha - SQ
+4215687,Santa Terezinha do Progresso - SD
+4215695,Santiago do Sul - SD
+4215703,Santo Amaro da Imperatriz - SQ
+4215802,São Bento do Sul - LF
+4215752,São Bernardino - SD
+4215901,São Bonifácio - SQ
+4216008,São Carlos - CQ
+4216057,São Cristóvão do Sul - SE
+4216107,São Domingos - LS
+4216206,São Francisco do Sul - SQ
+4216305,São João Batista - RQ
+4216354,São João do Itaperiú - PL
+4216255,São João do Oeste - RQ
+4216404,São João do Sul - AA
+4216503,São Joaquim - SE
+4216602,São José - SE
+4216701,São José do Cedro - SD
+4216800,São José do Cerrito - CQ
+4216909,São Lourenço do Oeste - CQ
+4217006,São Ludgero - LF
+4217105,São Martinho - RQ
+4217154,São Miguel da Boa Vista - AA
+4217204,São Miguel do Oeste - SD
+4217253,São Pedro de Alcântara - LS
+4217303,Saudades - SQ
+4217402,Schroeder - LS
+4217501,Seara - CQ
+4217550,Serra Alta - SQ
+4217600,Siderópolis - SE
+4217709,Sombrio - SE
+4217758,Sul Brasil - CQ
+4217808,Taió - RQ
+4217907,Tangará - AA
+4217956,Tigrinhos - LF
+4218004,Tijucas - SD
+4218103,Timbé do Sul - PL
+4218202,Timbó - PL
+4218251,Timbó Grande - SD
+4218301,Três Barras - RQ
+4218350,Treviso - CQ
+4218400,Treze de Maio - SE
+4218509,Treze Tílias - SE
+4218608,Trombudo Central - SE
+4218707,Tubarão - AA
+4218756,Tunápolis - RQ
+4218806,Turvo - PL
+4218855,União do Oeste - LF
+4218905,Urubici - PL
+4218954,Urupema - SD
+4219002,Urussanga - LS
+4219101,Vargeão - SD
+4219150,Vargem - AA
+4219176,Vargem Bonita - PL
+4219200,Vidal Ramos - SE
+4219309,Videira - PL
+4219358,Vitor Meireles - SE
+4219408,Witmarsum - LS
+4219507,Xanxerê - SQ
+4219606,Xavantina - RQ
+4219705,Xaxim - LS
+4219853,Zortéa - SQ
+4300034,Aceguá - CQ
+4300059,Água Santa - LF
+4300109,Agudo - LF
+4300208,Ajuricaba - AA
+4300307,Alecrim - SE
+4300406,Alegrete - PL
+4300455,Alegria - SD
+4300471,Almirante Tamandaré do Sul - LS
+4300505,Alpestre - SQ
+4300554,Alto Alegre - SD
+4300570,Alto Feliz - LS
+4300604,Alvorada - SD
+4300638,Amaral Ferrador - LS
+4300646,Ametista do Sul - SD
+4300661,André da Rocha - LS
+4300703,Anta Gorda - AA
+4300802,Antônio Prado - SQ
+4300851,Arambaré - RQ
+4300877,Araricá - SQ
+4300901,Aratiba - CQ
+4301008,Arroio do Meio - AA
+4301073,Arroio do Padre - PL
+4301057,Arroio do Sal - LF
+4301206,Arroio do Tigre - PL
+4301107,Arroio dos Ratos - SQ
+4301305,Arroio Grande - CQ
+4301404,Arvorezinha - LS
+4301503,Augusto Pestana - SE
+4301552,Áurea - SQ
+4301602,Bagé - AA
+4301636,Balneário Pinhal - PL
+4301651,Barão - AA
+4301701,Barão de Cotegipe - SQ
+4301750,Barão do Triunfo - RQ
+4301859,Barra do Guarita - PL
+4301875,Barra do Quaraí - AA
+4301909,Barra do Ribeiro - RQ
+4301925,Barra do Rio Azul - AA
+4301958,Barra Funda - PL
+4301800,Barracão - SD
+4302006,Barros Cassal - SQ
+4302055,Benjamin Constant do Sul - RQ
+4302105,Bento Gonçalves - LS
+4302154,Boa Vista das Missões - SE
+4302204,Boa Vista do Buricá - SE
+4302220,Boa Vista do Cadeado - LF
+4302238,Boa Vista do Incra - LF
+4302253,Boa Vista do Sul - AA
+4302303,Bom Jesus - SE
+4302352,Bom Princípio - AA
+4302378,Bom Progresso - CQ
+4302402,Bom Retiro do Sul - RQ
+4302451,Boqueirão do Leão - PL
+4302501,Bossoroca - SE
+4302584,Bozano - SQ
+4302600,Braga - AA
+4302659,Brochier - AA
+4302709,Butiá - CQ
+4302808,Caçapava do Sul - LS
+4302907,Cacequi - RQ
+4303004,Cachoeira do Sul - SE
+4303103,Cachoeirinha - SE
+4303202,Cacique Doble - PL
+4303301,Caibaté - SD
+4303400,Caiçara - LF
+4303509,Camaquã - AA
+4303558,Camargo - CQ
+4303608,Cambará do Sul - LF
+4303673,Campestre da Serra - LF
+4303707,Campina das Missões - PL
+4303806,Campinas do Sul - PL
+4303905,Campo Bom - LF
+4304002,Campo Novo - LS
+4304101,Campos Borges - SE
+4304200,Candelária - RQ
+4304309,Cândido Godói - AA
+4304358,Candiota - LS
+4304408,Canela - AA
+4304507,Canguçu - AA
+4304606,Canoas - LS
+4304614,Canudos do Vale - SQ
+4304622,Capão Bonito do Sul - SE
+4304630,Capão da Canoa - SE
+4304655,Capão do Cipó - SE
+4304663,Capão do Leão - AA
+4304689,Capela de Santana - SQ
+4304697,Capitão - LS
+4304671,Capivari do Sul - AA
+4304713,Caraá - LF
+4304705,Carazinho - SD
+4304804,Carlos Barbosa - SE
+4304853,Carlos Gomes - LF
+4304903,Casca - PL
+4304952,Caseiros - SQ
+4305009,Catuípe - SQ
+4305108,Caxias do Sul - RQ
+4305116,Centenário - LF
+4305124,Cerrito - PL
+4305132,Cerro Branco - RQ
+4305157,Cerro Grande - RQ
+4305173,Cerro Grande do Sul - LS
+4305207,Cerro Largo - LF
+4305306,Chapada - CQ
+4305355,Charqueadas - LF
+4305371,Charrua - LF
+4305405,Chiapetta - LF
+4305439,Chuí - CQ
+4305447,Chuvisca - SE
+4305454,Cidreira - LF
+4305504,Ciríaco - SD
+4305587,Colinas - LF
+4305603,Colorado - LF
+4305702,Condor - SD
+4305801,Constantina - SD
+4305835,Coqueiro Baixo - LF
+4305850,Coqueiros do Sul - PL
+4305871,Coronel Barros - LF
+4305900,Coronel Bicaco - CQ
+4305934,Coronel Pilar - LF
+4305959,Cotiporã - CQ
+4305975,Coxilha - LS
+4306007,Crissiumal - PL
+4306056,Cristal - SQ
+4306072,Cristal do Sul - AA
+4306106,Cruz Alta - LS
+4306130,Cruzaltense - AA
+4306205,Cruzeiro do Sul - CQ
+4306304,David Canabarro - CQ
+4306320,Derrubadas - SQ
+4306353,Dezesseis de Novembro - RQ
+4306379,Dilermando de Aguiar - CQ
+4306403,Dois Irmãos - SD
+4306429,Dois Irmãos das Missões - SE
+4306452,Dois Lajeados - PL
+4306502,Dom Feliciano - RQ
+4306601,Dom Pedrito - LS
+4306551,Dom Pedro de Alcântara - RQ
+4306700,Dona Francisca - LS
+4306734,Doutor Maurício Cardoso - SE
+4306759,Doutor Ricardo - LF
+4306767,Eldorado do Sul - LS
+4306809,Encantado - SE
+4306908,Encruzilhada do Sul - CQ
+4306924,Engenho Velho - AA
+4306957,Entre Rios do Sul - SD
+4306932,Entre-Ijuís - SD
+4306973,Erebango - SE
+4307005,Erechim - LF
+4307054,Ernestina - SQ
+4307203,Erval Grande - LS
+4307302,Erval Seco - LF
+4307401,Esmeralda - LS
+4307450,Esperança do Sul - SE
+4307500,Espumoso - SD
+4307559,Estação - SQ
+4307609,Estância Velha - LS
+4307708,Esteio - RQ
+4307807,Estrela - SE
+4307815,Estrela Velha - SE
+4307831,Eugênio de Castro - RQ
+4307864,Fagundes Varela - PL
+4307906,Farroupilha - CQ
+4308003,Faxinal do Soturno - PL
+4308052,Faxinalzinho - LF
+4308078,Fazenda Vilanova - RQ
+4308102,Feliz - SQ
+4308201,Flores da Cunha - AA
+4308250,Floriano Peixoto - LS
+4308300,Fontoura Xavier - SE
+4308409,Formigueiro - SQ
+4308433,Forquetinha - PL
+4308458,Fortaleza dos Valos - PL
+4308508,Frederico Westphalen - SD
+4308607,Garibaldi - AA
+4308656,Garruchos - PL
+4308706,Gaurama - RQ
+4308805,General Câmara - SQ
+4308854,Gentil - LS
+4308904,Getúlio Vargas - AA
+4309001,Giruá - CQ
+4309050,Glorinha - RQ
+4309100,Gramado - SE
+4309126,Gramado dos Loureiros - RQ
+4309159,Gramado Xavier - PL
+4309209,Gravataí - SE
+4309258,Guabiju - RQ
+4309308,Guaíba - LF
+4309407,Guaporé - LS
+4309506,Guarani das Missões - SQ
+4309555,Harmonia - RQ
+4307104,Herval - CQ
+4309571,Herveiras - SE
+4309605,Horizontina - SE
+4309654,Hulha Negra - LF
+4309704,Humaitá - SQ
+4309753,Ibarama - SD
+4309803,Ibiaçá - LF
+4309902,Ibiraiaras - SQ
+4309951,Ibirapuitã - AA
+4310009,Ibirubá - PL
+4310108,Igrejinha - LF
+4310207,Ijuí - RQ
+4310306,Ilópolis - SQ
+4310330,Imbé - LS
+4310363,Imigrante - LS
+4310405,Independência - AA
+4310413,Inhacorá - LS
+4310439,Ipê - LS
+4310462,Ipiranga do Sul - AA
+4310504,Iraí - LF
+4310538,Itaara - LF
+4310553,Itacurubi - LS
+4310579,Itapuca - CQ
+4310603,Itaqui - LS
+4310652,Itati - CQ
+4310702,Itatiba do Sul - LF
+4310751,Ivorá - SE
+4310801,Ivoti - CQ
+4310850,Jaboticaba - LF
+4310876,Jacuizinho - AA
+4310900,Jacutinga - RQ
+4311007,Jaguarão - SE
+4311106,Jaguari - SE
+4311122,Jaquirana - LF
+4311130,Jari - CQ
+4311155,Jóia - SE
+4311205,Júlio de Castilhos - CQ
+4311239,Lagoa Bonita do Sul - CQ
+4311270,Lagoa dos Três Cantos - RQ
+4311304,Lagoa Vermelha - PL
+4311254,Lagoão - AA
+4311403,Lajeado - SQ
+4311429,Lajeado do Bugre - CQ
+4311502,Lavras do Sul - SD
+4311601,Liberato Salzano - AA
+4311627,Lindolfo Collor - SQ
+4311643,Linha Nova - RQ
+4311718,Maçambará - AA
+4311700,Machadinho - SE
+4311734,Mampituba - CQ
+4311759,Manoel Viana - RQ
+4311775,Maquiné - PL
+4311791,Maratá - SQ
+4311809,Marau - PL
+4311908,Marcelino Ramos - SE
+4311981,Mariana Pimentel - CQ
+4312005,Mariano Moro - LS
+4312054,Marques de Souza - SD
+4312104,Mata - SD
+4312138,Mato Castelhano - PL
+4312153,Mato Leitão - PL
+4312179,Mato Queimado - SE
+4312203,Maximiliano de Almeida - PL
+4312252,Minas do Leão - AA
+4312302,Miraguaí - RQ
+4312351,Montauri - AA
+4312377,Monte Alegre dos Campos - LS
+4312385,Monte Belo do Sul - RQ
+4312401,Montenegro - LS
+4312427,Mormaço - LS
+4312443,Morrinhos do Sul - AA
+4312450,Morro Redondo - SD
+4312476,Morro Reuter - RQ
+4312500,Mostardas - SD
+4312609,Muçum - SQ
+4312617,Muitos Capões - RQ
+4312625,Muliterno - AA
+4312658,Não-Me-Toque - LF
+4312674,Nicolau Vergueiro - LS
+4312708,Nonoai - LF
+4312757,Nova Alvorada - CQ
+4312807,Nova Araçá - CQ
+4312906,Nova Bassano - LF
+4312955,Nova Boa Vista - RQ
+4313003,Nova Bréscia - RQ
+4313011,Nova Candelária - LS
+4313037,Nova Esperança do Sul - PL
+4313060,Nova Hartz - SQ
+4313086,Nova Pádua - SE
+4313102,Nova Palma - AA
+4313201,Nova Petrópolis - PL
+4313300,Nova Prata - SE
+4313334,Nova Ramada - LF
+4313359,Nova Roma do Sul - LS
+4313375,Nova Santa Rita - AA
+4313490,Novo Barreiro - RQ
+4313391,Novo Cabrais - LS
+4313409,Novo Hamburgo - LF
+4313425,Novo Machado - LS
+4313441,Novo Tiradentes - LS
+4313466,Novo Xingu - SD
+4313508,Osório - SD
+4313607,Paim Filho - SD
+4313656,Palmares do Sul - LF
+4313706,Palmeira das Missões - LF
+4313805,Palmitinho - LF
+4313904,Panambi - PL
+4313953,Pantano Grande - AA
+4314001,Paraí - AA
+4314027,Paraíso do Sul - AA
+4314035,Pareci Novo - RQ
+4314050,Parobé - LF
+4314068,Passa Sete - AA
+4314076,Passo do Sobrado - PL
+4314100,Passo Fundo - LS
+4314134,Paulo Bento - SE
+4314159,Paverama - SQ
+4314175,Pedras Altas - RQ
+4314209,Pedro Osório - AA
+4314308,Pejuçara - SQ
+4314407,Pelotas - AA
+4314423,Picada Café - RQ
+4314456,Pinhal - PL
+4314464,Pinhal da Serra - SD
+4314472,Pinhal Grande - SD
+4314498,Pinheirinho do Vale - CQ
+4314506,Pinheiro Machado - AA
+4314548,Pinto Bandeira - RQ
+4314555,Pirapó - SQ
+4314605,Piratini - CQ
+4314704,Planalto - AA
+4314753,Poço das Antas - RQ
+4314779,Pontão - CQ
+4314787,Ponte Preta - RQ
+4314803,Portão - PL
+4314902,Porto Alegre - SE
+4315008,Porto Lucena - SQ
+4315057,Porto Mauá - CQ
+4315073,Porto Vera Cruz - LS
+4315107,Porto Xavier - RQ
+4315131,Pouso Novo - SE
+4315149,Presidente Lucena - PL
+4315156,Progresso - SE
+4315172,Protásio Alves - LS
+4315206,Putinga - SE
+4315305,Quaraí - RQ
+4315313,Quatro Irmãos - RQ
+4315321,Quevedos - SQ
+4315354,Quinze de Novembro - RQ
+4315404,Redentora - SE
+4315453,Relvado - RQ
+4315503,Restinga Sêca - RQ
+4315552,Rio dos Índios - LF
+4315602,Rio Grande - CQ
+4315701,Rio Pardo - LF
+4315750,Riozinho - LF
+4315800,Roca Sales - RQ
+4315909,Rodeio Bonito - RQ
+4315958,Rolador - LS
+4316006,Rolante - PL
+4316105,Ronda Alta - RQ
+4316204,Rondinha - SD
+4316303,Roque Gonzales - RQ
+4316402,Rosário do Sul - LS
+4316428,Sagrada Família - CQ
+4316436,Saldanha Marinho - LF
+4316451,Salto do Jacuí - SQ
+4316477,Salvador das Missões - LS
+4316501,Salvador do Sul - SQ
+4316600,Sananduva - AA
+4316709,Santa Bárbara do Sul - PL
+4316733,Santa Cecília do Sul - SD
+4316758,Santa Clara do Sul - SD
+4316808,Santa Cruz do Sul - RQ
+4316972,Santa Margarida do Sul - RQ
+4316907,Santa Maria - SQ
+4316956,Santa Maria do Herval - SQ
+4317202,Santa Rosa - SD
+4317251,Santa Tereza - LF
+4317301,Santa Vitória do Palmar - SQ
+4317004,Santana da Boa Vista - LF
+4317103,Sant Ana do Livramento - RQ
+4317400,Santiago - SQ
+4317509,Santo Ângelo - PL
+4317608,Santo Antônio da Patrulha - SE
+4317707,Santo Antônio das Missões - PL
+4317558,Santo Antônio do Palma - SQ
+4317756,Santo Antônio do Planalto - RQ
+4317806,Santo Augusto - SD
+4317905,Santo Cristo - SE
+4317954,Santo Expedito do Sul - SQ
+4318002,São Borja - SE
+4318051,São Domingos do Sul - SE
+4318101,São Francisco de Assis - LS
+4318200,São Francisco de Paula - LF
+4318309,São Gabriel - LS
+4318408,São Jerônimo - PL
+4318424,São João da Urtiga - LS
+4318432,São João do Polêsine - SD
+4318440,São Jorge - SQ
+4318457,São José das Missões - RQ
+4318465,São José do Herval - SQ
+4318481,São José do Hortêncio - SD
+4318499,São José do Inhacorá - SE
+4318507,São José do Norte - AA
+4318606,São José do Ouro - SQ
+4318614,São José do Sul - CQ
+4318622,São José dos Ausentes - PL
+4318705,São Leopoldo - AA
+4318804,São Lourenço do Sul - RQ
+4318903,São Luiz Gonzaga - SQ
+4319000,São Marcos - SD
+4319109,São Martinho - RQ
+4319125,São Martinho da Serra - SQ
+4319158,São Miguel das Missões - AA
+4319208,São Nicolau - LS
+4319307,São Paulo das Missões - RQ
+4319356,São Pedro da Serra - LF
+4319364,São Pedro das Missões - SD
+4319372,São Pedro do Butiá - RQ
+4319406,São Pedro do Sul - LF
+4319505,São Sebastião do Caí - CQ
+4319604,São Sepé - CQ
+4319703,São Valentim - PL
+4319711,São Valentim do Sul - AA
+4319737,São Valério do Sul - LF
+4319752,São Vendelino - SD
+4319802,São Vicente do Sul - RQ
+4319901,Sapiranga - SQ
+4320008,Sapucaia do Sul - LS
+4320107,Sarandi - SE
+4320206,Seberi - CQ
+4320230,Sede Nova - SD
+4320263,Segredo - LS
+4320305,Selbach - SQ
+4320321,Senador Salgado Filho - SE
+4320354,Sentinela do Sul - SQ
+4320404,Serafina Corrêa - CQ
+4320453,Sério - LS
+4320503,Sertão - LF
+4320552,Sertão Santana - CQ
+4320578,Sete de Setembro - AA
+4320602,Severiano de Almeida - LS
+4320651,Silveira Martins - SD
+4320677,Sinimbu - AA
+4320701,Sobradinho - SQ
+4320800,Soledade - LF
+4320859,Tabaí - SE
+4320909,Tapejara - SE
+4321006,Tapera - PL
+4321105,Tapes - SE
+4321204,Taquara - AA
+4321303,Taquari - LS
+4321329,Taquaruçu do Sul - RQ
+4321352,Tavares - PL
+4321402,Tenente Portela - LS
+4321436,Terra de Areia - LS
+4321451,Teutônia - AA
+4321469,Tio Hugo - PL
+4321477,Tiradentes do Sul - SE
+4321493,Toropi - PL
+4321501,Torres - AA
+4321600,Tramandaí - RQ
+4321626,Travesseiro - LF
+4321634,Três Arroios - SD
+4321667,Três Cachoeiras - LS
+4321709,Três Coroas - PL
+4321808,Três de Maio - PL
+4321832,Três Forquilhas - CQ
+4321857,Três Palmeiras - RQ
+4321907,Três Passos - AA
+4321956,Trindade do Sul - SE
+4322004,Triunfo - SD
+4322103,Tucunduva - RQ
+4322152,Tunas - AA
+4322186,Tupanci do Sul - SE
+4322202,Tupanciretã - LF
+4322251,Tupandi - LS
+4322301,Tuparendi - SD
+4322327,Turuçu - SD
+4322343,Ubiretama - SD
+4322350,União da Serra - SQ
+4322376,Unistalda - SE
+4322400,Uruguaiana - SQ
+4322509,Vacaria - PL
+4322533,Vale do Sol - RQ
+4322541,Vale Real - LF
+4322525,Vale Verde - SQ
+4322558,Vanini - PL
+4322608,Venâncio Aires - PL
+4322707,Vera Cruz - RQ
+4322806,Veranópolis - LS
+4322855,Vespasiano Corrêa - LS
+4322905,Viadutos - AA
+4323002,Viamão - RQ
+4323101,Vicente Dutra - PL
+4323200,Victor Graeff - RQ
+4323309,Vila Flores - LF
+4323358,Vila Lângaro - CQ
+4323408,Vila Maria - AA
+4323457,Vila Nova do Sul - SQ
+4323507,Vista Alegre - SE
+4323606,Vista Alegre do Prata - AA
+4323705,Vista Gaúcha - RQ
+4323754,Vitória das Missões - AA
+4323770,Westfália - SQ
+4323804,Xangri-lá - RQ
+5000203,Água Clara - LS
+5000252,Alcinópolis - LF
+5000609,Amambai - SD
+5000708,Anastácio - SE
+5000807,Anaurilândia - RQ
+5000856,Angélica - RQ
+5000906,Antônio João - SE
+5001003,Aparecida do Taboado - RQ
+5001102,Aquidauana - RQ
+5001243,Aral Moreira - LS
+5001508,Bandeirantes - RQ
+5001904,Bataguassu - LS
+5002001,Batayporã - SD
+5002100,Bela Vista - AA
+5002159,Bodoquena - AA
+5002209,Bonito - SQ
+5002308,Brasilândia - LS
+5002407,Caarapó - LS
+5002605,Camapuã - AA
+5002704,Campo Grande - SQ
+5002803,Caracol - LF
+5002902,Cassilândia - PL
+5002951,Chapadão do Sul - AA
+5003108,Corguinho - SQ
+5003157,Coronel Sapucaia - CQ
+5003207,Corumbá - SD
+5003256,Costa Rica - SQ
+5003306,Coxim - AA
+5003454,Deodápolis - LS
+5003488,Dois Irmãos do Buriti - RQ
+5003504,Douradina - CQ
+5003702,Dourados - AA
+5003751,Eldorado - PL
+5003801,Fátima do Sul - CQ
+5003900,Figueirão - PL
+5004007,Glória de Dourados - LF
+5004106,Guia Lopes da Laguna - PL
+5004304,Iguatemi - AA
+5004403,Inocência - PL
+5004502,Itaporã - SQ
+5004601,Itaquiraí - CQ
+5004700,Ivinhema - LS
+5004809,Japorã - SE
+5004908,Jaraguari - SQ
+5005004,Jardim - SQ
+5005103,Jateí - SD
+5005152,Juti - PL
+5005202,Ladário - CQ
+5005251,Laguna Carapã - AA
+5005400,Maracaju - SD
+5005608,Miranda - LF
+5005681,Mundo Novo - SQ
+5005707,Naviraí - AA
+5005806,Nioaque - SQ
+5006002,Nova Alvorada do Sul - AA
+5006200,Nova Andradina - CQ
+5006259,Novo Horizonte do Sul - SE
+5006275,Paraíso das Águas - CQ
+5006309,Paranaíba - PL
+5006358,Paranhos - CQ
+5006408,Pedro Gomes - LF
+5006606,Ponta Porã - RQ
+5006903,Porto Murtinho - RQ
+5007109,Ribas do Rio Pardo - LF
+5007208,Rio Brilhante - RQ
+5007307,Rio Negro - LF
+5007406,Rio Verde de Mato Grosso - SQ
+5007505,Rochedo - SD
+5007554,Santa Rita do Pardo - LF
+5007695,São Gabriel do Oeste - RQ
+5007802,Selvíria - LS
+5007703,Sete Quedas - LS
+5007901,Sidrolândia - LF
+5007935,Sonora - SE
+5007950,Tacuru - SD
+5007976,Taquarussu - PL
+5008008,Terenos - RQ
+5008305,Três Lagoas - PL
+5008404,Vicentina - CQ
+5100102,Acorizal - SQ
+5100201,Água Boa - SE
+5100250,Alta Floresta - SQ
+5100300,Alto Araguaia - LF
+5100359,Alto Boa Vista - SE
+5100409,Alto Garças - AA
+5100508,Alto Paraguai - SE
+5100607,Alto Taquari - LF
+5100805,Apiacás - LF
+5101001,Araguaiana - SQ
+5101209,Araguainha - SD
+5101258,Araputanga - LS
+5101308,Arenápolis - SQ
+5101407,Aripuanã - SD
+5101605,Barão de Melgaço - PL
+5101704,Barra do Bugres - LS
+5101803,Barra do Garças - AA
+5101852,Bom Jesus do Araguaia - LS
+5101902,Brasnorte - SD
+5102504,Cáceres - LF
+5102603,Campinápolis - RQ
+5102637,Campo Novo do Parecis - SQ
+5102678,Campo Verde - SD
+5102686,Campos de Júlio - SQ
+5102694,Canabrava do Norte - SE
+5102702,Canarana - PL
+5102793,Carlinda - LF
+5102850,Castanheira - LS
+5103007,Chapada dos Guimarães - SQ
+5103056,Cláudia - SD
+5103106,Cocalinho - PL
+5103205,Colíder - LS
+5103254,Colniza - CQ
+5103304,Comodoro - SD
+5103353,Confresa - CQ
+5103361,Conquista D Oeste - AA
+5103379,Cotriguaçu - CQ
+5103403,Cuiabá - CQ
+5103437,Curvelândia - AA
+5103452,Denise - SD
+5103502,Diamantino - LF
+5103601,Dom Aquino - LF
+5103700,Feliz Natal - SD
+5103809,Figueirópolis D Oeste - AA
+5103858,Gaúcha do Norte - CQ
+5103908,General Carneiro - SD
+5103957,Glória D Oeste - SQ
+5104104,Guarantã do Norte - LF
+5104203,Guiratinga - RQ
+5104500,Indiavaí - RQ
+5104526,Ipiranga do Norte - PL
+5104542,Itanhangá - PL
+5104559,Itaúba - LF
+5104609,Itiquira - CQ
+5104807,Jaciara - SE
+5104906,Jangada - LS
+5105002,Jauru - LS
+5105101,Juara - PL
+5105150,Juína - CQ
+5105176,Juruena - LF
+5105200,Juscimeira - LF
+5105234,Lambari D Oeste - PL
+5105259,Lucas do Rio Verde - PL
+5105309,Luciara - LS
+5105580,Marcelândia - SE
+5105606,Matupá - SQ
+5105622,Mirassol d Oeste - SD
+5105903,Nobres - SD
+5106000,Nortelândia - CQ
+5106109,Nossa Senhora do Livramento - SQ
+5106158,Nova Bandeirantes - CQ
+5106208,Nova Brasilândia - SE
+5106216,Nova Canaã do Norte - SQ
+5108808,Nova Guarita - PL
+5106182,Nova Lacerda - SE
+5108857,Nova Marilândia - LF
+5108907,Nova Maringá - AA
+5108956,Nova Monte Verde - RQ
+5106224,Nova Mutum - CQ
+5106174,Nova Nazaré - LS
+5106232,Nova Olímpia - SQ
+5106190,Nova Santa Helena - SE
+5106240,Nova Ubiratã - PL
+5106257,Nova Xavantina - AA
+5106273,Novo Horizonte do Norte - SE
+5106265,Novo Mundo - SQ
+5106315,Novo Santo Antônio - SE
+5106281,Novo São Joaquim - SQ
+5106299,Paranaíta - AA
+5106307,Paranatinga - SQ
+5106372,Pedra Preta - LS
+5106422,Peixoto de Azevedo - SD
+5106455,Planalto da Serra - PL
+5106505,Poconé - LS
+5106653,Pontal do Araguaia - SQ
+5106703,Ponte Branca - LS
+5106752,Pontes e Lacerda - RQ
+5106778,Porto Alegre do Norte - AA
+5106802,Porto dos Gaúchos - SQ
+5106828,Porto Esperidião - SE
+5106851,Porto Estrela - CQ
+5107008,Poxoréu - LF
+5107040,Primavera do Leste - AA
+5107065,Querência - CQ
+5107156,Reserva do Cabaçal - PL
+5107180,Ribeirão Cascalheira - LF
+5107198,Ribeirãozinho - PL
+5107206,Rio Branco - PL
+5107578,Rondolândia - RQ
+5107602,Rondonópolis - SD
+5107701,Rosário Oeste - SQ
+5107750,Salto do Céu - CQ
+5107248,Santa Carmem - PL
+5107743,Santa Cruz do Xingu - SQ
+5107768,Santa Rita do Trivelato - LS
+5107776,Santa Terezinha - SD
+5107263,Santo Afonso - RQ
+5107792,Santo Antônio do Leste - PL
+5107800,Santo Antônio do Leverger - RQ
+5107859,São Félix do Araguaia - SQ
+5107297,São José do Povo - CQ
+5107305,São José do Rio Claro - SD
+5107354,São José do Xingu - LF
+5107107,São José dos Quatro Marcos - PL
+5107404,São Pedro da Cipa - RQ
+5107875,Sapezal - AA
+5107883,Serra Nova Dourada - SD
+5107909,Sinop - RQ
+5107925,Sorriso - SQ
+5107941,Tabaporã - SD
+5107958,Tangará da Serra - LF
+5108006,Tapurah - SD
+5108055,Terra Nova do Norte - SE
+5108105,Tesouro - LS
+5108204,Torixoréu - PL
+5108303,União do Sul - SE
+5108352,Vale de São Domingos - CQ
+5108402,Várzea Grande - SE
+5108501,Vera - SE
+5105507,Vila Bela da Santíssima Trindade - AA
+5108600,Vila Rica - AA
+5200050,Abadia de Goiás - LF
+5200100,Abadiânia - CQ
+5200134,Acreúna - AA
+5200159,Adelândia - CQ
+5200175,Água Fria de Goiás - SE
+5200209,Água Limpa - PL
+5200258,Águas Lindas de Goiás - SD
+5200308,Alexânia - SQ
+5200506,Aloândia - PL
+5200555,Alto Horizonte - AA
+5200605,Alto Paraíso de Goiás - AA
+5200803,Alvorada do Norte - SQ
+5200829,Amaralina - RQ
+5200852,Americano do Brasil - LS
+5200902,Amorinópolis - LF
+5201108,Anápolis - SQ
+5201207,Anhanguera - RQ
+5201306,Anicuns - SQ
+5201405,Aparecida de Goiânia - LF
+5201454,Aparecida do Rio Doce - LS
+5201504,Aporé - SE
+5201603,Araçu - RQ
+5201702,Aragarças - CQ
+5201801,Aragoiânia - AA
+5202155,Araguapaz - SE
+5202353,Arenópolis - SE
+5202502,Aruanã - CQ
+5202601,Aurilândia - LS
+5202809,Avelinópolis - SQ
+5203104,Baliza - SD
+5203203,Barro Alto - SD
+5203302,Bela Vista de Goiás - LS
+5203401,Bom Jardim de Goiás - LS
+5203500,Bom Jesus de Goiás - LS
+5203559,Bonfinópolis - PL
+5203575,Bonópolis - SQ
+5203609,Brazabrantes - SD
+5203807,Britânia - LS
+5203906,Buriti Alegre - AA
+5203939,Buriti de Goiás - LS
+5203962,Buritinópolis - LF
+5204003,Cabeceiras - LF
+5204102,Cachoeira Alta - RQ
+5204201,Cachoeira de Goiás - LF
+5204250,Cachoeira Dourada - CQ
+5204300,Caçu - CQ
+5204409,Caiapônia - AA
+5204508,Caldas Novas - SD
+5204557,Caldazinha - LF
+5204607,Campestre de Goiás - LF
+5204656,Campinaçu - SQ
+5204706,Campinorte - LS
+5204805,Campo Alegre de Goiás - LF
+5204854,Campo Limpo de Goiás - AA
+5204904,Campos Belos - SQ
+5204953,Campos Verdes - SQ
+5205000,Carmo do Rio Verde - SE
+5205059,Castelândia - RQ
+5205109,Catalão - SQ
+5205208,Caturaí - SD
+5205307,Cavalcante - LF
+5205406,Ceres - LS
+5205455,Cezarina - PL
+5205471,Chapadão do Céu - LF
+5205497,Cidade Ocidental - SQ
+5205513,Cocalzinho de Goiás - LF
+5205521,Colinas do Sul - RQ
+5205703,Córrego do Ouro - CQ
+5205802,Corumbá de Goiás - LF
+5205901,Corumbaíba - AA
+5206206,Cristalina - CQ
+5206305,Cristianópolis - LF
+5206404,Crixás - PL
+5206503,Cromínia - PL
+5206602,Cumari - SQ
+5206701,Damianópolis - RQ
+5206800,Damolândia - LS
+5206909,Davinópolis - SE
+5207105,Diorama - PL
+5208301,Divinópolis de Goiás - PL
+5207253,Doverlândia - SD
+5207352,Edealina - RQ
+5207402,Edéia - PL
+5207501,Estrela do Norte - CQ
+5207535,Faina - SD
+5207600,Fazenda Nova - CQ
+5207808,Firminópolis - SD
+5207907,Flores de Goiás - LF
+5208004,Formosa - SQ
+5208103,Formoso - AA
+5208152,Gameleira de Goiás - CQ
+5208400,Goianápolis - SE
+5208509,Goiandira - SD
+5208608,Goianésia - PL
+5208707,Goiânia - LF
+5208806,Goianira - LS
+5208905,Goiás - SQ
+5209101,Goiatuba - AA
+5209150,Gouvelândia - SE
+5209200,Guapó - CQ
+5209291,Guaraíta - SE
+5209408,Guarani de Goiás - PL
+5209457,Guarinos - SD
+5209606,Heitoraí - RQ
+5209705,Hidrolândia - SQ
+5209804,Hidrolina - SE
+5209903,Iaciara - LF
+5209937,Inaciolândia - SE
+5209952,Indiara - LS
+5210000,Inhumas - RQ
+5210109,Ipameri - SQ
+5210158,Ipiranga de Goiás - SE
+5210208,Iporá - SE
+5210307,Israelândia - SE
+5210406,Itaberaí - SQ
+5210562,Itaguari - SQ
+5210604,Itaguaru - AA
+5210802,Itajá - SQ
+5210901,Itapaci - RQ
+5211008,Itapirapuã - PL
+5211206,Itapuranga - SE
+5211305,Itarumã - SD
+5211404,Itauçu - SE
+5211503,Itumbiara - RQ
+5211602,Ivolândia - AA
+5211701,Jandaia - RQ
+5211800,Jaraguá - SQ
+5211909,Jataí - PL
+5212006,Jaupaci - CQ
+5212055,Jesúpolis - SQ
+5212105,Joviânia - CQ
+5212204,Jussara - PL
+5212253,Lagoa Santa - AA
+5212303,Leopoldo de Bulhões - CQ
+5212501,Luziânia - SQ
+5212600,Mairipotaba - RQ
+5212709,Mambaí - RQ
+5212808,Mara Rosa - LF
+5212907,Marzagão - CQ
+5212956,Matrinchã - LF
+5213004,Maurilândia - PL
+5213053,Mimoso de Goiás - AA
+5213087,Minaçu - LF
+5213103,Mineiros - SQ
+5213400,Moiporá - PL
+5213509,Monte Alegre de Goiás - LS
+5213707,Montes Claros de Goiás - CQ
+5213756,Montividiu - SD
+5213772,Montividiu do Norte - PL
+5213806,Morrinhos - AA
+5213855,Morro Agudo de Goiás - SD
+5213905,Mossâmedes - LS
+5214002,Mozarlândia - SQ
+5214051,Mundo Novo - PL
+5214101,Mutunópolis - RQ
+5214408,Nazário - SQ
+5214507,Nerópolis - SD
+5214606,Niquelândia - PL
+5214705,Nova América - SQ
+5214804,Nova Aurora - LS
+5214838,Nova Crixás - PL
+5214861,Nova Glória - SE
+5214879,Nova Iguaçu de Goiás - CQ
+5214903,Nova Roma - CQ
+5215009,Nova Veneza - PL
+5215207,Novo Brasil - SQ
+5215231,Novo Gama - LS
+5215256,Novo Planalto - SE
+5215306,Orizona - SQ
+5215405,Ouro Verde de Goiás - PL
+5215504,Ouvidor - RQ
+5215603,Padre Bernardo - LF
+5215652,Palestina de Goiás - AA
+5215702,Palmeiras de Goiás - LF
+5215801,Palmelo - SQ
+5215900,Palminópolis - SE
+5216007,Panamá - LF
+5216304,Paranaiguara - SD
+5216403,Paraúna - LF
+5216452,Perolândia - LS
+5216809,Petrolina de Goiás - SD
+5216908,Pilar de Goiás - SE
+5217104,Piracanjuba - RQ
+5217203,Piranhas - LS
+5217302,Pirenópolis - LF
+5217401,Pires do Rio - LS
+5217609,Planaltina - SE
+5217708,Pontalina - CQ
+5218003,Porangatu - LS
+5218052,Porteirão - AA
+5218102,Portelândia - SE
+5218300,Posse - SE
+5218391,Professor Jamil - CQ
+5218508,Quirinópolis - LS
+5218607,Rialma - RQ
+5218706,Rianápolis - LF
+5218789,Rio Quente - AA
+5218805,Rio Verde - RQ
+5218904,Rubiataba - LF
+5219001,Sanclerlândia - SQ
+5219100,Santa Bárbara de Goiás - LS
+5219209,Santa Cruz de Goiás - SQ
+5219258,Santa Fé de Goiás - CQ
+5219308,Santa Helena de Goiás - SD
+5219357,Santa Isabel - LF
+5219407,Santa Rita do Araguaia - CQ
+5219456,Santa Rita do Novo Destino - RQ
+5219506,Santa Rosa de Goiás - SD
+5219605,Santa Tereza de Goiás - PL
+5219704,Santa Terezinha de Goiás - SD
+5219712,Santo Antônio da Barra - RQ
+5219738,Santo Antônio de Goiás - RQ
+5219753,Santo Antônio do Descoberto - AA
+5219803,São Domingos - AA
+5219902,São Francisco de Goiás - SQ
+5220058,São João da Paraúna - LF
+5220009,São João d Aliança - SE
+5220108,São Luís de Montes Belos - AA
+5220157,São Luiz do Norte - CQ
+5220207,São Miguel do Araguaia - SE
+5220264,São Miguel do Passa Quatro - RQ
+5220280,São Patrício - SQ
+5220405,São Simão - LF
+5220454,Senador Canedo - SQ
+5220504,Serranópolis - SD
+5220603,Silvânia - LF
+5220686,Simolândia - CQ
+5220702,Sítio d Abadia - LS
+5221007,Taquaral de Goiás - PL
+5221080,Teresina de Goiás - CQ
+5221197,Terezópolis de Goiás - SD
+5221304,Três Ranchos - LS
+5221403,Trindade - LS
+5221452,Trombas - RQ
+5221502,Turvânia - SQ
+5221551,Turvelândia - RQ
+5221577,Uirapuru - LF
+5221601,Uruaçu - AA
+5221700,Uruana - SQ
+5221809,Urutaí - RQ
+5221858,Valparaíso de Goiás - LS
+5221908,Varjão - PL
+5222005,Vianópolis - SQ
+5222054,Vicentinópolis - SQ
+5222203,Vila Boa - LS
+5222302,Vila Propício - CQ
+5300108,Brasília - SE
